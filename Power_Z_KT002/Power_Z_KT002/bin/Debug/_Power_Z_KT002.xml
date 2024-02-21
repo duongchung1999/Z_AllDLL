@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>_Power_Z_KT002</name>
+    </assembly>
+    <members>
+        <member name="F:Common.Box.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Common.Box.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Common.Box.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetCurrent(System.String)">
+            <summary isPublicTestItem="true">
+            读取电流 GetCurrent
+            </summary>
+            <param name="type" options="5,0.5,0.0005" >档位</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetVoltage">
+            <summary isPublicTestItem="true">
+            读取电压 GetVoltage
+            </summary>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetPower">
+            <summary isPublicTestItem="true">
+            读取功率 GetPower
+            </summary>
+            <returns>浮点数或报错信息</returns>
+        </member>
+    </members>
+</doc>

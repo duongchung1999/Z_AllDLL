@@ -1,0 +1,2 @@
+Bose：http://10.175.5.101:9111/Service1.asmx
+Kingston：http://10.175.5.55:8008/Service1.asmx

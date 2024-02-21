@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanOpticSens", "HanOpticSens.csproj", "{91A508F5-7A4A-43AB-8FC6-41B7548B8259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBBXYZ", "..\LBBXYZ\LBBXYZ.csproj", "{511C7EF7-595E-4107-A978-07CE99913C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debug", "..\Debug\Debug.csproj", "{2887F1A7-4D1C-4F01-9ADD-0A325BFA443A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A508F5-7A4A-43AB-8FC6-41B7548B8259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A508F5-7A4A-43AB-8FC6-41B7548B8259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A508F5-7A4A-43AB-8FC6-41B7548B8259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A508F5-7A4A-43AB-8FC6-41B7548B8259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511C7EF7-595E-4107-A978-07CE99913C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511C7EF7-595E-4107-A978-07CE99913C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511C7EF7-595E-4107-A978-07CE99913C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511C7EF7-595E-4107-A978-07CE99913C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2887F1A7-4D1C-4F01-9ADD-0A325BFA443A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2887F1A7-4D1C-4F01-9ADD-0A325BFA443A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2887F1A7-4D1C-4F01-9ADD-0A325BFA443A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2887F1A7-4D1C-4F01-9ADD-0A325BFA443A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A38D09-1CD7-4D0E-9C5B-3CF7DB57CDB0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DM5D_V1</name>
+    </assembly>
+    <members>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="DM5D_V1">
+            电流表 DM5D/6D
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadDM5D(System.String,System.String,System.Int32,System.String)">
+            <summary isPublicTestItem="false"> 
+            读取DM5D
+            </summary>
+            <param name="NamePort">单板设串口如“COM1” 连扳设字段“DM5DPort” </param>
+            <param name="id">物理id 默认是 1</param>
+            <param name="Count">读取次数 取平均值</param>
+            <param name="units" options="default,*1000,/1000">值转换 选“default”值不变</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Opention_ReadDM5D(System.String,System.String,System.Int32,System.String,System.Int32)">
+            <summary isPublicTestItem="true"> 
+            读取DM5D
+            </summary>
+            <param name="NamePort">单板设串口如“COM1” 连扳设字段“DM5DPort” </param>
+            <param name="id">物理id 默认是 1</param>
+            <param name="Count">读取次数 取平均值</param>
+            <param name="units" options="default,*1000,/1000">值转换 选“default”值不变</param>
+            <param name="Rount">读保留几位小数 常规输入“2”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+    </members>
+</doc>

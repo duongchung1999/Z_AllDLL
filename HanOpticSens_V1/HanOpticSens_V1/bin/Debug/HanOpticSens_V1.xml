@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HanOpticSens_V1</name>
+    </assembly>
+    <members>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="HanOpticSens_V1">
+            涵测光电
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.r_doWave(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            常规 读取主波长  doWave
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.r_lux(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            常规 读可见光照度  r_lux
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.cd_mm(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            常规 读亮度 等于r_lux 指令 该指令适合非光纤类产品 cd_mm
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ColorCoordinateX(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            常规 读取色坐标 X r_xy
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ColorCoordinateY(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            常规 读取色坐标 Y r_xy
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SwictTargetWhite(System.String)">
+            <summary isPublicTestItem="true">
+            高级 白平衡模式 比较适合白光 切换测试模式 
+            </summary>
+            <param name="Port">串口号</param>
+            <returns>True or False</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SwictTargetWhiteCCT(System.String)">
+            <summary isPublicTestItem="true">
+            高级 白色照明LED 色温CCT 区间(2000K-20000k)之间最准确 切换测试模式 
+            </summary>
+            <param name="Port">串口号</param>
+            <returns>True or False</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SwictTargetSingleOYC(System.String)">
+            <summary isPublicTestItem="true">
+            高级 单芯灯珠发 混色 橙(600nm 左右) 黄(570nm 左右) 青(500nm 左右) 切换测试模式 
+            </summary>
+            <param name="Port">串口号</param>
+            <returns>True or False</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SwictTargetSingleRGB(System.String)">
+            <summary isPublicTestItem="true">
+            高级 RGB 单色灯 红(630nm 左右) 绿(525nm 左右) 蓝(470nm 左右) 切换测试模式 
+            </summary>
+            <param name="Port">串口号</param>
+            <returns>True or False</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SwictTargetSingleR(System.String)">
+            <summary isPublicTestItem="true">
+            高级 Red 单红色灯 主波长在(600-690nm) 切换测试模式
+            </summary>
+            <param name="Port">串口号</param>
+            <returns>True or False</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.r_chromaLux(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            高级 读可见光照度 Lux 
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.r_chromaX(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            高级 读色坐标 X 
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.r_chromaY(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            高级 读色坐标 Y
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.r_chromaDowave(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            高级 读主波长 dowave
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.r_chromaDuty(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            高级 读主波长率
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.r_chromaCCT(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            高级 色温 CCT
+            </summary>
+            <param name="Port">串口号</param>
+            <param name="Channel">仪器的通道</param>
+            <returns>double</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.r_chroma_cd_mm(System.String,System.Int32,System.Double)">
+            <summary>
+            高级 亮度值 cd_mm (坎德拉/平方米)
+            </summary>
+            <param name="Port">串口</param>
+            <param name="Channel">通道</param>
+            <param name="Coefficient">*的比率</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+    </members>
+</doc>

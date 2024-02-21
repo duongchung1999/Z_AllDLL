@@ -1,0 +1,6 @@
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\bin\Release\QCCRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\bin\Release\QCCRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\obj\Release\QCCRF.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\obj\Release\QCCRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\obj\Release\QCCRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\obj\Release\QCCRF.csproj.AssemblyReference.cache

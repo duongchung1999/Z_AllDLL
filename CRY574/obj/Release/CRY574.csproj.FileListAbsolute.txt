@@ -1,0 +1,5 @@
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CRY574\obj\Release\CRY574.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CRY574\bin\Release\CRY574.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CRY574\bin\Release\CRY574.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CRY574\obj\Release\CRY574.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CRY574\obj\Release\CRY574.pdb

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BT2200</name>
+    </assembly>
+    <members>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="BT2200">
+            BT2200 蓝牙适配器
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Connect(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            建立连接 标准品默认盲连
+            </summary>
+            <param name="ManualFlag" options="True,False">True 为指定连接地址在Config["BitAddress"] 或 False 盲连</param>
+            <param name="Count">配对次数 每次大约10秒 建议2次</param>
+            <returns>配对成功的BD号</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ConnectSPP">
+            <summary isPublicTestItem="true">
+            在连接基础上再连接SPP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.A2DP">
+            <summary isPublicTestItem="true">
+            进入 A2DP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HFP">
+            <summary isPublicTestItem="true">
+            进入HFP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPPSendCMD(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            在SPP连接基础上下指令
+            </summary>
+            <param name="CMD">指令 16进制 例如 3E D5 01 01 03</param>
+            <param name="ContainsValue">检查指令返回值 例如 E3 D5</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SendBT2200CMD(System.String)">
+            <summary isPublicTestItem="true">
+            对BT2200下指令 
+            </summary>
+            <param name="CMD">指令 例如 >OPEN A2DP</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Disconnect">
+            <summary isPublicTestItem="true">
+            断开连接 重置仪器 释放缓存 生成Log
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenComPort">
+            <summary isPublicTestItem="false">
+            单单打开串口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ColseComPort">
+            <summary isPublicTestItem="true">
+            单单关闭串口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+    </members>
+</doc>

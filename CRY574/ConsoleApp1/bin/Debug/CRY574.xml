@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CRY574</name>
+    </assembly>
+    <members>
+        <member name="T:MerryTest.testitem.Command">
+            <summary>
+            指令帮助类
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.Command.ReturnValue">
+            <summary>
+            存储回传值
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.Command.ALLReturnValue">
+            <summary>
+            存储全部回传值
+            </summary>
+        </member>
+        <member name="M:MerryTest.testitem.Command.WriteSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用write下下指令
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">句柄</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.GetReportSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用getreport下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.SetReportSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用setReport下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.SetFeatureSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用SetFeature下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.WriteReturn(System.String,System.Int32,System.String,System.String,System.String,System.IntPtr)">
+            <summary>
+            使用write下下指令并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="Indexes">指令返回值索引</param>
+            <param name="handle">句柄通道地址</param>
+            <param name="intPtr">句柄通道指针</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.SetReportReturn(System.String,System.Int32,System.String,System.String,System.String,System.IntPtr)">
+            <summary>
+            使用setReport下下指令并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="Indexes">指令返回值索引</param>
+            <param name="handle">句柄通道地址</param>
+            <param name="intPtr">句柄通道指针</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.GetFeatureReturn(System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用GetFeature下下指令對外方法并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令長度</param>
+            <param name="intPtr">通道</param>
+            <param name="indexes">返回下標值</param>
+            <returns>返回读取的值</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.GetReportReturn(System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用getReport下指令并且存储回传值到 ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令長度</param>
+            <param name="intPtr">通道</param>
+            <param name="indexes">返回下標值</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.IsReturnValue(System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            直接获取指定句柄回传值
+            </summary>
+            <param name="handle">句柄地址</param>
+            <param name="length">句柄流数组长度</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.BaseConversion.GetintArray(System.String)">
+            <summary>
+            将字符串转int数组
+            </summary>
+            <param name="ar"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.BaseConversion.GetByteArray(System.String,System.Int32)">
+            <summary>
+            將16進制字符串轉換為16进制byte數組并且根据数组长度自动补0
+            </summary>
+            <param name="shex">要转换的16进制字符串</param>
+            <param name="lenght">要转换的Byte数组长度</param>
+            <returns>转换后的Byte数组，自动补0</returns>
+        </member>
+        <member name="M:MerryTest.testitem.BaseConversion.GetString(System.Byte[])">
+            <summary>
+            Byte数组转16进制字符串
+            </summary>
+            <param name="bytes">Byte数组</param>
+            <returns>16进制字符串</returns>
+        </member>
+        <member name="M:MerryTest.testitem.BaseConversion.GetString(System.Byte[],System.String)">
+            <summary>
+            Byte数组取指定索引值转16进制字符串 
+            </summary>
+            <param name="bytes">Byte数组</param>
+            <param name="index">Byte数组索引数组</param>
+            <returns>16进制字符串</returns>
+        </member>
+        <member name="T:MerryTest.testitem.GetHandle">
+            <summary>
+            获取句柄类
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.GetHandle.headsethandle">
+            <summary>
+            Headset句柄对象数组
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.GetHandle.donglehandle">
+            <summary>
+            Dongle句柄对象数组
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.GetHandle.headsetpath">
+            <summary>
+            Headset句柄地址
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.GetHandle.donglepath">
+            <summary>
+            Dongle句柄地址
+            </summary>
+        </member>
+        <member name="M:MerryTest.testitem.GetHandle.gethandle(System.String,System.String,System.String,System.String)">
+            <summary>
+            抓取句柄 donglePIDVID不能为NULL
+            </summary>
+            <param name="headsetPID">headsetPID</param>
+            <param name="headsetVID">headsetVID</param>
+            <param name="donglePID">donglePID</param>
+            <param name="dongleVID">dongleVID</param>
+            <returns>抓取是否成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.GetHandle.CloseHandle">
+            <summary>
+            释放句柄
+            </summary>
+        </member>
+        <member name="T:MerryTest.testitem.MessageBoxs">
+            <summary>
+            弹窗
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.MessageBoxs.names">
+            <summary>
+            窗体名
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.MessageBoxs.message">
+            <summary>
+            窗体信息
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.MessageBoxs.length">
+            <summary>
+            窗体条码框长度
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.MessageBoxs.barcode">
+            <summary>
+            条码框输入值
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.MessageBoxs.color">
+            <summary>
+            窗体颜色
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.MessageBoxs.SN">
+            <summary>
+            不良SN
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.MessageBoxs.uploadmes">
+            <summary>
+            是否Y,N检测按键
+            </summary>
+        </member>
+        <member name="M:MerryTest.testitem.MessageBoxs.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.MessageBoxs.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryTest.testitem.MessageBoxs.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryTest.testitem.MessageBoxs.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="CRY574">
+            CRY574 蓝牙适配器
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 分割线 HID区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Connect(System.Boolean,System.Int32)">
+            <summary isPublicTestItem="false">
+            HID 建立连接 标准品默认盲连
+            </summary>
+            <param name="ManualFlag" options="True,False">True 为指定连接地址在Config["BitAddress"] 或 False 盲连</param>
+            <param name="TimeOut">配对超时 /S  常规“13”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.EnterA2DP">
+            <summary isPublicTestItem="false">
+            HID 进入A2DP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.EnterHFP">
+            <summary isPublicTestItem="false">
+            HID 进入HFP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Disconnect">
+            <summary isPublicTestItem="false">
+            HID 断开连接
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._Cut_OffRule">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 分割线 首选串口区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ComPortConnect(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            串口 CRT574 蓝牙配对
+            </summary>
+            <param name="ManualFlag" options="True,False,TE_Box">True 为指定连接地址在Config["BitAddress"] 或 False 盲连</param>
+            <param name="ComPortName">CRY574的虚拟串口 常规 “COM201”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ComPortEnterA2DP">
+            <summary isPublicTestItem="true">
+            串口 进入A2DP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ComPortEnterHFP">
+            <summary isPublicTestItem="true">
+            串口 进入HFP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ComPortGetBattery">
+            <summary isPublicTestItem="true">
+            串口 获取耳机电量
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ComPortDisconnect">
+            <summary isPublicTestItem="true">
+            串口 断开连接
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+    </members>
+</doc>

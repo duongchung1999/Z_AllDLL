@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SoundCheck_V1</name>
+    </assembly>
+    <members>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="T:MerryDllFramework.WindowControl">
+            <summary>
+            控制窗体类
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.WindowControl.GetWindowName(System.String,System.Boolean,System.String@)">
+            <summary>
+            获取窗体名
+            </summary>
+            <param name="WinName"></param>
+            <param name="IsFullName"></param>
+            <param name="NameFound"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.WindowControl.SendKeyToWindow(System.String,System.String,System.Int32)">
+            <summary>
+            选中窗体并按键
+            </summary>
+            <param name="WinName"></param>
+            <param name="fullName"></param>
+            <param name="sKey"></param>
+            <param name="TimeOut"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.WindowControl.SendKeyToWindow(System.String,System.Boolean,System.String,System.String@)">
+            <summary>
+            选中窗体并按键
+            </summary>
+            <param name="WinName"></param>
+            <param name="fullName"></param>
+            <param name="sKey"></param>
+            <param name="error"></param>
+            <returns></returns>
+        </member>
+        <member name="F:MerryDllFramework.scForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.scForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryDllFramework.scForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="SoundCheck_V1">
+            SoundCheck 控制类
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._Cut_OffRule">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 常规使用 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StartTest(System.Int32)">
+            <summary isPublicTestItem="false">
+            1、Sound Check 开始测试内包含（启动,建立连接，运行Sqc）
+            </summary>
+            <param name="Sleep">开始测试前延时 常规 “100” </param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StartTestB(System.Int32,System.Boolean)">
+            <summary isPublicTestItem="true">
+            1、Sound Check 开始测试内包含（启动,建立连接，运行Sqc）
+            </summary>
+            <param name="Sleep">开始测试前延时 常规 “100” </param>
+            <param name="RunSequenceFlag" options="False,True"> 是否运行SQC文件</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetStepResult(System.String)">
+            <summary isPublicTestItem="true">
+            2、获取指定项目的测试结果 
+            </summary>
+            <param name="SetpName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetFinalResults">
+            <summary isPublicTestItem="true">
+            3、获取最终的测试结果
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ANC 测试特调区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenSoundCheck">
+            <summary isPublicTestItem="false">
+            1、打开Sound Check 程序 已经打开后不会重复打开
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ConnectSoundCheck">
+            <summary isPublicTestItem="false">
+            2、与 Sound Check 建立连接
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.RunSequence">
+            <summary isPublicTestItem="false">
+            3 .A、执行Sqc文件、程序第一次启动或第一次启动Sound Check执行
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.EveryRunSequence(System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="false">
+             3 .B、每次执行Sqc文件
+            </summary>
+            <param name="Path">绝对路径、 相对路径填入快捷方式名称、 将快捷方式存放在TestItem\机型\SQC文件夹下</param>
+            <param name="PathType" options="Absolute,Relative">绝对路径：Absolute 相对路径：Relative</param>
+            <param name="Sleep">运行Sqc后的延时 1000</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StartTestC(System.Int32)">
+            <summary isPublicTestItem="true">
+            ANC用：Sound Check 开始测试内包含（启动，建立连接，运行Sqc，清除txt数据）
+            </summary>
+            <param name="Sleep">开始测试前延时 常规 “100” </param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ANCAdjust(System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="false">
+            ANC 根据曲线上下限校准校准
+            </summary>
+            <param name="FuncName">Config字典上的委托名称</param>
+            <param name="UpLimitName_L">SC 左项目上限名称</param>
+            <param name="LowLimitName_L">SC 左项目下限名称</param>
+            <param name="UpLimitName_R">SC 右项目上限名称</param>
+            <param name="LowLimitName_R">SC 右项目下限名称</param>
+            <param name="Sleep">测试前延时 方便等待指令生效时间 建议 300</param>
+            <param name="TrimCount">校准次数  没想法写 10</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ANCAdjust_BySensitivity(System.String,System.String,System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="false">
+            ANC 获取感度校准
+            </summary>
+            <param name="FuncName">Config字典上的委托名称</param>
+            <param name="ResultName_L">SC 左 感度结果名称 </param>
+            <param name="ResultName_R">SC 右 感度结果名称 </param>
+            <param name="Sleep">测试前延时 方便等待指令生效时间 建议 300</param>
+            <param name="TrimCount">校准次数  没想法写 10</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ANCAdjust_ByCurves(System.String,System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="false">
+            ANC 根据曲线校准旧版
+            </summary>
+            <param name="FuncName">Config字典上的委托名称</param>
+            <param name="FilePath">txt曲线数据完整路径</param>
+            <param name="Sleep">测试前延时 方便等待指令生效时间 建议 300</param>
+            <param name="TrimCount">校准次数  没想法写 3</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AllCurveInfomationIsUploadedToMysql">
+            <summary isPublicTestItem="false">
+            保存所有曲线上传到数据库
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Adjust_ANC_ByCurves(System.String,System.String,System.String)">
+            <summary isPublicTestItem="false">
+            ANC 根据曲线数据进行校准
+            </summary>
+            <param name="FuncName">Func 执行体 赋值给Config字典名</param>
+            <param name="_FilePath">测试数据 txt 名</param>
+            <param name="FormsName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SearchFromsOrFile(System.String,System.Boolean,System.String,System.Int32,System.Boolean@,System.Boolean@)">
+            <summary isPublicTestItem="true">
+            识别弹框  识别到Final Test Result.txt 就Fail 
+            </summary>
+            <param name="FormsName">窗体名称</param>
+            <param name="isbutton" options="True,False">是否点击弹窗</param>
+            <param name="Key">按键</param>
+            <param name="TimeOut">超时 千分一秒</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Calibration_Sensitivity(System.String,System.Double,System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+             通用机型开发校准方法
+            </summary>
+            <param name="FuncName">Func 执行体 赋值给Config字典名</param>
+            <param name="Frequency">频率</param>
+            <param name="CurvesName">曲线的名称</param>
+            <param name="Uplimit">上限的名称</param>
+            <param name="LowLimit">下限的名称</param>
+            <param name="TestCount">校准次数 要跟SC 对应</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.__Cut_OffRule">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 辅组方法区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SendKeyToWindow(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            搜索窗体 模拟点击按键
+            </summary>
+            <param name="FormsName">窗体名称</param>
+            <param name="Key">按键 比如 F2</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SearchFormsName(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            搜索窗体
+            </summary>
+            <param name="FormsName">窗体名称</param>
+            <param name="Time">搜索时间  毫秒</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ExistsFileOrForms(System.String,System.Boolean,System.String,System.Int32,System.Boolean@,System.Boolean@)">
+            <summary isPublicTestItem="false">
+              识别或点击弹窗  识别到TEST-END.txt 就Fail 
+            </summary>
+            <param name="FormsName">窗体名称</param>
+            <param name="isbutton" options="True,False">是否点击弹窗</param>
+            <param name="Key">按键</param>
+            <param name="TimeOut">超时 千分一秒</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ExistsFile(System.String,System.Int32)">
+            <summary isPublicTestItem="false">
+            搜索Sequence目录下 指定文件
+            </summary>
+            <param name="FileName">文件名</param>
+            <param name="TimeOut">超时 毫秒</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DeleteAllTxt(System.String)">
+            <summary isPublicTestItem="true">
+            清除所有txt文件
+            </summary>
+            <param name="FilePath">输入指定路径清除 或 使用Sqc路径 输入“default”</param>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SaveLog">
+            <summary isPublicTestItem="true">
+            生成Sound Tcp指令日记
+            </summary>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Calibration_ANC_ByCurves(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary isPublicTestItem="false">
+             被洛达芯片方法调用 第一次使用的方法
+            </summary>
+            <param name="FuncName">Func 执行体 赋值给Config字典名</param>
+            <param name="PassFileName">Pass文件名</param>
+            <param name="CurvesDataFileName">曲线数据文件名</param>
+            <param name="FormsName">判断窗体名</param>
+            <param name="ShowCalibration" options="False,True">显示校准算法</param>
+            <param name="FinalTestResult">测试结束</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Calibration_ANC_ByCurves_2(System.String,System.String,System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="false">
+             被洛达芯片方法调用 第二次使用的方法
+            </summary>
+            <param name="FuncName">Func 执行体 赋值给Config字典名</param>
+            <param name="PassFileName">Pass文件名</param>
+            <param name="CurvesDataFileName">曲线数据文件名</param>
+            <param name="FormsName">判断窗体名</param>
+            <param name="TestCount">校准次数</param>
+            <param name="FinalTestResult">测试结束</param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.MySqlTestData.IsOpen">
+            <summary>
+            判断数据库是否连接成功
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.MySqlTestData.GetDataList(System.String)">
+            <summary>
+            查询多条数据--数组集合
+            </summary>
+            <returns>返回字符串数组集合结果</returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.MySqlTestData.ExecuteSql(System.String,System.String)">
+            <summary>
+            增删改
+            </summary>
+            <returns>返回执行是否成功</returns>
+        </member>
+        <member name="F:SoundCheck_V1.API.SoundCheck.FirstRunSequence">
+            <summary>
+            表示程序第一次启动或者第一次启动sound check 才会执行Sqc
+            </summary>
+        </member>
+        <member name="M:SoundCheck_V1.API.SoundCheck.GetAllNames(System.String[]@)">
+            <summary>
+            获取所有曲线的名称
+            </summary>
+            <param name="Names"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.SoundCheck.GetAllCurves(System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.Dictionary{System.String,System.Object}}@)">
+            <summary>
+            获取所有的曲线
+            </summary>
+            <param name="tokens"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

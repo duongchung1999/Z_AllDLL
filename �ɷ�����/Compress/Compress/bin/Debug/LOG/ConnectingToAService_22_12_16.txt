@@ -1,0 +1,15 @@
+2022 12 16 14 39 18	URL:http://10.55.2.25:8088/Computer_status/Computer_test_upload
+2022 12 16 14 39 18	Writedata:{"model":"IHT912-SMT","station":"T1.01","machineName": "ELED00000379","mesFlag": "0","computer_Configuration":"True"}
+2022 12 16 14 39 18	1、200
+2022 12 16 14 42 33	URL:http://10.55.2.25:8088/Computer_status/Computer_test_upload
+2022 12 16 14 42 33	Writedata:{"model":"IHT912-SMT","station":"T1.01","machineName": "ELED00000379","mesFlag": "0","computer_Configuration":"True"}
+2022 12 16 14 42 33	1、200
+2022 12 16 14 43 08	URL:http://10.55.2.25:8088/Computer_status/Computer_test_upload
+2022 12 16 14 43 08	Writedata:{"model":"IHT912-SMT","station":"T1.01","machineName": "ELED00000379","mesFlag": "0","computer_Configuration":"True"}
+2022 12 16 14 43 08	1、200
+2022 12 16 14 45 42	URL:http://10.55.2.25:8088/Computer_status/Computer_test_upload
+2022 12 16 14 45 42	Writedata:{"model":"IHT912-SMT","station":"T1.01","machineName": "ELED00000379","mesFlag": "0","computer_Configuration":"True"}
+2022 12 16 14 45 42	1、200
+2022 12 16 15 04 51	URL:http://10.55.2.25:8088/Computer_status/Computer_test_upload
+2022 12 16 15 04 51	Writedata:{"model":"IHT912-SMT","station":"T1.01","machineName": "ELED00000379","mesFlag": "0","computer_Configuration":"True"}
+2022 12 16 15 04 51	1、200

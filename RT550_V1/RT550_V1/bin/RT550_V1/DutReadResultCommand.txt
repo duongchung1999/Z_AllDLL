@@ -1,0 +1,20 @@
+ERRLST
+XResult OP,HopOffH
+XResult OP,HopOffL
+XResult OP,HopOffM
+XResult MI,HopOffL
+XResult MI,HopOffM
+XResult MI,HopOffH
+XResult IC,HopOffL
+XResult IC,HopOffM
+XResult IC,HopOffH
+XResult CD,HopOnL
+XResult CD,HopOnM
+XResult CD,HopOnH
+XResult SS,HopOffL
+XResult SS,HopOffM
+XResult SS,HopOffH
+ABORT
+*OPC?
+OPMD SCRIPT
+disconnect

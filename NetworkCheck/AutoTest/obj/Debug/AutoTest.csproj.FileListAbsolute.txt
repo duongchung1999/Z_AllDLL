@@ -1,0 +1,36 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\AutoTest\AutoTest\bin\Debug\AutoTest.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\AutoTest\AutoTest\bin\Debug\AutoTest.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.pdb
+D:\Doc\SW\To XiaoLong\AutoTest\AutoTest\bin\Debug\AutoTest.dll
+D:\Doc\SW\To XiaoLong\AutoTest\AutoTest\bin\Debug\AutoTest.pdb
+D:\Doc\SW\To XiaoLong\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.AssemblyReference.cache
+D:\Doc\SW\To XiaoLong\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+D:\Doc\SW\To XiaoLong\AutoTest\AutoTest\obj\Debug\AutoTest.dll
+D:\Doc\SW\To XiaoLong\AutoTest\AutoTest\obj\Debug\AutoTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\AutoTest\AutoTest\bin\Debug\AutoTest.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\AutoTest\AutoTest\bin\Debug\AutoTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\AutoTest\AutoTest\bin\Debug\AutoTest.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\AutoTest\AutoTest\bin\Debug\AutoTest.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\AutoTest\AutoTest\obj\Debug\AutoTest.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\AutoTest.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\AutoTest.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\MerryTestFramework.testitem.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.Class.fNetworkMonitor.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.Class.fNotification.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.pdb

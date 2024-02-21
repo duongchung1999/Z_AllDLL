@@ -1,0 +1,11 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\bin\Debug\MSGBox.exe.config
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\bin\Debug\MSGBox.exe
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\bin\Debug\MSGBox.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\obj\Debug\MSGBox.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\obj\Debug\MSGBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\obj\Debug\MSGBox.Form1.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\obj\Debug\MSGBox.Properties.Resources.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\obj\Debug\MSGBox.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\obj\Debug\MSGBox.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\obj\Debug\MSGBox.exe
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MSGBox\MSGBox\obj\Debug\MSGBox.pdb

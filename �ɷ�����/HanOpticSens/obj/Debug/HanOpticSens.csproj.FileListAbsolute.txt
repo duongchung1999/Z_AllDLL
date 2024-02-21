@@ -1,0 +1,33 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.pdb
+D:\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.dll
+D:\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.pdb
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.dll
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\HanOpticSens\bin\Debug\HanOpticSens.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\HanOpticSens\bin\Debug\HanOpticSens.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\HanOpticSens\obj\Debug\HanOpticSens.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\HanOpticSens\obj\Debug\HanOpticSens.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\HanOpticSens\bin\Debug\HanOpticSens.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\HanOpticSens\bin\Debug\HanOpticSens.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\HanOpticSens\obj\Debug\HanOpticSens.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\HanOpticSens\obj\Debug\HanOpticSens.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\HanOpticSens\obj\Debug\HanOpticSens.pdb

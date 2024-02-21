@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MB1205C_V1</name>
+    </assembly>
+    <members>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="MB1205C_V1">
+            MB1205C
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MerryDll.Config">
+            <summary>
+            平台共享参数
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SetVoltage(System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            设置电压 串口在主程序Config 设置 字段 MB1205CPort
+            </summary>
+            <param name="address">物理ID RS485 默认是0001 常规是0003 RS232可以输入0003</param>
+            <param name="Voltage">电压</param>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+    </members>
+</doc>

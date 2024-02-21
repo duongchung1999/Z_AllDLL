@@ -1,0 +1,15 @@
+C:\Users\CH200001\Desktop\AllDll\_2883\bin\Debug\_2883.dll
+C:\Users\CH200001\Desktop\AllDll\_2883\bin\Debug\_2883.pdb
+C:\Users\CH200001\Desktop\AllDll\_2883\obj\Debug\_2883.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\_2883\obj\Debug\_2883.dll
+C:\Users\CH200001\Desktop\AllDll\_2883\obj\Debug\_2883.pdb
+C:\Users\Test\Desktop\AllDll\_2883\bin\Debug\_2883.dll
+C:\Users\Test\Desktop\AllDll\_2883\bin\Debug\_2883.pdb
+C:\Users\Test\Desktop\AllDll\_2883\obj\Debug\_2883.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\AllDll\_2883\obj\Debug\_2883.dll
+C:\Users\Test\Desktop\AllDll\_2883\obj\Debug\_2883.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\_2883\bin\Debug\_2883.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\_2883\bin\Debug\_2883.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\_2883\obj\Debug\_2883.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\_2883\obj\Debug\_2883.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\_2883\obj\Debug\_2883.pdb

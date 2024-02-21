@@ -1,0 +1,17 @@
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\MB1205C\bin\Debug\MB1205C.dll
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\MB1205C\bin\Debug\MB1205C.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\MB1205C\obj\Debug\MB1205C.csproj.CoreCompileInputs.cache
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\MB1205C\obj\Debug\MB1205C.dll
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\MB1205C\obj\Debug\MB1205C.pdb
+E:\MEVNSW\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\MB1205C\bin\Debug\MB1205C.dll
+E:\MEVNSW\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\MB1205C\bin\Debug\MB1205C.pdb
+E:\MEVNSW\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\MB1205C\obj\Debug\MB1205C.csproj.AssemblyReference.cache
+E:\MEVNSW\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\MB1205C\obj\Debug\MB1205C.csproj.CoreCompileInputs.cache
+E:\MEVNSW\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\MB1205C\obj\Debug\MB1205C.dll
+E:\MEVNSW\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\MB1205C\obj\Debug\MB1205C.pdb
+D:\1. DUONG\00. CHUONG TRINH MA NGUON\MB1205C\bin\Debug\MB1205C.dll
+D:\1. DUONG\00. CHUONG TRINH MA NGUON\MB1205C\bin\Debug\MB1205C.pdb
+D:\1. DUONG\00. CHUONG TRINH MA NGUON\MB1205C\obj\Debug\MB1205C.csproj.AssemblyReference.cache
+D:\1. DUONG\00. CHUONG TRINH MA NGUON\MB1205C\obj\Debug\MB1205C.csproj.CoreCompileInputs.cache
+D:\1. DUONG\00. CHUONG TRINH MA NGUON\MB1205C\obj\Debug\MB1205C.dll
+D:\1. DUONG\00. CHUONG TRINH MA NGUON\MB1205C\obj\Debug\MB1205C.pdb

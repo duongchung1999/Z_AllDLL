@@ -1,0 +1,62 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\RT550.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\RT550.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.pdb
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\RT550.dll
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\RT550.pdb
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CopyComplete
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.dll
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.pdb
+D:\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.dll
+D:\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.pdb
+D:\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\RT550.dll
+D:\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\RT550.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\RT550.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\RT550.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\RT550.pdb
+C:\Users\Test\Desktop\ss\lvi_Visa\lvi_Visa\bin\Debug\RT550.dll
+C:\Users\Test\Desktop\ss\lvi_Visa\lvi_Visa\bin\Debug\RT550.pdb
+C:\Users\Test\Desktop\ss\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\ss\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CopyComplete
+C:\Users\Test\Desktop\ss\lvi_Visa\lvi_Visa\obj\Debug\RT550.dll
+C:\Users\Test\Desktop\ss\lvi_Visa\lvi_Visa\obj\Debug\RT550.pdb
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\bin\Debug\RT550.dll
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\bin\Debug\RT550.pdb
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\obj\Debug\RT550.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\obj\Debug\RT550.dll
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\obj\Debug\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\bin\Debug\RT550.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\bin\Debug\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\obj\Debug\RT550.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\obj\Debug\RT550.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\obj\Debug\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\bin\Debug\RT550.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\bin\Debug\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Debug\RT550.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Debug\RT550.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Debug\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Debug\RT550.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\RT550\bin\Debug\RT550.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\RT550\bin\Debug\RT550.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\RT550\obj\Debug\RT550.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\RT550\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\RT550\obj\Debug\RT550.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\RT550\obj\Debug\RT550.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\RT550\obj\Debug\RT550.pdb
+C:\Users\Test\Desktop\2x\RT550\bin\Debug\RT550.dll
+C:\Users\Test\Desktop\2x\RT550\bin\Debug\RT550.pdb
+C:\Users\Test\Desktop\2x\RT550\obj\Debug\RT550.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\2x\RT550\obj\Debug\RT550.csproj.CopyComplete
+C:\Users\Test\Desktop\2x\RT550\obj\Debug\RT550.dll
+C:\Users\Test\Desktop\2x\RT550\obj\Debug\RT550.pdb
+C:\Users\Test\Desktop\2x\RT550\obj\Debug\RT550.csproj.AssemblyReference.cache

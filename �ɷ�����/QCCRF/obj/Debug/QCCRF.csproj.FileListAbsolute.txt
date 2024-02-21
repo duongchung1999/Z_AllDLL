@@ -1,0 +1,24 @@
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\QCCRF\bin\Debug\QCCRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\QCCRF\bin\Debug\QCCRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\QCCRF\obj\Debug\QCCRF.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\QCCRF\obj\Debug\QCCRF.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\QCCRF\obj\Debug\QCCRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\QCCRF\obj\Debug\QCCRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\bin\Debug\QCCRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\bin\Debug\QCCRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\obj\Debug\QCCRF.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\obj\Debug\QCCRF.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\obj\Debug\QCCRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\obj\Debug\QCCRF.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\QCCRF\bin\Debug\QCCRF.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\QCCRF\bin\Debug\QCCRF.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\QCCRF\obj\Debug\QCCRF.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\QCCRF\obj\Debug\QCCRF.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\QCCRF\obj\Debug\QCCRF.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\QCCRF\obj\Debug\QCCRF.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\QCCRF\bin\Debug\QCCRF.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\QCCRF\bin\Debug\QCCRF.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\QCCRF\obj\Debug\QCCRF.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\QCCRF\obj\Debug\QCCRF.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\QCCRF\obj\Debug\QCCRF.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\QCCRF\obj\Debug\QCCRF.pdb

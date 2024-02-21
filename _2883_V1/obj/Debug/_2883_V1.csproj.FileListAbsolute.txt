@@ -1,0 +1,28 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\_2883_V1\bin\Debug\_2883_V1.xml
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\_2883_V1\bin\Debug\_2883_V1.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\_2883_V1\bin\Debug\_2883_V1.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\_2883_V1\obj\Debug\_2883_V1.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\_2883_V1\obj\Debug\_2883_V1.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\_2883_V1\obj\Debug\_2883_V1.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\_2883_V1\obj\Debug\_2883_V1.pdb
+E:\code\All DLL Code\_2883_V1\bin\Debug\_2883_V1.xml
+E:\code\All DLL Code\_2883_V1\bin\Debug\_2883_V1.dll
+E:\code\All DLL Code\_2883_V1\bin\Debug\_2883_V1.pdb
+E:\code\All DLL Code\_2883_V1\obj\Debug\_2883_V1.csproj.AssemblyReference.cache
+E:\code\All DLL Code\_2883_V1\obj\Debug\_2883_V1.csproj.CoreCompileInputs.cache
+E:\code\All DLL Code\_2883_V1\obj\Debug\_2883_V1.dll
+E:\code\All DLL Code\_2883_V1\obj\Debug\_2883_V1.pdb
+C:\Users\ch200001\Desktop\_2883_V1\obj\Debug\_2883_V1.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\_2883_V1\obj\Debug\_2883_V1.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\_2883_V1\obj\Debug\_2883_V1.dll
+C:\Users\ch200001\Desktop\_2883_V1\obj\Debug\_2883_V1.pdb
+C:\Users\ch200001\Desktop\_2883_V1\bin\Debug\_2883_V1.xml
+C:\Users\ch200001\Desktop\_2883_V1\bin\Debug\_2883_V1.dll
+C:\Users\ch200001\Desktop\_2883_V1\bin\Debug\_2883_V1.pdb
+D:\Data\repos\MerryTest\Z_AllDll\_2883_V1\bin\Debug\_2883_V1.xml
+D:\Data\repos\MerryTest\Z_AllDll\_2883_V1\bin\Debug\_2883_V1.dll
+D:\Data\repos\MerryTest\Z_AllDll\_2883_V1\bin\Debug\_2883_V1.pdb
+D:\Data\repos\MerryTest\Z_AllDll\_2883_V1\obj\Debug\_2883_V1.csproj.AssemblyReference.cache
+D:\Data\repos\MerryTest\Z_AllDll\_2883_V1\obj\Debug\_2883_V1.csproj.CoreCompileInputs.cache
+D:\Data\repos\MerryTest\Z_AllDll\_2883_V1\obj\Debug\_2883_V1.dll
+D:\Data\repos\MerryTest\Z_AllDll\_2883_V1\obj\Debug\_2883_V1.pdb

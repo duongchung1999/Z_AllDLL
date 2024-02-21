@@ -1,0 +1,71 @@
+C:\Users\CH200001\Desktop\LoadDLL\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\LoadDLL\Testitem_MySql\bin\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\LoadDLL\Testitem_MySql\bin\Debug\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\LoadDLL\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CopyComplete
+C:\Users\CH200001\Desktop\LoadDLL\Testitem_MySql\obj\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\LoadDLL\Testitem_MySql\obj\Debug\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CopyComplete
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\bin\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\bin\Debug\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Testitem_MySql\bin\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Testitem_MySql\bin\Debug\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CopyComplete
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\bin\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\bin\Debug\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Debug\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Debug\FluentFTP.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Debug\FluentFTP.xml
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.pdb
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Debug\Testitem_MySql.dll
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Debug\Testitem_MySql.pdb
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Debug\FluentFTP.dll
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Debug\FluentFTP.xml
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.dll
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.pdb
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\bin\Debug\Testitem_MySql.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\bin\Debug\Testitem_MySql.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.AssemblyReference.cache
+D:\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\bin\Debug\Testitem_MySql.dll
+D:\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\bin\Debug\Testitem_MySql.pdb
+D:\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.AssemblyReference.cache
+D:\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+D:\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CopyComplete
+D:\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.dll
+D:\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Debug\Testitem_MySql.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\Testitem_MySql\bin\Debug\Testitem_MySql.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\Testitem_MySql\bin\Debug\Testitem_MySql.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\Testitem_MySql\obj\Debug\Testitem_MySql.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\Testitem_MySql\obj\Debug\Testitem_MySql.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\Testitem_MySql\obj\Debug\Testitem_MySql.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\Testitem_MySql 2023.01.03\bin\Debug\Testitem_MySql.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\Testitem_MySql 2023.01.03\bin\Debug\Testitem_MySql.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\Testitem_MySql 2023.01.03\obj\Debug\Testitem_MySql.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\Testitem_MySql 2023.01.03\obj\Debug\Testitem_MySql.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\Testitem_MySql 2023.01.03\obj\Debug\Testitem_MySql.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\Testitem_MySql 2023.01.03\obj\Debug\Testitem_MySql.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\Testitem_MySql 2023.01.03\obj\Debug\Testitem_MySql.pdb

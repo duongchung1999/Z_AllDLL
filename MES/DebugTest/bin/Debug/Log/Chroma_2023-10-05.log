@@ -1,0 +1,11 @@
+2023-10-05 13:48:48-GetPart==>>Execute Start
+2023-10-05 13:48:48-GetPart==>>Param【WO】【】
+2023-10-05 13:49:16-GetPart==>>Execute Start
+2023-10-05 13:49:16-GetPart==>>Param【WO】【】
+2023-10-05 13:49:16-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【94】ms 
+2023-10-05 14:09:03-GetPart==>>Execute Start
+2023-10-05 14:09:03-GetPart==>>Param【WO】【】
+2023-10-05 14:09:03-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【92】ms 
+2023-10-05 14:31:42-GetPart==>>Execute Start
+2023-10-05 14:31:42-GetPart==>>Param【WO】【】
+2023-10-05 14:31:42-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【83】ms 

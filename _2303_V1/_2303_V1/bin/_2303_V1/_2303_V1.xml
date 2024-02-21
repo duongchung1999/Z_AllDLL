@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>_2303_V1</name>
+    </assembly>
+    <members>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="_2303_V1">
+            电源供给器 3303D/2303S
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SET(System.String,System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            设置 3303D _ 2303
+            </summary>
+            <param name="volt">电压 比如 5</param>
+            <param name="current">电流 比如 2</param>
+            <param name="channel">通道 比如 1</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetVoltage(System.String,System.String)">
+            <summary isPublicTestItem="true">
+             读取仪器电压
+            </summary>
+            <param name="channel">通道 比如 1</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+    </members>
+</doc>

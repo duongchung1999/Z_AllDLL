@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MES</name>
+    </assembly>
+    <members>
+        <member name="F:MerryDllFramework.ChormeLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.ChormeLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryDllFramework.ChormeLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="MES">
+            MES
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MerryDll.Config">
+            <summary>
+            平台共享参数
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MerryDll.OnceConfig">
+            <summary>
+            连扳程序的参数
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BarCodeWindow(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            输入Config[BarCodeSN]条码
+            </summary>
+            <param name="Length" options="10,12">条码的长度</param>
+            <param name="Forms" options="NULL,请输入条码/Vui lòng quét mã SN,请扫描Bincode 、Vui lòng quét mã Bincode">弹框内容</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BarCodeWindow2(System.String)">
+            <summary isPublicTestItem="true">
+            输入Config[SN]条码
+            </summary>
+            <param name="Length" options="10,12">条码的长度</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.QueryBDNoBySN">
+            <summary isPublicTestItem="true">
+            根据BarCodeSN条码获取BD号
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.QueryBDNoBySN0">
+            <summary isPublicTestItem="true">
+            根据SN条码获取BD号
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CheckSN">
+            <summary isPublicTestItem="false">
+            检查SN合法性
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CheckUser">
+            <summary isPublicTestItem="false">
+            检查用户权限
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.UpdataMes">
+            <summary isPublicTestItem="false">
+            上传测试结果到MES系统
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetBDFromMES">
+            <summary isPublicTestItem="true">
+            从用工单在MES捞BD
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SendTestResult(System.Boolean,System.String)">
+            <summary>
+            过站
+            </summary>
+            <param name="flag"></param>
+            <param name="SN"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetMAC_SY">
+            <summary isPublicTestItem="true">
+            韶音根据SN获取MAC地址
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.UID_Master(System.Boolean,System.String)">
+            <summary isPublicTestItem="true">
+            根据SN条码和料件规格获取UID
+            </summary>
+            <param name="IsSMT" options="true,false">是否在SMT测试</param>
+            <param name="PN_Name" options="NULL">料件规格名称</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.UID_Slave(System.Boolean,System.String)">
+            <summary isPublicTestItem="true">
+            根据BarcodeSN条码和料件规格获取UID
+            </summary>
+            <param name="IsSMT" options="true,false">是否在SMT测试</param>
+            <param name="PN_Name" options="NULL">料件规格名称</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.LogiUIDForIndex(System.Boolean,System.Int32)">
+            <summary isPublicTestItem="true">
+            根据SN条码和料件Index获取UID
+            </summary>
+            <param name="IsSMT" options="true,false">是否在SMT测试</param>
+            <param name="Index" options="NULL">料件顺序</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.MISSendTestValue(System.String,System.String,System.String)">
+            <summary>
+            上传测试数据
+            </summary>
+            <param name="SN"></param>
+            <param name="TestResult"></param>
+            <param name="Testvalue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.UpdateInfo">
+            <summary>
+            浮动的BD窗体
+            </summary>
+            <param name="Station"></param>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.login">
+            <summary>
+            窗体登录
+            </summary>
+            <param name="userID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BindingSN">
+            <summary isPublicTestItem="true">
+            SN和BarcodeSN条码互相绑定
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CheckBinding">
+            <summary isPublicTestItem="true">
+            检查Dongle条码和Headset条码是否已绑定
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="F:MES.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MES.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MES.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MES.Messagebox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MES.Messagebox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MES.Messagebox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MerryTest.MessageBoxs">
+            <summary>
+            弹窗
+            </summary>
+        </member>
+        <member name="F:MerryTest.MessageBoxs.names">
+            <summary>
+            窗体名
+            </summary>
+        </member>
+        <member name="F:MerryTest.MessageBoxs.message">
+            <summary>
+            窗体信息
+            </summary>
+        </member>
+        <member name="F:MerryTest.MessageBoxs.length">
+            <summary>
+            窗体条码框长度
+            </summary>
+        </member>
+        <member name="F:MerryTest.MessageBoxs.barcode">
+            <summary>
+            条码框输入值
+            </summary>
+        </member>
+        <member name="F:MerryTest.MessageBoxs.color">
+            <summary>
+            窗体颜色
+            </summary>
+        </member>
+        <member name="F:MerryTest.MessageBoxs.SN">
+            <summary>
+            不良SN
+            </summary>
+        </member>
+        <member name="F:MerryTest.MessageBoxs.uploadmes">
+            <summary>
+            是否Y,N检测按键
+            </summary>
+        </member>
+        <member name="M:MerryTest.MessageBoxs.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="F:MerryTest.MessageBoxs.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryTest.MessageBoxs.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryTest.MessageBoxs.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MerryTest.Entity.UIAdaptiveSize">
+            <summary>
+            记录最初始控件大小类
+            </summary>
+        </member>
+        <member name="F:MerryTest.Entity.UIAdaptiveSize.Width">
+            <summary>
+            窗体初始宽度
+            </summary>
+        </member>
+        <member name="F:MerryTest.Entity.UIAdaptiveSize.Height">
+            <summary>
+            窗体初始高度
+            </summary>
+        </member>
+        <member name="F:MerryTest.Entity.UIAdaptiveSize.FormsName">
+            <summary>
+            窗体名字
+            </summary>
+        </member>
+        <member name="M:MerryTest.Entity.UIAdaptiveSize.SetInitSize(System.Windows.Forms.Control)">
+            <summary>
+            存储窗体控件初始大小
+            </summary>
+            <param name="cons">窗体对象（一般为this）</param>
+        </member>
+        <member name="M:MerryTest.Entity.UIAdaptiveSize.UpdateSize(System.Single,System.Single,System.Windows.Forms.Control)">
+            <summary>
+            修改窗体控件大小
+            </summary>
+            <param name="x">改变后宽度</param>
+            <param name="y">改变后高度</param>
+            <param name="cons"></param>
+        </member>
+        <member name="T:BD.GetMESBD">
+            <summary>
+            抓取MESBD
+            </summary>
+        </member>
+        <member name="M:BD.GetMESBD.GetError">
+            <summary>
+            获取异常信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BD.GetMESBD.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="P:BD.GetMESBD.OrderNumber">
+            <summary>
+            BD工单号
+            </summary>
+        </member>
+        <member name="P:BD.GetMESBD.mUser">
+            <summary>
+            BD工号
+            </summary>
+        </member>
+        <member name="P:BD.GetMESBD.mStarion">
+            <summary>
+            BD站别
+            </summary>
+        </member>
+        <member name="P:BD.GetMESBD.BTAD">
+            <summary>
+            获取BD号
+            </summary>
+        </member>
+        <member name="M:BD.GetMESBD.CheckLicenseKeyName(System.Boolean,System.String)">
+            <summary>
+            获取LicenseKey名
+            </summary>
+        </member>
+        <member name="M:BD.GetMESBD.UpdateOrderInfo(System.String@)">
+            <summary>
+            修改UI上TextBox信息
+            </summary>
+            <param name="tb"></param>
+            <param name="licenseKey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BD.GetMESBD.UploadBTADResultToMES(System.String,System.Boolean)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:BD.GetMESBD.ReclaimBTAD(System.String,System.String)">
+            <summary>
+            ??????????????
+            </summary>
+        </member>
+        <member name="M:BD.GetMESBD.GetBTADFromMES(System.String,System.String,System.String@,System.String@,System.String@)">
+            <summary>
+            ???????????
+            </summary>
+        </member>
+        <member name="F:BD.ShowInformation.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:BD.ShowInformation.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:BD.ShowInformation.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

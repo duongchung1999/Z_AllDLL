@@ -1,0 +1,21 @@
+﻿0,-Close,N/A,N/A,N/A,6,dllname=Common&method=send_read&串口=COM1&写入字符串=CLOSE
+0,-延时5s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=5000
+1,读 Headset BD,N/A,N/A,N/A,3,Headset_Read_BD
+2,检查Headset_Flag1,N/A,1,2,2,ReadHeadsetFlag
+3,检查 Headset PCB SN,N/A,N/A,N/A,3,Headset_Check_PCBSN
+4,Headset Open DUT,N/A,N/A,N/A,3,HeadsetEnableDUT
+0,-延時 1s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=1000
+5,DUT_Test,N/A,N/A,N/A,6,dllname=RT550_V1&method=DUT_Test&ConnectSleepTime=1&TimeOut=16&TXP=-70&ExtraLoss=0&ManualFlag=False
+0,-延時 1s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=1000
+0,+-Headset Close DUT,N/A,N/A,N/A,3,HeadsetDisableDUT
+6,Output Power 2402,dB,3,9,5,dllname=RT550_V1&method=DUT_Out_Put_Power_Low
+7,Output Power 2441,dB,3,9,5,dllname=RT550_V1&method=DUT_Out_Put_Power_Middle
+8,Output Power 2480,dB,3,9,5,dllname=RT550_V1&method=DUT_Out_Put_Power_High
+9,Carrier Offset 2441,KHz,-75,75,5,dllname=RT550_V1&method=DUT_Carrier_Drift_Middle
+10,Sensitivitv 2441,%,<,0.1,5,dllname=RT550_V1&method=DUT_Sensitivity_Middle
+11,Modulation Index,KHz,140,175,5,llname=RT550_V1&method=DUT_Modulation_Index_Middle
+0,-3S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=3000
+12,写Headset_Flag2,N/A,N/A,N/A,1,WriteHeadsetFlag-2
+0,-延時 1s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=1000
+13,检查Headset_Flag2,N/A,2,2,2,ReadHeadsetFlag
+0,-+Open,N/A,N/A,N/A,6,dllname=Common&method=send_read&串口=COM1&写入字符串=OPEN

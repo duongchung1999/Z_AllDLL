@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>STM8</name>
+    </assembly>
+    <members>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="STM8">
+            STM8
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadVoltage(System.String)">
+            <summary isPublicTestItem="true">
+            读取电压
+            </summary>
+            <param name="channel" options="1,2,3,4,5,6,7,8,9,10">通道</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadCurrent(System.String)">
+            <summary isPublicTestItem="true">
+            读取电流
+            </summary>
+            <param name="channel" options="0,1,2,3,4,5,6,7,8,9">通道</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Relay(System.String)">
+            <summary isPublicTestItem="true">
+            控制继电器 1 ~ 24
+            </summary>
+            <param name="cmd" options="0,1,2,1.2.3.4">通道</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="T:MerryDllFramework.MessageBox">
+            <summary>
+            调用弹窗类
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MessageBox.JudgeBox(System.String)">
+            <summary>
+            判断弹窗
+            </summary>
+            <param name="message">窗口信息</param>
+            <returns>选择结果</returns>
+        </member>
+        <member name="M:MerryDllFramework.MessageBox.BarCodeBox(System.String,System.Int32,System.String@)">
+            <summary>
+            条码弹窗
+            </summary>
+            <param name="message">窗口信息</param>
+            <param name="length">条码长度</param>
+            <param name="barcode">条码值</param>
+            <returns>选择结果</returns>
+        </member>
+        <member name="M:MerryDllFramework.MessageBox.ColorBox(System.String,System.Drawing.Color)">
+            <summary>
+            颜色弹窗
+            </summary>
+            <param name="message">窗口信息</param>
+            <param name="color">窗体颜色</param>
+            <returns>选择结果</returns>
+        </member>
+        <member name="T:MerryDllFramework.MessageBoxs">
+            <summary>
+            弹窗
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.names">
+            <summary>
+            窗体名
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.message">
+            <summary>
+            窗体信息
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.length">
+            <summary>
+            窗体条码框长度
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.barcode">
+            <summary>
+            条码框输入值
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.color">
+            <summary>
+            窗体颜色
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.SN">
+            <summary>
+            不良SN
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MessageBoxs.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MessageBoxs.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryDllFramework.MessageBoxs.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

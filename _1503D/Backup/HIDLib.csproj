@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\CH210003\Desktop\HIDLib.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B4E6D7BD-DA4C-476F-AF07-381CEC81DF64}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>HIDLib</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationVersion>0.1.0.743</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>BlueNinjaSoftware.HIDLib</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HIDDevice.cs" />
+    <Compile Include="HIDDataReceivedEventHandler.cs" />
+    <Compile Include="HIDReportReceivedEventHandler.cs" />
+    <Compile Include="HIDDataReceivedEventArgs.cs" />
+    <Compile Include="HIDReportReceivedEventArgs.cs" />
+    <Compile Include="HIDManagement.cs" />
+    <Compile Include="Utility.cs" />
+    <Compile Include="My\MyApplication.cs" />
+    <Compile Include="My\MyComputer.cs" />
+    <Compile Include="My\MyProject.cs" />
+    <Compile Include="Capabilities\ACapabilities.cs" />
+    <Compile Include="Capabilities\ACapability.cs" />
+    <Compile Include="Capabilities\ButtonCapabilities.cs" />
+    <Compile Include="Capabilities\ButtonCapability.cs" />
+    <Compile Include="Capabilities\DeviceCapabilities.cs" />
+    <Compile Include="Capabilities\DeviceSubCapabilities.cs" />
+    <Compile Include="Capabilities\ICapability.cs" />
+    <Compile Include="Capabilities\UsageRange.cs" />
+    <Compile Include="Capabilities\SingleUsage.cs" />
+    <Compile Include="Capabilities\ValueCapabilities.cs" />
+    <Compile Include="Capabilities\ValueCapability.cs" />
+    <Compile Include="Interop\HID.cs" />
+    <Compile Include="Interop\SetupAPI.cs" />
+    <Compile Include="Interop\User32.cs" />
+    <Compile Include="Reports\ReportTypeEnum.cs" />
+    <Compile Include="Reports\AHIDReport.cs" />
+    <Compile Include="Reports\HIDFeatureReport.cs" />
+    <Compile Include="Reports\HIDInputReport.cs" />
+    <Compile Include="Reports\HIDOutputReport.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

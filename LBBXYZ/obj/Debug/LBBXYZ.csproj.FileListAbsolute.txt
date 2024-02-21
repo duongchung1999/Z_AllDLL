@@ -1,0 +1,11 @@
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\LBBXYZ\bin\Debug\LBBXYZ.dll
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\LBBXYZ\bin\Debug\LBBXYZ.pdb
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\LBBXYZ\obj\Debug\LBBXYZ.csproj.CoreCompileInputs.cache
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\LBBXYZ\obj\Debug\LBBXYZ.dll
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\LBBXYZ\obj\Debug\LBBXYZ.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\LBBXYZ\bin\Debug\LBBXYZ.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\LBBXYZ\bin\Debug\LBBXYZ.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\LBBXYZ\obj\Debug\LBBXYZ.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\LBBXYZ\obj\Debug\LBBXYZ.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\LBBXYZ\obj\Debug\LBBXYZ.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\LBBXYZ\obj\Debug\LBBXYZ.pdb

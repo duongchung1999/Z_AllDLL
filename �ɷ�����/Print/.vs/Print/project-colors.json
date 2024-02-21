@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0261e21-a7d3-4a41-986c-990966de5e95": {
+      "ProjectGuid": "a0261e21-a7d3-4a41-986c-990966de5e95",
+      "DisplayName": "Print",
+      "ColorIndex": 0
+    },
+    "35002b65-fe64-4c59-88cd-278acd27d54d": {
+      "ProjectGuid": "35002b65-fe64-4c59-88cd-278acd27d54d",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

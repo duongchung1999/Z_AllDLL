@@ -1,0 +1,7 @@
+C:\Users\CH200001\Desktop\LoadDLL\ReadTestItem\bin\Debug\ReadTestItem.dll
+C:\Users\CH200001\Desktop\LoadDLL\ReadTestItem\bin\Debug\ReadTestItem.pdb
+C:\Users\CH200001\Desktop\LoadDLL\ReadTestItem\obj\Debug\ReadTestItem.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\LoadDLL\ReadTestItem\obj\Debug\ReadTestItem.csproj.CopyComplete
+C:\Users\CH200001\Desktop\LoadDLL\ReadTestItem\obj\Debug\ReadTestItem.dll
+C:\Users\CH200001\Desktop\LoadDLL\ReadTestItem\obj\Debug\ReadTestItem.pdb
+C:\Users\CH200001\Desktop\LoadDLL\ReadTestItem\obj\Debug\ReadTestItem.csprojAssemblyReference.cache

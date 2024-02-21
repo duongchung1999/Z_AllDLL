@@ -1,0 +1,5 @@
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CSRRF\CSRRF\bin\Debug\CSRRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CSRRF\CSRRF\bin\Debug\CSRRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CSRRF\CSRRF\obj\Debug\CSRRF.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CSRRF\CSRRF\obj\Debug\CSRRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\CSRRF\CSRRF\obj\Debug\CSRRF.pdb

@@ -1,0 +1,11 @@
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\bin\Debug\ANCSetingTool.exe.config
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\bin\Debug\ANCSetingTool.exe
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\bin\Debug\ANCSetingTool.pdb
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\obj\Debug\ANCSetingTool.csproj.AssemblyReference.cache
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\obj\Debug\ANCSetingTool.csproj.SuggestedBindingRedirects.cache
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\obj\Debug\ANC.Form1.resources
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\obj\Debug\ANC.Properties.Resources.resources
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\obj\Debug\ANCSetingTool.csproj.GenerateResource.cache
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\obj\Debug\ANCSetingTool.csproj.CoreCompileInputs.cache
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\obj\Debug\ANCSetingTool.exe
+D:\Data\repos\MerryTest\Z_AllDll\ANC\ANC\obj\Debug\ANCSetingTool.pdb

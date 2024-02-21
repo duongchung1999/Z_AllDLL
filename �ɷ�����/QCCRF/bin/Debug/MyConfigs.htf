@@ -1,0 +1,58 @@
+version=QCC514X_CONFIG
+
+##############################
+file=system3
+
+# The capacitance for driving a crystal providing the raw clock
+XtalLoadCapacitance = 0x0b
+
+# Fine frequency trim for a crystal providing the raw chip clock
+XtalFreqTrim = 0
+
+##############################
+file=bt2
+
+# BD_ADDRESS
+BD_ADDRESS = [ 05 ff 00 5b 02 00 ]
+
+##############################
+file=app3
+
+# USB Vendor ID
+USBVendorID = 0x47f
+
+# The PID of the generic device
+USBProductID = 0x147
+
+# USB version number
+USBVersion = 0x200
+
+# Class, subclass and protocol codes for the device
+USBDeviceClassCodes = [ 00 00 00 ]
+
+# Maximum power drawn by a bus-powered device
+USBMaxPower = 0x00
+
+# Disables support for USB remote wake
+USBRemoteWakeDisable = true
+
+# Binary-coded decimal device version number
+USBBCDDevice = 0x06
+
+# Device product string descriptor
+USBProductString = "Poly Voyager 4300 Series"
+
+# Manufacturer string descriptor
+USBManufString = "Plantronics"
+
+# Device serial number string descriptor
+USBSerialNumberString="ABCDEF0123456789"
+
+# ReadOnly Customer Key 1
+CustomerReadOnlyKey1=[ 53 2f 4e 31 32 33 34 35 36 42 2f 43 31 32 33 34 35 35 ]
+
+##############################
+file=app5
+
+# MIB key to set device name
+DeviceName = "Poly Voyager 4300 Series"

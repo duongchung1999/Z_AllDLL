@@ -1,0 +1,15 @@
+C:\Users\CH200001\Desktop\AllDll\Configuration\bin\Debug\Configuration.dll
+C:\Users\CH200001\Desktop\AllDll\Configuration\bin\Debug\Configuration.pdb
+C:\Users\CH200001\Desktop\AllDll\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\Configuration\obj\Debug\Configuration.dll
+C:\Users\CH200001\Desktop\AllDll\Configuration\obj\Debug\Configuration.pdb
+C:\Users\CH200001\Desktop\AllDll\Configuration\obj\Debug\Configuration.Form1.resources
+C:\Users\CH200001\Desktop\AllDll\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\bin\Debug\Configuration.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\bin\Debug\Configuration.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Debug\Configuration.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Debug\Configuration.Form1.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Debug\Configuration.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Debug\Configuration.pdb

@@ -1,0 +1,67 @@
+C:\Users\CH200001\Desktop\SCPI\N9320B\bin\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\SCPI\N9320B\bin\Debug\N9320B.pdb
+C:\Users\CH200001\Desktop\SCPI\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\SCPI\N9320B\obj\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\SCPI\N9320B\obj\Debug\N9320B.pdb
+C:\Users\CH200001\Desktop\SCPI\N9320B\obj\Debug\N9320B.csproj.CopyComplete
+C:\Users\CH200001\Desktop\DeviceDLL\N9320B\bin\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\DeviceDLL\N9320B\bin\Debug\N9320B.pdb
+C:\Users\CH200001\Desktop\DeviceDLL\N9320B\obj\Debug\N9320B.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\DeviceDLL\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\DeviceDLL\N9320B\obj\Debug\N9320B.csproj.CopyComplete
+C:\Users\CH200001\Desktop\DeviceDLL\N9320B\obj\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\DeviceDLL\N9320B\obj\Debug\N9320B.pdb
+C:\Users\CH200001\Desktop\AllDll\N9320B\bin\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\AllDll\N9320B\bin\Debug\N9320B.pdb
+C:\Users\CH200001\Desktop\AllDll\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\N9320B\obj\Debug\N9320B.csproj.CopyComplete
+C:\Users\CH200001\Desktop\AllDll\N9320B\obj\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\AllDll\N9320B\obj\Debug\N9320B.pdb
+C:\Users\Test\Desktop\AllDll\N9320B\bin\Debug\N9320B.dll
+C:\Users\Test\Desktop\AllDll\N9320B\bin\Debug\N9320B.pdb
+C:\Users\Test\Desktop\AllDll\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\AllDll\N9320B\obj\Debug\N9320B.csproj.CopyComplete
+C:\Users\Test\Desktop\AllDll\N9320B\obj\Debug\N9320B.dll
+C:\Users\Test\Desktop\AllDll\N9320B\obj\Debug\N9320B.pdb
+C:\Users\Test\Desktop\AllDll\N9320B\obj\Debug\N9320B.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\N9320B\obj\Debug\N9320B.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\N9320B\bin\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\N9320B\bin\Debug\N9320B.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\N9320B\obj\Debug\N9320B.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\N9320B\obj\Debug\N9320B.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\N9320B\obj\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\N9320B\obj\Debug\N9320B.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\N9320B\bin\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\N9320B\bin\Debug\N9320B.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.AssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.pdb
+D:\mech-sw\Z_AllDll\写好的代码\N9320B\bin\Debug\N9320B.dll
+D:\mech-sw\Z_AllDll\写好的代码\N9320B\bin\Debug\N9320B.pdb
+D:\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.dll
+D:\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\N9320B\bin\Debug\N9320B.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\N9320B\bin\Debug\N9320B.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.AssemblyReference.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\N9320B\bin\Debug\N9320B.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\N9320B\bin\Debug\N9320B.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\N9320B\obj\Debug\N9320B.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\N9320B\bin\Debug\N9320B.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\N9320B\bin\Debug\N9320B.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\N9320B\obj\Debug\N9320B.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\N9320B\obj\Debug\N9320B.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\N9320B\obj\Debug\N9320B.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\N9320B\obj\Debug\N9320B.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\N9320B\obj\Debug\N9320B.pdb

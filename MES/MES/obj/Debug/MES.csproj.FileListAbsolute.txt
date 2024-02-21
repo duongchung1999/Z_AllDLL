@@ -1,0 +1,268 @@
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\bin\Debug\MES.dll
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\bin\Debug\MES.pdb
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\obj\Debug\MES.Form1.resources
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\obj\Debug\MES.Messagebox.resources
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\obj\Debug\BD.ShowInformation.resources
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\obj\Debug\MES.csproj.CopyComplete
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\obj\Debug\MES.dll
+C:\Users\CH200001\Desktop\LoadDLL\MES\MES\obj\Debug\MES.pdb
+C:\Users\CH200001\Desktop\AllDll\MES\MES\bin\Debug\MES.dll
+C:\Users\CH200001\Desktop\AllDll\MES\MES\bin\Debug\MES.pdb
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\MES.Form1.resources
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\MES.Messagebox.resources
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\MES.csproj.CopyComplete
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\MES.dll
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\MES.pdb
+C:\Users\Test\Desktop\AllDll\MES\MES\bin\Debug\MES.dll
+C:\Users\Test\Desktop\AllDll\MES\MES\bin\Debug\MES.pdb
+C:\Users\Test\Desktop\AllDll\MES\MES\obj\Debug\MES.Form1.resources
+C:\Users\Test\Desktop\AllDll\MES\MES\obj\Debug\MES.Messagebox.resources
+C:\Users\Test\Desktop\AllDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+C:\Users\Test\Desktop\AllDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+C:\Users\Test\Desktop\AllDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\AllDll\MES\MES\obj\Debug\MES.csproj.CopyComplete
+C:\Users\Test\Desktop\AllDll\MES\MES\obj\Debug\MES.dll
+C:\Users\Test\Desktop\AllDll\MES\MES\obj\Debug\MES.pdb
+C:\Users\Test\Desktop\AllDll\MES\MES\obj\Debug\MES.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+C:\Users\CH200001\Desktop\AllDll\MES\MES\obj\Debug\MES.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\bin\Debug\MES.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\bin\Debug\MES.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\MES.Form1.resources
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\MES.Messagebox.resources
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\MES.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\MES.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\MES.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\MES\MES\obj\Debug\MES.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\bin\Debug\MES.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\bin\Debug\MES.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.Form1.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.Messagebox.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\bin\Debug\MES.dll
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\bin\Debug\MES.pdb
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.Form1.resources
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.Messagebox.resources
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CopyComplete
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.dll
+C:\Users\Test\Desktop\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.pdb
+D:\mech-sw\Z_AllDll\MES\MES\bin\Debug\MES.dll
+D:\mech-sw\Z_AllDll\MES\MES\bin\Debug\MES.pdb
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.Form1.resources
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.Messagebox.resources
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.dll
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.pdb
+D:\mech-sw\Z_AllDll\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+C:\Users\ch180265\Desktop\MES\MES\bin\Debug\MES.dll
+C:\Users\ch180265\Desktop\MES\MES\bin\Debug\MES.pdb
+C:\Users\ch180265\Desktop\MES\MES\bin\Debug\MESDLL.dll
+C:\Users\ch180265\Desktop\MES\MES\bin\Debug\SwATE_Net.dll
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MES.Form1.resources
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MES.Messagebox.resources
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\BD.ShowInformation.resources
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MES.csproj.CopyComplete
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MES.dll
+C:\Users\ch180265\Desktop\MES\MES\obj\Debug\MES.pdb
+D:\Work\SourceCode\MES\MES\MES\bin\Debug\MES.dll
+D:\Work\SourceCode\MES\MES\MES\bin\Debug\MES.pdb
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MES.Form1.resources
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MES.Messagebox.resources
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\BD.ShowInformation.resources
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MES.csproj.CopyComplete
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MES.dll
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MES.pdb
+D:\Work\SourceCode\MES\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\bin\Debug\MES.dll
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\bin\Debug\MES.pdb
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\MES.Form1.resources
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\MES.Messagebox.resources
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\BD.ShowInformation.resources
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\MES.csproj.CopyComplete
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\MES.dll
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\obj\Debug\MES.pdb
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\bin\Debug\SwATE_Net.dll
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\MES\bin\Debug\SwATE_Net.dll.config
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\bin\Debug\SwATE_Net.dll.config
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MES.Form1.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MES.Messagebox.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\BD.ShowInformation.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MES.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\MES\obj\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\bin\Debug\SwATE_Net.dll.config
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MES.Form1.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MES.Messagebox.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MES.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\bin\Debug\SwATE_Net.dll.config
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\MES.Form1.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\MES.Messagebox.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\BD.ShowInformation.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\MES.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\MES\obj\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\bin\Debug\SwATE_Net.dll.config
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\MES.Form1.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\MES.Messagebox.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\BD.ShowInformation.resources
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\MES.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\MES\obj\Debug\MES.pdb
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\bin\Debug\MES.dll
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\bin\Debug\MES.pdb
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MES.Form1.resources
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MES.Messagebox.resources
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MerryTest.MessageBoxs.resources
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\BD.ShowInformation.resources
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MES.csproj.GenerateResource.cache
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MES.csproj.CopyComplete
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MES.dll
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\MES\obj\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MES.Form1.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MES.Messagebox.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\BD.ShowInformation.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MES.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MES.Form1.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MES.Messagebox.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\BD.ShowInformation.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MES.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\MES\obj\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MES.Form1.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MES.Messagebox.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MES.Form1.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MES.Messagebox.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\bin\Debug\MES.xml
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\bin\Debug\MES.xml
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MerryDllFramework.ChormeLogin.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MES.Form1.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MES.Messagebox.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MerryTest.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\BD.ShowInformation.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MES.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MES.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryAppGithub\Z_AllDll\MES\MES\obj\Debug\MES.pdb

@@ -1,0 +1,60 @@
+C:\Users\CH200001\Desktop\AllDll\Print\bin\Debug\Print.dll
+C:\Users\CH200001\Desktop\AllDll\Print\bin\Debug\Print.pdb
+C:\Users\CH200001\Desktop\AllDll\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\Print\obj\Debug\Print.csproj.CopyComplete
+C:\Users\CH200001\Desktop\AllDll\Print\obj\Debug\Print.dll
+C:\Users\CH200001\Desktop\AllDll\Print\obj\Debug\Print.pdb
+C:\Users\Test\Desktop\AllDll\Print\bin\Debug\Print.dll
+C:\Users\Test\Desktop\AllDll\Print\bin\Debug\Print.pdb
+C:\Users\Test\Desktop\AllDll\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\AllDll\Print\obj\Debug\Print.csproj.CopyComplete
+C:\Users\Test\Desktop\AllDll\Print\obj\Debug\Print.dll
+C:\Users\Test\Desktop\AllDll\Print\obj\Debug\Print.pdb
+C:\Users\Test\Desktop\AllDll\Print\obj\Debug\Print.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\Print\obj\Debug\Print.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\bin\Debug\Print.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\bin\Debug\Print.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.csproj.AssemblyReference.cache
+D:\mech-sw\Z_AllDll\写好的代码\Print\bin\Debug\Print.dll
+D:\mech-sw\Z_AllDll\写好的代码\Print\bin\Debug\Print.pdb
+D:\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.dll
+D:\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\bin\Debug\Print.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\bin\Debug\Print.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\obj\Debug\Print.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\bin\Debug\Print.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\bin\Debug\Print.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Debug\Print.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Debug\Print.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Debug\Print.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Debug\Print.Form1.resources
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Debug\Print.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\bin\Debug\Print.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\bin\Debug\Print.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Debug\Print.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Debug\Print.Form1.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Debug\Print.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Debug\Print.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Debug\Print.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Debug\Print.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\bin\Debug\Print.xml
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\bin\Debug\Print.xml
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\bin\Debug\Print.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\bin\Debug\Print.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\obj\Debug\Print.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\obj\Debug\Print.Form1.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\obj\Debug\Print.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\obj\Debug\Print.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\obj\Debug\Print.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\旧方法区\Print\obj\Debug\Print.pdb

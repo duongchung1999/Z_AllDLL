@@ -1,0 +1,32 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\bin\Release\_8342.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\bin\Release\_8342.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Release\_8342.Forms.MessageBoxs.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Release\_8342.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Release\_8342.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Release\_8342.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Release\_8342.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Release\_8342.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\_8342\bin\Release\_8342.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\_8342\bin\Release\_8342.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\_8342\obj\Release\_8342.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\_8342\obj\Release\_8342.Forms.MessageBoxs.resources
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\_8342\obj\Release\_8342.csproj.GenerateResource.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\_8342\obj\Release\_8342.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\_8342\obj\Release\_8342.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\_8342\obj\Release\_8342.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_8342\bin\Release\_8342.dll
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_8342\bin\Release\_8342.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_8342\obj\Release\_8342.Forms.MessageBoxs.resources
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_8342\obj\Release\_8342.csproj.GenerateResource.cache
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_8342\obj\Release\_8342.csproj.CoreCompileInputs.cache
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_8342\obj\Release\_8342.dll
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_8342\obj\Release\_8342.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_8342\obj\Release\_8342.csproj.AssemblyReference.cache
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\bin\Release\_8342.dll
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\bin\Release\_8342.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Release\_8342.csproj.AssemblyReference.cache
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Release\_8342.Forms.MessageBoxs.resources
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Release\_8342.csproj.GenerateResource.cache
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Release\_8342.csproj.CoreCompileInputs.cache
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Release\_8342.dll
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Release\_8342.pdb

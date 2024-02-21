@@ -1,0 +1,9 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\RSA3030_TG\bin\Release\RSA3030_TG.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\RSA3030_TG\bin\Release\RSA3030_TG.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\RSA3030_TG\bin\Release\NationalInstruments.Common.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\RSA3030_TG\bin\Release\NationalInstruments.VisaNS.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\RSA3030_TG\obj\Release\RSA3030_TG.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\RSA3030_TG\obj\Release\RSA3030_TG.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\RSA3030_TG\obj\Release\RSA3030_TG.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\RSA3030_TG\obj\Release\RSA3030_TG.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\RSA3030_TG\obj\Release\RSA3030_TG.csprojAssemblyReference.cache

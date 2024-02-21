@@ -1,0 +1,1247 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SoundCheck_V1</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:SoundCheck_V1.API.VersionControl.Compress(System.String,System.String,System.String)" -->
+        <member name="M:SoundCheck_V1.API.VersionControl.UpdateEachFile(System.String,System.String)">
+            <summary>
+            检测程序文件
+            </summary>
+            <param name="P_本地包路径"></param>
+            <param name="P_更新包路径"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.VersionControl.CopyFolder(System.String,System.String)">
+            <summary>
+            复制文件夹及文件
+            </summary>
+            <param name="sourceFolder">原文件路径</param>
+            <param name="destFolder">目标文件路径</param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.PostClass.HttpPost(System.String,System.String,System.String,System.String,System.String@)">
+            <summary>
+            调用API 版本控制系统
+            </summary>
+            <param name="url"></param>
+            <param name="TestName"></param>
+            <param name="DownloadName"></param>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.MySqlTestData.IsOpen">
+            <summary>
+            判断数据库是否连接成功
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.MySqlTestData.GetDataList(System.String)">
+            <summary>
+            查询多条数据--数组集合
+            </summary>
+            <returns>返回字符串数组集合结果</returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.MySqlTestData.ExecuteSql(System.String,System.String)">
+            <summary>
+            增删改
+            </summary>
+            <returns>返回执行是否成功</returns>
+        </member>
+        <member name="F:SoundCheck_V1.API.SoundCheck.FirstRunSequence">
+            <summary>
+            表示程序第一次启动或者第一次启动sound check 才会执行Sqc
+            </summary>
+        </member>
+        <member name="M:SoundCheck_V1.API.SoundCheck.GetAllNames(System.String[]@)">
+            <summary>
+            获取所有曲线的名称
+            </summary>
+            <param name="Names"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.API.SoundCheck.GetAllCurves(System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.Dictionary{System.String,System.Object}}@)">
+            <summary>
+            获取所有的曲线
+            </summary>
+            <param name="tokens"></param>
+            <returns></returns>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_CalibrationDetails">
+            <summary>
+            校准内容
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_CalibrationMethod">
+            <summary>
+            校准方式
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_CalibrationFeature">
+            <summary>
+            校准特色
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_InitGainSeting">
+            <summary>
+            初始化增益
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_ResultType">
+            <summary>
+            结果类型
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_FinalExecution">
+            <summary>
+            最后执行 最后是否烧录
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_FBMinType">
+            <summary>
+            FB 最深点频率类型
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_FBAvgType">
+            <summary>
+            FB 平均值频点类型
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_FFMinType">
+            <summary>
+            FF 最深点频率类型
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_FFAvgType">
+            <summary>
+            FF 平均值频点类型
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_HMinType">
+            <summary>
+            混合 最深点频率类型
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.gb_HAvgType">
+            <summary>
+            混合 平均值频率类型
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_TestMinCount">
+            <summary>
+            第一步测试最大的尝试次数
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_TestMaxCount">
+            <summary>
+            最大的尝试次数
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBGainMax">
+            <summary>
+            FB 增益上限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBGainMin">
+            <summary>
+            FB 增益下限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFGainMax">
+            <summary>
+            FF 增益上限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFGainMin">
+            <summary>
+            FF 增益下限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBLInitGain">
+            <summary>
+            FB 左初始增益
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBRInitGain">
+            <summary>
+            FB 右初始增益
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFLInitGain">
+            <summary>
+            FF 左初始增益
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFRInitGain">
+            <summary>
+            FF 右初始增益
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_GainSpan">
+            <summary>
+            增益步进
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_ScanGainSpan">
+            <summary>
+            精扫步进
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBMinSratrFreq">
+            <summary>
+            FB 起始频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBMinENDFreq">
+            <summary>
+            FB 结束频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBMinSingleFreq">
+            <summary>
+            FB 单值检查频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBMinUplimit">
+            <summary>
+            FB 目标值上限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBMinLowLimit">
+            <summary>
+            FB 目标值下限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBMinTarget">
+            <summary>
+            FB 模式时效果的目标值
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBAvgSratrFreq">
+            <summary>
+            FB 起始频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBAvgENDFreq">
+            <summary>
+            FB 结束频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBAvgTarget">
+            <summary>
+            FB 平均值的限度
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBAvgUplimit">
+            <summary>
+            FB 平均值上限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FBAvgLowlimit">
+            <summary>
+            FB 平均值下限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFMinSratrFreq">
+            <summary>
+            FF 最深点开始频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFMinENDFreq">
+            <summary>
+            FF 最深点结束频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFMinSingleFreq">
+            <summary>
+            FF 最深点目标频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFMinTarget">
+            <summary>
+            FF 最深点目标值
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFAvgSratrFreq">
+            <summary>
+            FF 平均点开始频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFAvgENDFreq">
+            <summary>
+            FF 平均点结束频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_FFAvgTarget">
+            <summary>
+            FF 平均点目标值
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_HMinSratrFreq">
+            <summary>
+            混合 最深点开始频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_HMinENDFreq">
+            <summary>
+            混合 最深点结束频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_HMinSingleFreq">
+            <summary>
+            混合 最深点频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_HMinTarget">
+            <summary>
+            混合 最深点目标值
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_HAvgSratrFreq">
+            <summary>
+            混合 平均点开始频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_HAvgENDFreq">
+            <summary>
+            混合 平均点结束频率
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_HAvgTarget">
+            <summary>
+            混合 平均点目标值
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_HAvgUplimit">
+            <summary>
+            混合 平均点上限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_HAvgLowlimit">
+            <summary>
+            混合 平均点下限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.cb_ShowCailbration">
+            <summary>
+            显示校准结果
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.nb_cb_DebugCalibration">
+            <summary>
+            校准调试阻断器
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.cb_ShowCMDMSG">
+            <summary>
+            启用烧录失败提示
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.cb_TE_BZP_WriteGain">
+            <summary>
+            标准品是否烧录
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.cb_TE_BZP_Calibration">
+            <summary>
+            标准品校准
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.cb_EnterAccuracyscan">
+            <summary>
+            启用精扫模式
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.cb_EnterBalance">
+            <summary>
+            启用平衡优先
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.cb_FBAvgEnableLimit">
+            <summary>
+            FB 启用平均上下限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.cb_HAvgEnableLimit">
+            <summary>
+            混合 启用平均上下限
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.str_FBLTarget">
+            <summary>
+            立讯特色 FBL 校准目标值
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.str_FBRTarget">
+            <summary>
+            立讯特色 FBR 校准目标值
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.str_FFLTarget">
+            <summary>
+            立讯特色 FFL 校准目标值
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.str_FFRTarget">
+            <summary>
+            立讯特色 FFR 校准目标值
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.dg_FBAvgFreqs">
+            <summary>
+            FB 平均频率点
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.dg_FFAvgFreqs">
+            <summary>
+            FF 平均频率点
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.dg_HAvgFreqs">
+            <summary>
+            混合平均频率点
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter.cbb_CMDList">
+            <summary>
+            指令集
+            </summary>
+        </member>
+        <member name="T:SoundCheck_V1.TemplateANC.Expand.Switch_ANC_Mode">
+            <summary>
+            切换ANC 模式
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_ANC_Mode.SwitchFBOnly">
+            <summary>
+            打开FB模式
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_ANC_Mode.SwitchFFOnly">
+            <summary>
+            打开FF模式
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_ANC_Mode.SwitchHybrid">
+            <summary>
+            打开混合模式
+            </summary>
+        </member>
+        <member name="T:SoundCheck_V1.TemplateANC.Expand.Switch_CalibrationDetails">
+            <summary>
+            校准内容
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_CalibrationDetails.rb_cbtFB">
+            <summary>
+            校准FB
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_CalibrationDetails.rb_cbtFF">
+            <summary>
+            校准FF
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_CalibrationDetails.rb_cbtHybrid">
+            <summary>
+            FB+混合校准
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_CalibrationDetails.rb_cbtOffFB_ONFF">
+            <summary>
+            固定FB+校准FF
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_CalibrationDetails.rb_cbtOnFB_OffFF">
+            <summary>
+            校准FB+固定FF
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_CalibrationDetails.rb_cbtOffFB_OffFF">
+            <summary>
+            固定FB+固定FF
+            </summary>
+        </member>
+        <member name="T:SoundCheck_V1.TemplateANC.Expand.Switch_isSaveGain">
+            <summary>
+            最后执行是否烧录
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_isSaveGain.rb_SaveGain">
+            <summary>
+            烧录Gain
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_isSaveGain.rb_NotWriteGain">
+            <summary>
+            不烧录Gain
+            </summary>
+        </member>
+        <member name="F:SoundCheck_V1.TemplateANC.Expand.Switch_isSaveGain.rb_PassSaveGain">
+            <summary>
+            Pass才烧录Gain
+            </summary>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.LuxShare_CalibrationData.ANCAdjust_ForCurves(SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter,System.Boolean,System.Boolean,System.Double@,System.Double@)">
+            <summary>
+             立讯特色校准
+            </summary>
+            <param name="_Parameter"></param>
+            <param name="isFB"></param>
+            <param name="L_Gain"></param>
+            <param name="R_Gain"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.LuxShare_CalibrationData.CalculateAllCurve(MerryDllFramework.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@)">
+            <summary>
+            计算左右耳曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_Cardinal"></param>
+            <param name="R_Cardinal"></param>
+            <param name="L_NexGainCurves"></param>
+            <param name="R_NexGainCurves"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.LuxShare_CalibrationData.ScreenPassCurves(MerryDllFramework.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@)">
+            <summary>
+            嵌入limit 筛选 Pass曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_NotScreenAllCurves"></param>
+            <param name="R_NotScreenAllCurves"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.LuxShare_CalibrationData.ScreenApproachFigure(System.Double[],System.Double)">
+            <summary>
+            选择目标的接近值
+            </summary>
+            <param name="ListFigure"></param>
+            <param name="ApproachFigure"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Merry_CalibrationDataFB.ANCAdjust_ForCurvesFB(SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter,System.Boolean,System.Double@,System.Double@)">
+            <summary>
+            FB校准对外接口
+            </summary>
+            <param name="_Parameter"></param>
+            <param name="L_Gain"></param>
+            <param name="R_Gain"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Merry_CalibrationDataFB.ScreenMethod(MerryDllFramework.CurvesInfo.info@,MerryDllFramework.CurvesInfo.info@,SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Text.StringBuilder@)">
+            <summary>
+            扫描的方法
+            </summary>
+            <param name="LastInfo">上一个曲线数据</param>
+            <param name="NextInfo">下一个曲线数据</param>
+            <param name="_Parameter">参数类</param>
+            <param name="L_NotScreenAllCurves">左耳预测的曲线集</param>
+            <param name="R_NotScreenAllCurves">右耳预测的曲线集</param>
+            <param name="adjustLog"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Merry_CalibrationDataFF.ANCAdjust_ForCurvesFF(SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter,System.Boolean,System.Double@,System.Double@)">
+            <summary>
+            FF校准对外接口
+            </summary>
+            <param name="_Parameter"></param>
+            <param name="SequenceDic"></param>
+            <param name="NGCurvesIf"></param>
+            <param name="L_Gain"></param>
+            <param name="R_Gain"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Merry_CalibrationDataFF.ScreenMethod(MerryDllFramework.CurvesInfo.info@,MerryDllFramework.CurvesInfo.info@,SoundCheck_V1.TemplateANC.ANC_Calibration_Parameter,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Text.StringBuilder@)">
+            <summary>
+            扫描的方法
+            </summary>
+            <param name="LastInfo">上一个曲线数据</param>
+            <param name="NextInfo">下一个曲线数据</param>
+            <param name="_Parameter">参数类</param>
+            <param name="L_NotScreenAllCurves">左耳预测的曲线集</param>
+            <param name="R_NotScreenAllCurves">右耳预测的曲线集</param>
+            <param name="adjustLog"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.ANC_CalibrationMethod.Calibration">
+            <summary>
+            通用校准方法入口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.ANC_CalibrationMethod.SingleCalibration(System.String,System.String,System.String,System.String,System.Double@,System.Double@,System.Double@,System.Double@)">
+            <summary>
+            单模式校准
+            </summary>
+            <param name="SwitchANCMode"></param>
+            <param name="FormsName"></param>
+            <param name="PassText"></param>
+            <param name="TestData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.ANC_CalibrationMethod.HybridCalibration(System.Boolean,System.String,System.String,System.String,System.String,System.Double@,System.Double@,System.Double@,System.Double@)">
+            <summary>
+            混合模式校准
+            </summary>
+            <param name="SwitchANCMode"></param>
+            <param name="FormsName"></param>
+            <param name="PassText"></param>
+            <param name="TestData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.ANC_CalibrationMethod.InitGain(System.String,System.Double@,System.Double@,System.Double@,System.Double@)">
+            <summary>
+            初始化Gain
+            </summary>
+            <param name="SwitchANCMode"></param>
+            <param name="LFBGain"></param>
+            <param name="RFBGain"></param>
+            <param name="LFFGain"></param>
+            <param name="RFFGain"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.ANC_CalibrationMethod.SearchFromsOrFile(System.String,System.Boolean,System.String,System.Int32,System.Boolean@,System.Boolean@)">
+            <summary>
+            二次调用点击窗体的方法
+            </summary>
+            <param name="FormsName"></param>
+            <param name="isbutton"></param>
+            <param name="Key"></param>
+            <param name="TimeOut"></param>
+            <param name="IsFile"></param>
+            <param name="IsForms"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.ANC_CalibrationMethod.ExistsFileOrForms(System.String,System.Boolean,System.String,System.Int32,System.Boolean@,System.Boolean@)">
+            <summary>
+            点击窗体的方法
+            </summary>
+            <param name="FormsName"></param>
+            <param name="isbutton"></param>
+            <param name="Key"></param>
+            <param name="TimeOut"></param>
+            <param name="IsFile"></param>
+            <param name="IsForms"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.ANC_CalibrationMethod.DeleteAllTxt(System.String)">
+            <summary isPublicTestItem="false">
+            清除所有txt文件
+            </summary>
+            <param name="FilePath">输入指定路径清除 或 使用Sqc路径 输入“default”</param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.GetPrivateProfileSectionNames(System.IntPtr,System.UInt32,System.String)">
+            <summary>
+            获取所有节点名称(Section)
+            </summary>
+            <param name="lpszReturnBuffer">存放节点名称的内存地址,每个节点之间用\0分隔</param>
+            <param name="nSize">内存大小(characters)</param>
+            <param name="lpFileName">Ini文件</param>
+            <returns>内容的实际长度,为0表示没有内容,为nSize-2表示内存大小不够</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.GetPrivateProfileSection(System.String,System.IntPtr,System.UInt32,System.String)">
+            <summary>
+            获取某个指定节点(Section)中所有KEY和Value
+            </summary>
+            <param name="lpAppName">节点名称</param>
+            <param name="lpReturnedString">返回值的内存地址,每个之间用\0分隔</param>
+            <param name="nSize">内存大小(characters)</param>
+            <param name="lpFileName">Ini文件</param>
+            <returns>内容的实际长度,为0表示没有内容,为nSize-2表示内存大小不够</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.GetPrivateProfileString(System.String,System.String,System.String,System.Char[],System.UInt32,System.String)">
+            <summary>
+            读取INI文件中指定的Key的值
+            </summary>
+            <param name="lpAppName">节点名称。如果为null,则读取INI中所有节点名称,每个节点名称之间用\0分隔</param>
+            <param name="lpKeyName">Key名称。如果为null,则读取INI中指定节点中的所有KEY,每个KEY之间用\0分隔</param>
+            <param name="lpDefault">读取失败时的默认值</param>
+            <param name="lpReturnedString">读取的内容缓冲区，读取之后，多余的地方使用\0填充</param>
+            <param name="nSize">内容缓冲区的长度</param>
+            <param name="lpFileName">INI文件名</param>
+            <returns>实际读取到的长度</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.WritePrivateProfileSection(System.String,System.String,System.String)">
+            <summary>
+            将指定的键值对写到指定的节点，如果已经存在则替换。
+            </summary>
+            <param name="lpAppName">节点，如果不存在此节点，则创建此节点</param>
+            <param name="lpString">Item键值对，多个用\0分隔,形如key1=value1\0key2=value2
+            <para>如果为string.Empty，则删除指定节点下的所有内容，保留节点</para>
+            <para>如果为null，则删除指定节点下的所有内容，并且删除该节点</para>
+            </param>
+            <param name="lpFileName">INI文件</param>
+            <returns>是否成功写入</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.WritePrivateProfileString(System.String,System.String,System.String,System.String)">
+            <summary>
+            将指定的键和值写到指定的节点，如果已经存在则替换
+            </summary>
+            <param name="lpAppName">节点名称</param>
+            <param name="lpKeyName">键名称。如果为null，则删除指定的节点及其所有的项目</param>
+            <param name="lpString">值内容。如果为null，则删除指定节点中指定的键。</param>
+            <param name="lpFileName">INI文件</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.INIGetAllSectionNames(System.String)">
+            <summary>
+            读取INI文件中指定INI文件中的所有节点名称(Section)
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <returns>所有节点,没有内容返回string[0]</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.INIGetAllItems(System.String,System.String)">
+            <summary>
+            获取INI文件中指定节点(Section)中的所有条目(key=value形式)
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <param name="section">节点名称</param>
+            <returns>指定节点中的所有项目,没有内容返回string[0]</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.INIGetAllItemKeys(System.String,System.String)">
+            <summary>
+            获取INI文件中指定节点(Section)中的所有条目的Key列表
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <param name="section">节点名称</param>
+            <returns>如果没有内容,反回string[0]</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.INIGetStringValue(System.String,System.String,System.String,System.String)">
+            <summary>
+            读取INI文件中指定KEY的字符串型值
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <param name="section">节点名称</param>
+            <param name="key">键名称</param>
+            <param name="defaultValue">如果没此KEY所使用的默认值</param>
+            <returns>读取到的值</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.INIWriteItems(System.String,System.String,System.String)">
+            <summary>
+            在INI文件中，将指定的键值对写到指定的节点，如果已经存在则替换
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点，如果不存在此节点，则创建此节点</param>
+            <param name="items">键值对，多个用\0分隔,形如key1=value1\0key2=value2</param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.INIWriteValue(System.String,System.String,System.String,System.String)">
+            <summary>
+            在INI文件中，指定节点写入指定的键及值。如果已经存在，则替换。如果没有则创建。
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点</param>
+            <param name="key">键</param>
+            <param name="value">值</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.INIDeleteKey(System.String,System.String,System.String)">
+            <summary>
+            在INI文件中，删除指定节点中的指定的键。
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点</param>
+            <param name="key">键</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.INIDeleteSection(System.String,System.String)">
+            <summary>
+            在INI文件中，删除指定的节点。
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIOperationClass.INIEmptySection(System.String,System.String)">
+            <summary>
+            在INI文件中，删除指定节点中的所有内容。
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.INIClass.GetSection(System.String,System.String)">
+            <summary>
+            根据传入的节点读取该节点下的所有内容
+            </summary>
+            <param name="iniFile">INI文件路径</param>
+            <param name="category">节点名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.ReadCardinal(System.String,System.Boolean)">
+            <summary>
+            读取Gain值的基数
+            </summary>
+            <param name="TypeName"></param>
+            <param name="isFB"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.adjustSplit(System.String[])">
+            <summary>
+            切割Gain值
+            </summary>
+            <param name="Data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.ReadFB_SCData(System.Boolean,MerryDllFramework.CurvesInfo.info@,MerryDllFramework.CurvesInfo.info@)">
+            <summary>
+            读取ANC 测试的曲线数据
+            </summary>
+            <param name="FilePath">曲线路径</param>
+            <param name="isFB">是否是FB</param>
+            <param name="LastInfo">上一条曲线的容器</param>
+            <param name="NexInfo">下一条曲线的容器</param>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.GetGainRegion(System.Double,System.Double,System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,System.Double[]}@,System.Collections.Generic.Dictionary{System.Double,System.Double[]}@)">
+            <summary>
+            挑选允许修改的Gain值
+            </summary>
+            <param name="Up"></param>
+            <param name="Down"></param>
+            <param name="L_data"></param>
+            <param name="R_data"></param>
+            <param name="L_Cardinal"></param>
+            <param name="R_Cardinal"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.SupplementLimit(MerryDllFramework.CurvesInfo.info@,MerryDllFramework.CurvesInfo.info@)">
+            <summary>
+            补充缺失的limit
+            </summary>
+            <param name="info"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.Supplemen(System.Double[],System.Double[],System.Double[],System.Double[]@,System.Double[]@)">
+            <summary>
+            自动补充缺失的limit
+            </summary>
+            <param name="DataXdata"></param>
+            <param name="LimitXdata"></param>
+            <param name="LimitYdata"></param>
+            <param name="SuppXdata"></param>
+            <param name="SuppYdata"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.CopyDictionary(System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@)">
+            <summary>
+            复制一份曲线字典
+            </summary>
+            <param name="L_Curves"></param>
+            <param name="R_Curves"></param>
+            <param name="L_ScreenAllCurves"></param>
+            <param name="R_ScreenAllCurves"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.CalculateAllCurve(MerryDllFramework.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@)">
+            <summary>
+            计算左右耳曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_Cardinal"></param>
+            <param name="R_Cardinal"></param>
+            <param name="L_NexGainCurves"></param>
+            <param name="R_NexGainCurves"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.CalculateAllBalanceCurves(MerryDllFramework.CurvesInfo.info@,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData})">
+            <summary>
+            不嵌入limit 筛选平衡曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_AllCurves"></param>
+            <param name="R_AllCurves"></param>
+            <param name="curves"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.ScreenPassCurves(MerryDllFramework.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData}@,System.Double)">
+            <summary>
+            模拟时用的筛选 嵌入limit 筛选 Pass曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_NotScreenAllCurves"></param>
+            <param name="R_NotScreenAllCurves"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.ScreenBalancePassCurves(MerryDllFramework.CurvesInfo.info@,System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Collections.Generic.Dictionary{System.Double,MerryDllFramework._CurvesData},System.Double)">
+            <summary>
+            嵌入limit 筛选最平衡曲线
+            </summary>
+            <param name="NextInfo">下一条曲线</param>
+            <param name="L_PassCurves">左边能pass的曲线</param>
+            <param name="R_PassCurves">右边能pass的曲线</param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.ScreenApproachFigure(System.Double[],System.Double)">
+            <summary>
+            选择目标的接近值
+            </summary>
+            <param name="ListFigure"></param>
+            <param name="ApproachFigure"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SoundCheck_V1.TemplateANC.Method.ShowCailbration(MerryDllFramework.CurvesInfo.info,MerryDllFramework.CurvesInfo.info,System.Text.StringBuilder,System.String,System.Int32,System.String)">
+            <summary>
+            显示校准的预测曲线
+            </summary>
+            <param name="LastInfo">上一个曲线数据</param>
+            <param name="NextInfo">下一个曲线数据</param>
+            <param name="adjustLog">信息</param>
+        </member>
+        <member name="F:MerryDllFramework.CurvesForms.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.CurvesForms.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryDllFramework.CurvesForms.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.UIAdaptiveSize.Width">
+            <summary>
+            窗体初始宽度
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.UIAdaptiveSize.Height">
+            <summary>
+            窗体初始高度
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.UIAdaptiveSize.FormsName">
+            <summary>
+            窗体名字
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.UIAdaptiveSize.SetInitSize(System.Windows.Forms.Control)">
+            <summary>
+            存储窗体控件初始大小
+            </summary>
+            <param name="cons">窗体对象（一般为this）</param>
+        </member>
+        <member name="M:MerryDllFramework.UIAdaptiveSize.UpdateSize(System.Single,System.Single,System.Windows.Forms.Control)">
+            <summary>
+            修改窗体控件大小
+            </summary>
+            <param name="x">改变后宽度</param>
+            <param name="y">改变后高度</param>
+            <param name="cons"></param>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="T:MerryDllFramework.WindowControl">
+            <summary>
+            控制窗体类
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.WindowControl.GetWindowName(System.String,System.Boolean,System.String@)">
+            <summary>
+            获取窗体名
+            </summary>
+            <param name="WinName"></param>
+            <param name="IsFullName"></param>
+            <param name="NameFound"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.WindowControl.SendKeyToWindow(System.String,System.String,System.Int32)">
+            <summary>
+            选中窗体并按键
+            </summary>
+            <param name="WinName"></param>
+            <param name="fullName"></param>
+            <param name="sKey"></param>
+            <param name="TimeOut"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.WindowControl.SendKeyToWindow(System.String,System.Boolean,System.String,System.String@)">
+            <summary>
+            选中窗体并按键
+            </summary>
+            <param name="WinName"></param>
+            <param name="fullName"></param>
+            <param name="sKey"></param>
+            <param name="error"></param>
+            <returns></returns>
+        </member>
+        <member name="F:MerryDllFramework.scForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.scForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryDllFramework.scForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="SoundCheck_V1">
+            SoundCheck 控制类
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._Cut_OffRule">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 常规使用 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ControlSequence">
+            <summary isPublicTestItem="true">
+             0、管控SQC文件
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StartTest(System.Int32)">
+            <summary isPublicTestItem="false">
+            1、Sound Check 开始测试内包含（启动,建立连接，运行Sqc）
+            </summary>
+            <param name="Sleep">开始测试前延时 常规 “100” </param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StartTestB(System.Int32,System.Boolean)">
+            <summary isPublicTestItem="true">
+            1、Sound Check 开始测试内包含（启动,建立连接，运行Sqc）
+            </summary>
+            <param name="Sleep">开始测试前延时 常规 “100” </param>
+            <param name="RunSequenceFlag" options="False,True"> 是否运行SQC文件</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetStepResult(System.String)">
+            <summary isPublicTestItem="true">
+            2、获取指定项目的测试结果 
+            </summary>
+            <param name="SetpName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetFinalResults">
+            <summary isPublicTestItem="true">
+            3、获取总的测试结果
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ANC 测试特调区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenSoundCheck">
+            <summary isPublicTestItem="false">
+            1、打开Sound Check 程序 已经打开后不会重复打开
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ConnectSoundCheck">
+            <summary isPublicTestItem="false">
+            2、与 Sound Check 建立连接
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.RunSequence">
+            <summary isPublicTestItem="false">
+            3 .A、执行Sqc文件、程序第一次启动或第一次启动Sound Check执行
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.EveryRunSequence(System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="false">
+             3 .B、每次执行Sqc文件
+            </summary>
+            <param name="Path">绝对路径、 相对路径填入快捷方式名称、 将快捷方式存放在TestItem\机型\SQC文件夹下</param>
+            <param name="PathType" options="Absolute,Relative">绝对路径：Absolute 相对路径：Relative</param>
+            <param name="Sleep">运行Sqc后的延时 1000</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StartTestC(System.Int32)">
+            <summary isPublicTestItem="true">
+            0、ANC用：Sound Check 开始测试内包含（启动，建立连接，运行Sqc，清除txt数据）
+            </summary>
+            <param name="Sleep">开始测试前延时 常规 “100” </param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ANCAdjust(System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="false">
+            ANC 根据曲线上下限校准校准
+            </summary>
+            <param name="FuncName">Config字典上的委托名称</param>
+            <param name="UpLimitName_L">SC 左项目上限名称</param>
+            <param name="LowLimitName_L">SC 左项目下限名称</param>
+            <param name="UpLimitName_R">SC 右项目上限名称</param>
+            <param name="LowLimitName_R">SC 右项目下限名称</param>
+            <param name="Sleep">测试前延时 方便等待指令生效时间 建议 300</param>
+            <param name="TrimCount">校准次数  没想法写 10</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ANCAdjust_BySensitivity(System.String,System.String,System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="false">
+            ANC 获取感度校准
+            </summary>
+            <param name="FuncName">Config字典上的委托名称</param>
+            <param name="ResultName_L">SC 左 感度结果名称 </param>
+            <param name="ResultName_R">SC 右 感度结果名称 </param>
+            <param name="Sleep">测试前延时 方便等待指令生效时间 建议 300</param>
+            <param name="TrimCount">校准次数  没想法写 10</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ANCAdjust_ByCurves(System.String,System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="false">
+            ANC 根据曲线校准旧版
+            </summary>
+            <param name="FuncName">Config字典上的委托名称</param>
+            <param name="FilePath">txt曲线数据完整路径</param>
+            <param name="Sleep">测试前延时 方便等待指令生效时间 建议 300</param>
+            <param name="TrimCount">校准次数  没想法写 3</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AllCurveInfomationIsUploadedToMysql">
+            <summary isPublicTestItem="false">
+            保存所有曲线上传到数据库
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Adjust_ANC_ByCurves(System.String,System.String,System.String)">
+            <summary isPublicTestItem="false">
+            ANC 根据曲线数据进行校准
+            </summary>
+            <param name="FuncName">Func 执行体 赋值给Config字典名</param>
+            <param name="_FilePath">测试数据 txt 名</param>
+            <param name="FormsName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SearchFromsOrFile(System.String,System.Boolean,System.String,System.Int32,System.Boolean@,System.Boolean@)">
+            <summary isPublicTestItem="true">
+            识别弹框  识别到Final Test Result.txt 就Fail 
+            </summary>
+            <param name="FormsName">窗体名称</param>
+            <param name="isbutton" options="True,False">是否点击弹窗</param>
+            <param name="Key">按键</param>
+            <param name="TimeOut">超时 千分一秒</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Calibration_Sensitivity(System.String,System.Double,System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="false">
+             通用机型开发校准方法 单曲线
+            </summary>
+            <param name="FuncName">Func 执行体 赋值给Config字典名</param>
+            <param name="Frequency">频率</param>
+            <param name="CurvesName">曲线的名称</param>
+            <param name="Uplimit">上限的名称</param>
+            <param name="LowLimit">下限的名称</param>
+            <param name="TestCount">校准次数 要跟SC 对应</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ANC_Calibration">
+            <summary isPublicTestItem="true">
+            ANC 通用校准方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.__Cut_OffRule">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 辅组方法区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.UploadLogiAcousticsData">
+            <summary isPublicTestItem="true">
+            上传Logi 声学Execl数据到服务器 注:每测更新
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.UploadAcousticsData(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            上传声学xlsx文件
+            </summary>
+            <param name="url">API地址</param>
+            <param name="Model">机型名称</param>
+            <param name="StationName">站别名称（测试站名称|LG站别名称）</param>
+            <param name="LGInfo">传入LG文件名称前缀信息（LogiProject_LogiStage）</param>
+            <param name="MachineName">传入电脑编号</param>
+            <param name="FilePath">文件绝对路径</param>
+            <param name="FieName">文件名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SendKeyToWindow(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            搜索窗体 模拟点击按键
+            </summary>
+            <param name="FormsName">窗体名称</param>
+            <param name="Key">按键 比如 F2</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SearchFormsName(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            搜索窗体
+            </summary>
+            <param name="FormsName">窗体名称</param>
+            <param name="Time">搜索时间  毫秒</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ExistsFileOrForms(System.String,System.Boolean,System.String,System.Int32,System.Boolean@,System.Boolean@)">
+            <summary isPublicTestItem="false">
+              识别或点击弹窗  识别到TEST-END.txt 就Fail 
+            </summary>
+            <param name="FormsName">窗体名称</param>
+            <param name="isbutton" options="True,False">是否点击弹窗</param>
+            <param name="Key">按键</param>
+            <param name="TimeOut">超时 千分一秒</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ExistsFile(System.String,System.Int32)">
+            <summary isPublicTestItem="false">
+            搜索Sequence目录下 指定文件
+            </summary>
+            <param name="FileName">文件名</param>
+            <param name="TimeOut">超时 毫秒</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DeleteAllTxt(System.String)">
+            <summary isPublicTestItem="false">
+            清除所有txt文件
+            </summary>
+            <param name="FilePath">输入指定路径清除 或 使用Sqc路径 输入“default”</param>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SaveLog">
+            <summary isPublicTestItem="true">
+            生成Sound Tcp指令日记
+            </summary>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Calibration_ANC_ByCurves(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary isPublicTestItem="false">
+             被洛达芯片方法调用 第一次使用的方法
+            </summary>
+            <param name="FuncName">Func 执行体 赋值给Config字典名</param>
+            <param name="PassFileName">Pass文件名</param>
+            <param name="CurvesDataFileName">曲线数据文件名</param>
+            <param name="FormsName">判断窗体名</param>
+            <param name="ShowCalibration" options="False,True">显示校准算法</param>
+            <param name="FinalTestResult">测试结束</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Calibration_ANC_ByCurves_2(System.String,System.String,System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="false">
+             被洛达芯片方法调用 第二次使用的方法
+            </summary>
+            <param name="FuncName">Func 执行体 赋值给Config字典名</param>
+            <param name="PassFileName">Pass文件名</param>
+            <param name="CurvesDataFileName">曲线数据文件名</param>
+            <param name="FormsName">判断窗体名</param>
+            <param name="TestCount">校准次数</param>
+            <param name="FinalTestResult">测试结束</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

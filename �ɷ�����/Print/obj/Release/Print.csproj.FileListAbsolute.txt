@@ -1,0 +1,43 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\bin\Release\Print.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\bin\Release\Print.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\bin\Release\Seagull.BarTender.Print.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.csproj.AssemblyReference.cache
+D:\mech-sw\Z_AllDll\写好的代码\Print\bin\Release\Print.dll
+D:\mech-sw\Z_AllDll\写好的代码\Print\bin\Release\Print.pdb
+D:\mech-sw\Z_AllDll\写好的代码\Print\bin\Release\Seagull.BarTender.Print.dll
+D:\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.dll
+D:\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.pdb
+D:\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.csproj.CopyComplete
+D:\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.csproj.AssemblyReference.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\bin\Release\Print.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\bin\Release\Print.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\bin\Release\Seagull.BarTender.Print.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.csproj.AssemblyReference.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Print\obj\Release\Print.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\bin\Release\Print.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\bin\Release\Print.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\bin\Release\Seagull.BarTender.Print.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Release\Print.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Release\Print.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Release\Print.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Release\Print.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Release\Print.Form1.resources
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Print\obj\Release\Print.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\bin\Release\Print.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\bin\Release\Print.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\bin\Release\Seagull.BarTender.Print.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Release\Print.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Release\Print.Form1.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Release\Print.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Release\Print.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Release\Print.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Release\Print.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Print\obj\Release\Print.pdb

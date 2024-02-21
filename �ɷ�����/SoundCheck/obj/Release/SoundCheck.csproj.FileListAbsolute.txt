@@ -1,0 +1,64 @@
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\SoundCheck\bin\Release\Newtonsoft.Json.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SoundCheck\bin\Release\Newtonsoft.Json.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.pdb
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.dll
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.pdb
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\bin\Release\Newtonsoft.Json.dll
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.scForm.resources
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.GenerateResource.cache
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CopyComplete
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.dll
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.pdb
+C:\Users\Test\Desktop\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.AssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.scForm.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.GenerateResource.cache
+D:\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.scForm.resources
+D:\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.GenerateResource.cache
+D:\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.dll
+D:\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.pdb
+D:\mech-sw\Z_AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.dll
+D:\mech-sw\Z_AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.pdb
+D:\mech-sw\Z_AllDll\写好的代码\SoundCheck\bin\Release\Newtonsoft.Json.dll
+D:\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\SoundCheck\bin\Release\SoundCheck.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\SoundCheck\bin\Release\Newtonsoft.Json.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.scForm.resources
+D:\Data\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.GenerateResource.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\SoundCheck\obj\Release\SoundCheck.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\bin\Release\SoundCheck.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\bin\Release\SoundCheck.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\bin\Release\Newtonsoft.Json.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\obj\Release\SoundCheck.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\obj\Release\SoundCheck.scForm.resources
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\obj\Release\SoundCheck.csproj.GenerateResource.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\obj\Release\SoundCheck.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\obj\Release\SoundCheck.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\obj\Release\SoundCheck.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\SoundCheck\obj\Release\SoundCheck.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\bin\Release\SoundCheck.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\bin\Release\SoundCheck.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\bin\Release\Newtonsoft.Json.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\obj\Release\SoundCheck.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\obj\Release\SoundCheck.scForm.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\obj\Release\SoundCheck.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\obj\Release\SoundCheck.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\obj\Release\SoundCheck.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\obj\Release\SoundCheck.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck\obj\Release\SoundCheck.pdb

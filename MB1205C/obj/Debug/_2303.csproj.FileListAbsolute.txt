@@ -1,0 +1,32 @@
+C:\Users\CH200001\Desktop\SCPI\_2303\obj\Debug\_2303.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\SCPI\_2303\bin\Debug\_2303.dll
+C:\Users\CH200001\Desktop\SCPI\_2303\bin\Debug\_2303.pdb
+C:\Users\CH200001\Desktop\SCPI\_2303\obj\Debug\_2303.dll
+C:\Users\CH200001\Desktop\SCPI\_2303\obj\Debug\_2303.pdb
+C:\Users\CH200001\Desktop\DeviceDLL\_2303\bin\Debug\_2303.dll
+C:\Users\CH200001\Desktop\DeviceDLL\_2303\bin\Debug\_2303.pdb
+C:\Users\CH200001\Desktop\DeviceDLL\_2303\obj\Debug\_2303.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\DeviceDLL\_2303\obj\Debug\_2303.dll
+C:\Users\CH200001\Desktop\DeviceDLL\_2303\obj\Debug\_2303.pdb
+C:\Users\CH200001\Desktop\AllDll\_2303\bin\Debug\_2303.dll
+C:\Users\CH200001\Desktop\AllDll\_2303\bin\Debug\_2303.pdb
+C:\Users\CH200001\Desktop\AllDll\_2303\obj\Debug\_2303.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\_2303\obj\Debug\_2303.dll
+C:\Users\CH200001\Desktop\AllDll\_2303\obj\Debug\_2303.pdb
+C:\Users\Test\Desktop\AllDll\_2303\bin\Debug\_2303.dll
+C:\Users\Test\Desktop\AllDll\_2303\bin\Debug\_2303.pdb
+C:\Users\Test\Desktop\AllDll\_2303\obj\Debug\_2303.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\AllDll\_2303\obj\Debug\_2303.dll
+C:\Users\Test\Desktop\AllDll\_2303\obj\Debug\_2303.pdb
+C:\Users\Test\Desktop\AllDll\_2303\obj\Debug\_2303.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_2303\bin\Debug\_2303.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_2303\bin\Debug\_2303.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_2303\obj\Debug\_2303.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_2303\obj\Debug\_2303.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_2303\obj\Debug\_2303.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_2303\bin\Debug\_2303.dll
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_2303\bin\Debug\_2303.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_2303\obj\Debug\_2303.csproj.AssemblyReference.cache
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_2303\obj\Debug\_2303.csproj.CoreCompileInputs.cache
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_2303\obj\Debug\_2303.dll
+E:\ChungDS\2_SourceCode\6_OTHER\MerryFramework.app V20220607_New\Z_AllDll\_2303\obj\Debug\_2303.pdb

@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NXPRF_V1</name>
+    </assembly>
+    <members>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.SetApplicationMode">
+            <summary>
+            设置产品进入应用模式
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.SetBridgeMode">
+            <summary>
+            设置产品进入桥接模式
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.SetCWTestMode">
+            <summary>
+            设置产品进入CW测试模式
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.DtmReset">
+            <summary>
+            DTM 复位
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.SetPHYMode2M">
+            <summary>
+            设置物理模式2M
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.SetPHYMode1M">
+            <summary>
+            设置物理模式1M
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.SetOutputPowerNegative10dBm">
+            <summary>
+            设置Output Power Negative 10dBm
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.SetOutputPowerNegative4dBm">
+            <summary>
+            设置Output Power Negative 4dBm
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.EnableCWTxCH19">
+            <summary>
+            启用产品CW Tx CH19通道
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.DisableCWTxCH19">
+            <summary>
+            关闭产品CW Tx CH19通道
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.OpenTx2402DTMCH0">
+            <summary>
+            开启TX 2402测试通道
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.OpenTx2440DTMCH19">
+            <summary>
+            开启TX 2440测试通道
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.OpenTx2480TxDTMCH39">
+            <summary>
+            开启TX 2480测试通道
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.CloseDTMCH">
+            <summary>
+            关闭测试通道
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.OpenRx2402CH00">
+            <summary>
+            开启RX2402测试通道
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.OpenRx2440CH19">
+            <summary>
+            开启RX2440测试通道
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.OpenRx2480CH39">
+            <summary>
+            开启RX2480测试通道
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.SendCommand.Reset">
+            <summary>
+            重置产品
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.SetBridgeModeReturnValue">
+            <summary>
+            设置连接模式返回值
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.DtmResetReturnValue">
+            <summary>
+            DTM重置返回值
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.SetPHYModeReturnValue">
+            <summary>
+            设置物理模式返回值
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.SetOutputPowerReturnValue">
+            <summary>
+            设置Set Output Power返回值
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.CWTxCH19ReturnValue">
+            <summary>
+            CW TX CH19开关返回值
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.ConfigXtalCapsReturnValue">
+            <summary>
+            修改校准值返回值
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.OpenTxDTMCH0ReturnValue">
+            <summary>
+            开启TX测试通道返回值
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.CloseDTMCHReturnValue">
+            <summary>
+            关闭测试通道返回值
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.OpenRXCH0ReturnValue">
+            <summary>
+            开启RX测试通道返回值
+            </summary>
+        </member>
+        <member name="F:NXPRF_V1.ControlNXP.ReturnValue.ResetReturnValue">
+            <summary>
+            重置指令返回值
+            </summary>
+        </member>
+        <member name="M:NXPRF_V1.ControlNXP.ConnectPort">
+            <summary>
+            设置串口参数并打开串口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NXPRF_V1.ControlNXP.CloseCOM">
+            <summary>
+            关闭COM口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NXPRF_V1.ControlNXP.Write(System.Byte[])">
+            <summary>
+            下指令并循环读取返回值方法
+            </summary>
+            <param name="command">指令</param>
+            <returns></returns>
+        </member>
+        <member name="M:NXPRF_V1.ControlNXP.NXPRFCalibrationPrepare">
+            <summary>
+            NXP RF校准前置动作
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NXPRF_V1.ControlNXP.StartPacketRateTest(System.Byte[],System.String)">
+            <summary>
+            开始2440收包率测试
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NXPRF_V1.ControlNXP.NXPRFTestPrepare">
+            <summary>
+            NXP RF测试前置动作
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NXPRF_V1.ControlNXP.EndPacketRateTest">
+            <summary>
+            结束收包率测试并返回结果
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="NXPRF_V1">
+            NXPRF_V1测试类
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.NXPCrystalTrim_MT8852B(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            用MT8852B 仪器进行校准NXP芯片
+            </summary>
+            <param name="InitTrim">初始校准值</param>
+            <param name="TrimCount">校准次数 一般 15</param>
+            <returns>频偏 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.NXPCrystalTrim_RT550(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            用RT550 仪器进行校准NXP芯片
+            </summary>
+            <param name="InitTrim">初始校准值</param>
+            <param name="TrimCount">校准次数 一般 15</param>
+            <returns>频偏 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ShowFreqTrim">
+            <summary isPublicTestItem="true">
+            显示校准值
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.NXPRFTestPrepare">
+            <summary isPublicTestItem="true">
+            RF测试前置动作
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenTx2402DTMCH0">
+            <summary isPublicTestItem="true">
+            释放2402通道信号
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenTx2440DTMCH19">
+            <summary isPublicTestItem="true">
+            释放2440通道信号
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenTx2480DTMCH39">
+            <summary isPublicTestItem="true">
+            释放2480通道信号
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenRx2402DTMCH0">
+            <summary isPublicTestItem="true">
+            开启RX2402 Power测试通道
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenRx2440DTMCH19">
+            <summary isPublicTestItem="true">
+            开启RX2440 Power测试通道
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenRx2480DTMCH39">
+            <summary isPublicTestItem="true">
+            开启RX2480 Power测试通道
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.EndPacketRateTest">
+            <summary isPublicTestItem="true">
+            关闭RX测试通道并返回测试结果
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CloseDTM">
+            <summary isPublicTestItem="true">
+            关闭Power 测试通道
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+    </members>
+</doc>

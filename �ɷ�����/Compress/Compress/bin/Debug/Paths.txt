@@ -1,0 +1,6 @@
+﻿MerryTestFramework.app
+C:\Users\ch200001\source\repos\MerryTest\MerryTest\bin\Debug\MerryTestFramework.app.exe
+C:\Users\ch200001\source\repos\MerryTest\MerryTest\bin\Debug\AllDLL
+False
+C:\Users\ch200001\source\repos\MerryTest\MerryTest\bin\Debug\AllDLL\Download\IHT912-SMT.zip
+C:\Users\ch200001\source\repos\MerryTest\MerryTest\bin\Debug\TestItem

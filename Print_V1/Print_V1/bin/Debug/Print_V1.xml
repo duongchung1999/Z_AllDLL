@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Print_V1</name>
+    </assembly>
+    <members>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="Print_V1">
+            Print_V1
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.PrintBD">
+            <summary isPublicTestItem="true">
+            打印BD Config["BitAddress"]字段的BD
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.PrintSN">
+            <summary isPublicTestItem="true">
+            打印主条码 SN
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.PrintDictionary(System.String)">
+            <summary isPublicTestItem="true">
+            将所打印的内容写成 Dictionary string string 字典赋值给Config["PrintDictionary"] 程序遍历打
+            </summary>
+            <param name="PrintFilePath">TestItem机型下面的打印文件 文件名包括后缀</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Prints(System.Collections.Generic.Dictionary{System.String,System.String},System.String)">
+            <summary>
+            打印机方法
+            </summary>
+            <param name="PrintKeys"></param>
+            <param name="PrintFilePath"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="F:Print.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Print.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Print.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Print_V1.windowsAPI.GetPrivateProfileString(System.String,System.String,System.String,System.Text.StringBuilder,System.Int32,System.String)">
+            <summary>
+            读取INI文件 
+            </summary>
+            <param name="section"></param>
+            <param name="key"></param>
+            <param name="def"></param>
+            <param name="retVal"></param>
+            <param name="size"></param>
+            <param name="INIPath"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Print_V1.windowsAPI.WritePrivateProfileString(System.String,System.String,System.String,System.String)">
+            <summary>
+            写入INI文件
+            </summary>
+            <param name="section"></param>
+            <param name="key"></param>
+            <param name="val"></param>
+            <param name="filePath"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

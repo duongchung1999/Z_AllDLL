@@ -1,0 +1,14 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Configuration\bin\Release\Configuration.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Configuration\bin\Release\Configuration.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Configuration\obj\Release\Configuration.Form1.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Configuration\obj\Release\Configuration.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Configuration\obj\Release\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Configuration\obj\Release\Configuration.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Configuration\obj\Release\Configuration.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\bin\Release\Configuration.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\bin\Release\Configuration.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Release\Configuration.Form1.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Release\Configuration.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Release\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Release\Configuration.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\Configuration\obj\Release\Configuration.pdb

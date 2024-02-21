@@ -1,0 +1,51 @@
+﻿0,-延时5s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=5000
+0,-set vbat 3.7V,N/A,N/A,N/A,6,dllname=MB1205C&method=SetVoltage&Voltage=3700
+1,OFF mode current|5000|6.8.11,uA,0,50,5,dllname=_8342_V1&method=A_DC&NewRange=0.0005&Count=1
+2,跳电流表档位,N/A,N/A,N/A,6,dllname=_8342_V1&method=A_DC&NewRange=0.5&Count=1
+3,PowerOn|5000|1.4.6.8.11,N/A,N/A,N/A,1,PowerOn
+4,Power On current|2000|6.8.11,mA,0,100,5,dllname=_8342_V1&method=A_DC&NewRange=0.5&Count=1
+5,+REST SW,N/A,N/A,N/A,6,dllname=Switch&继电器跳转=0
+6,连接USB,N/A,N/A,N/A,6,dllname=Switch&继电器跳转=1.4.5
+0,-3S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=3000
+7,检查Headset FW,N/A,v4.6.0,v4.6.0,1,SMTGetAirohaFW
+8,Write Headset PCB SN,N/A,N/A,N/A,3,Headset_Write_PCBSN
+9,耳机开机|3000|1.4.5,N/A,N/A,N/A,3,PowerOn
+10,TP1105_LINE_IN R ON|1000|5.16.23.28.29.32,V,180,280,5,dllname=_8342_V1&method=V_AC&NewRange=0.5&Count=1
+11,檢測 TP1106_LINE_IN L ON|1000|5.16.22.27.29.32,mV,0,3,5,dllname=_8342_V1&method=V_AC&NewRange=0.5&Count=1
+12,TP1106_LINE_IN L ON|1000|5.15.22.27.29.32,mV,180,280,5,dllname=_8342_V1&method=V_AC&NewRange=0.5&Count=1
+13,檢測 TP1105_LINE_IN R ON|1000|5.15.23.28.29.32,mV,0,3,5,dllname=_8342_V1&method=V_AC&NewRange=0.5&Count=1
+0,-1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=1000
+14,Read HZ|1000|5.15.32.22.27.29,Hz,990,1010,5,dllname=_8342_V1&method=Hz_P&NewRange=5&Count=1
+15,TP1102_Game up|1000|5.9.18,V,1.72,1.92,5,dllname=_8342_V1&method=V_DC&NewRange=5&Count=1
+16,TP1103_GAME DOWN|1000|5.9.19,V,1.72,1.92,5,dllname=_8342_V1&method=V_DC&NewRange=5&Count=1
+17,TP1115_GAME MID|1000|5.9.20,V,1.72,1.92,5,dllname=_8342_V1&method=V_DC&NewRange=5&Count=1
+18,TP804_EX_LDO 3V3|1000|5.9.25,V,3.2,3.4,5,dllname=_8342_V1&method=V_DC&NewRange=5&Count=1
+19,TP807_SELF_T|1000|5.9.26,V,3.6,3.8,5,dllname=_8342_V1&method=V_DC&NewRange=5&Count=1
+20,TP1105_LINE_IN R OFF|1000|16.32.23.28.29,mV,400,600,5,dllname=_8342_V1&method=V_AC&NewRange=0.5&Count=1
+21,檢測 TP1106_LINE_IN L OFF|1000|16.32.22.27.29,mV,0,3,5,dllname=_8342_V1&method=V_AC&NewRange=0.5&Count=1
+22,TP1106_LINE_IN L OFF|1000|15.32.22.27.29,mV,400,600,5,dllname=_8342_V1&method=V_AC&NewRange=0.5&Count=1
+23,檢測 TP1105_LINE_IN R OFF|1000|15.32.23.28.29,mV,0,3,5,dllname=_8342_V1&method=V_AC&NewRange=0.5&Count=1
+0,-延時 1s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=1000
+24,Read HZ|1000|5.15.32.22.27.29,Hz,990,1010,5,dllname=_8342_V1&method=Hz_P&NewRange=5&Count=1
+25,耳机开机|3000|1.4.5,N/A,N/A,N/A,3,PowerOn
+26,配对,N/A,N/A,N/A,3,ForcedPairing
+0,-1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=1000
+27,Chat MIC Vol Max,N/A,N/A,N/A,6,dllname=Audio&method=MicVolume&装置名称=Chat&音量值=100
+28,Chat SPK Vol Max,N/A,N/A,N/A,6,dllname=Audio&method=SpkVolume&装置名称=Chat&音量值=100
+29,Open HFP,N/A,N/A,N/A,6,dllname=Audio&打开HFP=HFP
+30,SideToneOpen,N/A,N/A,N/A,3,OpenSideTone
+0,-延時 1s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=1000
+31,TP805_mic bias 1v8|1000|5.9.24,V,2.2,2.7,5,dllname=_8342_V1&method=V_DC&NewRange=5&Count=1
+32,TP1020_R SPK_P|1000|5.13.14.23.28,V,0.4,0.6,5,dllname=_8342_V1&method=V_AC&NewRange=5&Count=1
+33,TP903_L SPK_P|1000|5.13.14.22.27,V,0.4,0.6,5,dllname=_8342_V1&method=V_AC&NewRange=5&Count=1
+34,连接USB,N/A,N/A,N/A,6,dllname=Switch&继电器跳转=1.4.5
+0,-3S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=3000
+0,+-Close HFP,N/A,N/A,N/A,6,dllname=Audio&关闭HFP和A2DP=CloseRundll32
+0,-+SidetoneLevel,N/A,N/A,N/A,3,SidetoneLevel
+35,写 Headset BD,N/A,N/A,N/A,3,Headset_Write_BD
+36,检查 Headset PCB SN,N/A,N/A,N/A,3,Headset_Check_PCBSN
+37,读 Headset BD,N/A,N/A,N/A,3,Headset_Read_BD
+38,写Headset_Flag1,N/A,N/A,N/A,1,WriteHeadsetFlag-1
+0,-1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=1000
+39,检查Headset_Flag1,N/A,1,2,2,ReadHeadsetFlag
+40,+REST SW,N/A,N/A,N/A,6,dllname=Switch&继电器跳转=0

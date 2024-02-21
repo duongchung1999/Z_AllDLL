@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Audio_V1</name>
+    </assembly>
+    <members>
+        <member name="T:MerryTestFramework.Audio">
+            <summary>
+            录音以及播放类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.Audio.PlayTest(System.String,System.IntPtr,System.String,System.Boolean,System.String)">
+            <summary>
+             播放音乐
+            </summary>
+            <param name="DeviceName">设备名</param>
+            <param name="handle">界面对象</param>
+            <param name="music"></param>
+            <param name="restart"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.Audio.RecordTest(System.String,System.String,System.IntPtr,System.String)">
+            <summary>
+            录音
+            </summary>
+            <param name="DeviceName"></param>
+            <param name="handle"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.Audio.GetIndexOfAudioCard(System.Int32,System.String)">
+            <summary>
+            拿到播放或者录音装置的索引值
+            </summary>
+            <param name="type"></param>
+            <param name="DeviceName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.Audio.playmusic(System.String,System.IntPtr,System.String,System.Boolean)">
+            <summary>
+            播放音乐
+            </summary>
+            <param name="DeviceName"></param>
+            <param name="handle"></param>
+            <param name="music"></param>
+            <param name="restart"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.Audio.StopPlay">
+            <summary>
+            停止播放
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:MerryTestFramework.SoundRecord.#ctor" -->
+        <!-- Badly formed XML comment ignored for member "M:MerryTestFramework.SoundRecord.CreateWaveFormat" -->
+        <member name="M:MerryTestFramework.SoundRecord.SetFileName(System.String)">
+            <summary>
+            设定录音结束后保存的文件,包括路径
+            </summary>
+            <param name="filename">保存wav文件的路径名</param>
+        </member>
+        <member name="M:MerryTestFramework.SoundRecord.RecStart">
+            <summary>
+            开始录音
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.SoundRecord.RecStop">
+            <summary>
+            停止录音
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.SoundRecord.InitCaptureDevice(System.Int32)">
+            <summary>
+            初始化录音设备,此处使用主录音设备.
+            </summary>
+            <returns>调用成功返回true,否则返回false</returns>
+        </member>
+        <member name="M:MerryTestFramework.SoundRecord.CreateCaptureBuffer">
+            <summary>
+            创建录音使用的缓存区
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.SoundRecord.InitNotifications">
+            <summary>
+            初始化通知事件,将原缓存区分成16个缓存队列,在每个缓存队列的结束点设定通知点.
+            </summary>
+            <returns>是否成功</returns>
+        </member>
+        <member name="M:MerryTestFramework.SoundRecord.WaitThread">
+            <summary>
+            接收缓存区满消息的处理线程
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.SoundRecord.RecordCapturedData">
+            <summary>
+            将录制的数据写入wav文件
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.SoundRecord.CreateSoundFile">
+            <summary>
+            创建保存的波形文件,并写入必要的文件头.
+            </summary>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="Audio_V1">
+            Audio_V1
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.PlayTest(System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            播放音乐测试
+            </summary>
+            <param name="DeviceName">装置名称</param>
+            <param name="MuticName" options="加州音馆,敲门声,50-3K扫频音">选择音源</param>
+            <param name="Message">显示信息</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.RecordTest(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            录音测试
+            </summary>
+            <param name="DeviceName">装置名称</param>
+            <param name="Message">显示信息</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Sidetone(System.String)">
+            <summary isPublicTestItem="true">
+            聆听模式
+            </summary>
+            <param name="Message">显示信息</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.PlayMusic(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            播放音乐
+            </summary>
+            <param name="DeviceName">装置名称</param>
+            <param name="MusicName">音乐文件名称 带后缀 放在机型下面</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StopMusic">
+            <summary isPublicTestItem="true">
+            停止播放音乐
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SetSpkVolume(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            设置播放装置音量
+            </summary>
+            <param name="DeviceName">装置名称</param>
+            <param name="SpkVolume">音量</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SetMicVolume(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            设置录音装置音量
+            </summary>
+            <param name="DeviceName">装置名称</param>
+            <param name="MicVolume">音量</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.A2DP">
+            <summary isPublicTestItem="true">
+            打开A2DP
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HFP">
+            <summary isPublicTestItem="true">
+            打开HFP
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CloseRundll32">
+            <summary isPublicTestItem="true">
+            关闭A2DP和HFP
+            </summary>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SearchPlayDevice(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            搜索播放装置
+            </summary>
+            <param name="DeviceName">装置名称</param>
+            <param name="TimeOut">超时 秒</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SearchRecordDevice(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            搜索录音装置
+            </summary>
+            <param name="DeviceName">装置名称</param>
+            <param name="TimeOut">超时 秒</param>
+            <returns>info</returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="F:Audio.Forms.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Audio.Forms.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Audio.Forms.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.plays.StartMusic(System.String)">
+            <summary>
+            开始播放音乐
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.plays.RecordTest(System.String)">
+            <summary>
+            开始录音
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.plays.StartRecord(System.String)">
+            <summary>
+            开始录音
+            </summary>
+            <param name="filePath"></param>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.plays.StopRecord">
+            <summary>
+            停止录音
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.StartMusic(System.String)">
+            <summary>
+            开始播放音乐
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.Device">
+            <summary>
+            存储传入的设备名
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.#ctor(System.String)">
+            <summary>
+            构造函数,设定录音设备,设定录音格式.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.SetFileName(System.String)">
+            <summary>
+            设定录音结束后保存的文件,包括路径
+            </summary>
+            <param name="filename">保存wav文件的路径名</param>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.Record(System.String,System.String)">
+            <summary>
+            开始录音
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.RecStart(System.Int32)">
+            <summary>
+            开始录音
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.RecStop">
+            <summary>
+            停止录音
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.InitCaptureDevice">
+            <summary>
+            初始化录音设备,此处使用主录音设备.
+            </summary>
+            <returns>调用成功返回true,否则返回false</returns>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.CreateWaveFormat">
+            <summary>
+            创建录音格式,此处使用16bit,16KHz,Mono的录音格式
+            </summary>
+            <returns>WaveFormat结构体</returns>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.CreateCaptureBuffer">
+            <summary>
+            创建录音使用的缓冲区
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.InitNotifications">
+            <summary>
+            初始化通知事件,将原缓冲区分成16个缓冲队列,在每个缓冲队列的结束点设定通知点.
+            </summary>
+            <returns>是否成功</returns>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.RecordCapturedData">
+            <summary>
+            将录制的数据写入wav文件
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.WaitThread">
+            <summary>
+            接收缓冲区满消息的处理线程
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApplication1.FunctionalTest.Interface.SoundRecordss.CreateSoundFile">
+            <summary>
+            创建保存的波形文件,并写入必要的文件头.
+            </summary>
+        </member>
+    </members>
+</doc>

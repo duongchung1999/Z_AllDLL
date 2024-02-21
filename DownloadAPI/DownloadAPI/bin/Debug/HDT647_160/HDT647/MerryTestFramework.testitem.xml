@@ -1,0 +1,1197 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MerryTestFramework.testitem</name>
+    </assembly>
+    <members>
+        <member name="T:MerryTestFramework.testitem.Computer.AdjustVolume">
+            <summary>
+            调节音量类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.AdjustVolume.SetVolume(System.Int32,System.String)">
+            <summary>
+            设置音量
+            </summary>
+            <param name="value">音量值</param>
+            <param name="Name">装置名称MIC或SPK</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.AdjustVolume.GetVolume">
+            <summary>
+            获取当前音量
+            </summary>
+            <returns>系统当前音量</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.AdjustVolume.GetOSFriendlyName">
+            <summary>
+            获取当前电脑操作系统名
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Computer.ReadFile">
+            <summary>
+            读取文件
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.ReadFile.GetDicDataAsync(System.String,System.Char)">
+            <summary>
+            异步读取Text文件内容并存入字符串字典
+            </summary>
+            <param name="path">文件路径</param>
+             <param name="Separator">文件中key和value的分隔符</param>
+            <returns>读取到的字符串集合，读取失败则为null</returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Computer.Play">
+            <summary>
+            录音以及播放类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.Play.PlayTest(System.String,System.IntPtr,System.String,System.Boolean,System.String)">
+            <summary>
+             播放音乐
+            </summary>
+            <param name="DeviceName">设备名</param>
+            <param name="handle">界面对象</param>
+            <param name="music"></param>
+            <param name="restart"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.Play.OnlyPlayTest(System.String,System.IntPtr,System.String,System.Boolean,System.String)">
+            <summary>
+             播放音乐(不弹窗)
+            </summary>
+            <param name="DeviceName">设备名</param>
+            <param name="handle">界面对象</param>
+            <param name="music"></param>
+            <param name="restart"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.Play.RecordTest(System.String,System.IntPtr,System.String)">
+            <summary>
+            录音
+            </summary>
+            <param name="DeviceName"></param>
+            <param name="handle"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.Play.GetIndexOfAudioCard(System.Int32,System.String)">
+            <summary>
+            拿到播放或者录音装置的索引值
+            </summary>
+            <param name="type"></param>
+            <param name="DeviceName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.Play.playmusic(System.String,System.IntPtr,System.String,System.Boolean)">
+            <summary>
+            播放音乐
+            </summary>
+            <param name="DeviceName"></param>
+            <param name="handle"></param>
+            <param name="music"></param>
+            <param name="restart"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.Play.StopPlay">
+            <summary>
+            停止播放
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:MerryTestFramework.testitem.Computer.SoundRecord.#ctor" -->
+        <!-- Badly formed XML comment ignored for member "M:MerryTestFramework.testitem.Computer.SoundRecord.CreateWaveFormat" -->
+        <member name="M:MerryTestFramework.testitem.Computer.SoundRecord.SetFileName(System.String)">
+            <summary>
+            设定录音结束后保存的文件,包括路径
+            </summary>
+            <param name="filename">保存wav文件的路径名</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.SoundRecord.RecStart">
+            <summary>
+            开始录音
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.SoundRecord.RecStop">
+            <summary>
+            停止录音
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.SoundRecord.InitCaptureDevice(System.Int32)">
+            <summary>
+            初始化录音设备,此处使用主录音设备.
+            </summary>
+            <returns>调用成功返回true,否则返回false</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.SoundRecord.CreateCaptureBuffer">
+            <summary>
+            创建录音使用的缓存区
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.SoundRecord.InitNotifications">
+            <summary>
+            初始化通知事件,将原缓存区分成16个缓存队列,在每个缓存队列的结束点设定通知点.
+            </summary>
+            <returns>是否成功</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.SoundRecord.WaitThread">
+            <summary>
+            接收缓存区满消息的处理线程
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.SoundRecord.RecordCapturedData">
+            <summary>
+            将录制的数据写入wav文件
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.SoundRecord.CreateSoundFile">
+            <summary>
+            创建保存的波形文件,并写入必要的文件头.
+            </summary>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Computer.UIAdaptiveSize">
+            <summary>
+            记录最初始控件大小类
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Computer.UIAdaptiveSize.Width">
+            <summary>
+            窗体初始宽度
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Computer.UIAdaptiveSize.Height">
+            <summary>
+            窗体初始高度
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Computer.UIAdaptiveSize.FormsName">
+            <summary>
+            窗体名字
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.UIAdaptiveSize.SetInitSize(System.Windows.Forms.Control)">
+            <summary>
+            存储窗体控件初始大小
+            </summary>
+            <param name="cons">窗体对象（一般为this）</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.UIAdaptiveSize.UpdateSize(System.Single,System.Single,System.Windows.Forms.Control)">
+            <summary>
+            修改窗体控件大小
+            </summary>
+            <param name="x">改变后宽度</param>
+            <param name="y">改变后高度</param>
+            <param name="cons"></param>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Computer.WindowControl">
+            <summary>
+            控制窗体类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.WindowControl.GetWindowName(System.String,System.Boolean,System.String@)">
+            <summary>
+            获取窗体名
+            </summary>
+            <param name="WinName"></param>
+            <param name="IsFullName"></param>
+            <param name="NameFound"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.WindowControl.SendKeyToWindow(System.String,System.Boolean,System.String,System.Drawing.Point,System.String@)">
+            <summary>
+            选中窗体并按键
+            </summary>
+            <param name="WinName"></param>
+            <param name="fullName"></param>
+            <param name="sKey"></param>
+            <param name="error"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Computer.MessageBox">
+            <summary>
+            调用弹窗类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.MessageBox.JudgeBox(System.String)">
+            <summary>
+            判断弹窗
+            </summary>
+            <param name="message">窗口信息</param>
+            <returns>选择结果</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.MessageBox.BarCodeBox(System.String,System.Int32,System.String@)">
+            <summary>
+            条码弹窗
+            </summary>
+            <param name="message">窗口信息</param>
+            <param name="length">条码长度</param>
+            <param name="barcode">条码值</param>
+            <returns>选择结果</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.MessageBox.ColorBox(System.String,System.Drawing.Color)">
+            <summary>
+            颜色弹窗
+            </summary>
+            <param name="message">窗口信息</param>
+            <param name="color">窗体颜色</param>
+            <returns>选择结果</returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Computer.MouseControl">
+            <summary>
+            控制鼠标类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.MouseControl.MouseMove(System.Drawing.Point,System.Int32,System.Int32)">
+            <summary>
+            鼠标移动
+            </summary>
+            <param name="location">窗体坐标（this.Location）</param>
+            <param name="offsetvalueX">X坐标偏移值</param>
+            <param name="offsetvalueY">Y坐标偏移值（this.Location）</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.MouseControl.MouseLeftClick">
+            <summary>
+            鼠标左键点击
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.MouseControl.MouseRightClick">
+            <summary>
+            鼠标右键点击
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.MouseControl.MouseMiddleClick">
+            <summary>
+            鼠标中键点击
+            </summary>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Computer.VolumeTest">
+            <summary>
+            音量测试帮助类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.VolumeTest.volumetest(System.Boolean,System.String)">
+            <summary>
+            音量测试
+            </summary>
+            <param name="flag">true时音量加，false是音量减</param>
+            <param name="name">窗口名</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Computer.VolumeTest.volumetestNot(System.Boolean,System.String)">
+            <summary>
+            音量测试-不允许回退
+            </summary>
+            <param name="flag">true时音量加，false是音量减</param>
+            <param name="name">窗口名</param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Forms.MessageBoxs">
+            <summary>
+            弹窗
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Forms.MessageBoxs.names">
+            <summary>
+            窗体名
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Forms.MessageBoxs.message">
+            <summary>
+            窗体信息
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Forms.MessageBoxs.length">
+            <summary>
+            窗体条码框长度
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Forms.MessageBoxs.barcode">
+            <summary>
+            条码框输入值
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Forms.MessageBoxs.color">
+            <summary>
+            窗体颜色
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Forms.MessageBoxs.SN">
+            <summary>
+            不良SN
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Forms.MessageBoxs.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Forms.MessageBoxs.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Forms.MessageBoxs.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Forms.MessageBoxs.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Forms.ProgressBars.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Forms.ProgressBars.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Forms.ProgressBars.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Hardware.PowerSupply">
+            <summary>
+            调节电源供给器
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Hardware.PowerSupply.SET2303s(System.String,System.String)">
+            <summary>
+            调节2303电源供给器
+            </summary>
+            <param name="comportName">串口名</param>
+            <param name="commands">指令</param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Hardware.Current">
+            <summary>
+            获取8342电流表值
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Hardware.Current.ReadValue(System.IO.Ports.SerialPort)">
+            <summary>
+            读取电流表的值
+            </summary>
+            <param name="port">8342串口</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Hardware.Current.CurrentInit(System.String,System.String,System.Int32)">
+            <summary>
+            初始化电流表
+            </summary>
+            <param name="sPortName">串口名</param>
+            <param name="range">档位</param>
+            <param name="Type">类别</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Hardware.Current.IsOk(System.String,System.String,System.String)">
+            <summary>
+            判断值是否在区间内
+            </summary>
+            <param name="Value">值</param>
+            <param name="lowerlimit">数值下限</param>
+            <param name="upperlimit">数值上限</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Hardware.Current.CurrentTest(System.String,System.String,System.String,System.String,System.Int32,System.String@)">
+            <summary>
+            8342电流表对外方法
+            </summary>
+            <param name="sPortName">串口名</param>
+            <param name="lowerlimit">电流最大限定值</param>
+            <param name="upperlimit">电流最小限定值</param>
+            <param name="range">指令</param>
+            <param name="type">类别（ 1.电流测试 2.直流电压测试 3.交流电压测试 ）</param>
+            <param name="Value">实测测试电流值</param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Headset.ButtonTest">
+            <summary>
+            按键测试类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.ButtonTest.Buttontest(MerryTestFramework.testitem.Headset.Command,System.Action,System.String,System.String)">
+            <summary>
+            下指令按键测试
+            </summary>
+            <param name="command">command对象</param>
+            <param name="action">下指令并且获取回传值的整个动作（下指令并且获取回传值事件）例：()=>{ command.WriteSendReturn() } </param>
+            <param name="readdata">按键操作对应指令返回值</param>
+            <param name="name">按键操作对应窗口名</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.ButtonTest.Buttontest(System.Func{System.Boolean},System.String)">
+            <summary>
+            下指令按键测试
+            </summary>
+            <param name="func">下指令并且获取回传值的整个动作（下指令并且获取回传值事件）例：()=>{ command.WriteSendReturn(); return command.ReturnValue == readdata } </param>
+            <param name="name">按键操作对应窗口名</param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Headset.Command">
+            <summary>
+            指令帮助类
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Headset.Command.ReturnValue">
+            <summary>
+            存储回传值
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Headset.Command.ALLReturnValue">
+            <summary>
+            存储全部回传值
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.Command.WriteSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用write下下指令
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">句柄</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.Command.GetReportSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用getreport下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.Command.SetReportSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用setReport下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.Command.SetFeatureSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用SetFeature下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.Command.WriteReturn(System.String,System.Int32,System.String,System.String,System.String,System.IntPtr)">
+            <summary>
+            使用write下下指令并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="Indexes">指令返回值索引</param>
+            <param name="handle">句柄通道地址</param>
+            <param name="intPtr">句柄通道指针</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.Command.SetReportReturn(System.String,System.Int32,System.String,System.String,System.String,System.IntPtr)">
+            <summary>
+            使用setReport下下指令并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="Indexes">指令返回值索引</param>
+            <param name="handle">句柄通道地址</param>
+            <param name="intPtr">句柄通道指针</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.Command.GetFeatureReturn(System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用GetFeature下下指令對外方法并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令長度</param>
+            <param name="intPtr">通道</param>
+            <param name="indexes">返回下標值</param>
+            <returns>返回读取的值</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.Command.GetReportReturn(System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用getReport下指令并且存储回传值到 ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令長度</param>
+            <param name="intPtr">通道</param>
+            <param name="indexes">返回下標值</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.Command.IsReturnValue(System.String,System.String,System.Int32)">
+            <summary>
+            直接获取指定句柄回传值
+            </summary>
+            <param name="handle">句柄地址</param>
+            <param name="length">句柄流数组长度</param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Headset.CommandExtend">
+            <summary>
+            指令帮助类（扩展形式）
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.Delay(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity,System.Int32)">
+            <summary>
+            延时(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <param name="delay">延时（毫秒）</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.WriteSend(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity)">
+            <summary>
+            使用write下下指令(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.WriteSend(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity,System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用write下下指令(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <param name="value">指令</param>
+            <param name="length">指令长度</param>
+            <param name="handle">句柄对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.GetReportSend(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity)">
+            <summary>
+            使用GetReport下下指令(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.GetReportSend(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity,System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用GetReport下下指令(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <param name="value">指令</param>
+            <param name="length">指令长度</param>
+            <param name="handle">句柄对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.SetReportSend(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity)">
+            <summary>
+            使用SetReportSend下下指令(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.SetReportSend(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity,System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用SetReportSend下下指令(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <param name="value">指令</param>
+            <param name="length">指令长度</param>
+            <param name="handle">句柄对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.SetFeatureSend(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity)">
+            <summary>
+            使用SetFeatureSend下下指令(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.SetFeatureSend(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity,System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用SetFeatureSend下下指令(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <param name="value">指令</param>
+            <param name="length">指令长度</param>
+            <param name="handle">句柄对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.WriteReturn(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity)">
+            <summary>
+            使用Write下指令并获取回传值(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.WriteReturn(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity,System.String,System.Int32,System.String,System.String,System.String,System.IntPtr)">
+            <summary>
+            使用Write下指令并获取回传值(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <param name="value">指令</param>
+            <param name="length">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="indexes">指令返回值索引</param>
+            <param name="path">句柄通道地址</param>
+            <param name="handle">句柄通道指针</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.GetFeatureReturn(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity,System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用GetFeature下指令并获取回传值(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <param name="value">指令</param>
+            <param name="length">指令长度</param>
+            <param name="indexes">指令返回值索引</param>
+            <param name="handle">句柄通道指针</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.GetFeatureReturn(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity)">
+            <summary>
+            使用GetFeature下指令并获取回传值(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.GetReportReturn(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity)">
+            <summary>
+            使用GetReport下指令并获取回传值(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.CommandExtend.GetReportReturn(MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity,System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用GetReport下指令并获取回传值(扩展)
+            </summary>
+            <param name="ce">指令实体对象</param>    
+            <param name="value">指令</param>
+            <param name="length">指令长度</param>
+            <param name="indexes">指令返回值索引</param>
+            <param name="handle">句柄通道指针</param>
+            <returns>指令实体对象</returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity">
+            <summary>
+            指令实体
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity.value">
+            <summary>
+            指令
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity.length">
+            <summary>
+            指令长度
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity.path">
+            <summary>
+            句柄地址
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity.handle">
+            <summary>
+            句柄
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity.readdata">
+            <summary>
+            指令返回值标识值
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity.indexes">
+            <summary>
+            指令返回值下标
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity.success">
+            <summary>
+            成功与否
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity.result">
+            <summary>
+            回传值
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.Headset.CommandExtend.CommandEntity.allresult">
+            <summary>
+            回传值
+            </summary>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Headset.ComPort">
+            <summary>
+            自定义串口类
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Headset.ComPort.port">
+            <summary>
+            串口对象
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.ComPort.#ctor(System.String,System.Int32)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="comport">串口</param>
+            <param name="baudRate">波特率</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.ComPort.OnlySendByte(System.String)">
+            <summary>
+            对串口发送数据(转为Byte格式)并获取返回值
+            </summary>
+            <param name="command">指令</param>
+            <returns>串口返回值</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.ComPort.OnlySends(System.String)">
+            <summary>
+            对串口发送数据并获取返回值
+            </summary>
+            <param name="command">指令</param>
+            <returns>串口返回值</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.ComPort.SendByte(System.String)">
+            <summary>
+            对串口发送数据(转为Byte格式)并获取返回值
+            </summary>
+            <param name="command">指令</param>
+            <returns>串口返回值</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.ComPort.Sends(System.String)">
+            <summary>
+            对串口发送数据并获取返回值
+            </summary>
+            <param name="command">指令</param>
+            <returns>串口返回值</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.ComPort.Close">
+            <summary>
+            关闭COM口
+            </summary>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Headset.GetHandle">
+            <summary>
+            获取句柄类
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Headset.GetHandle.headsethandle">
+            <summary>
+            Headset句柄对象数组
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Headset.GetHandle.donglehandle">
+            <summary>
+            Dongle句柄对象数组
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Headset.GetHandle.headsetpath">
+            <summary>
+            Headset句柄地址
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.Headset.GetHandle.donglepath">
+            <summary>
+            Dongle句柄地址
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.GetHandle.gethandle(System.String,System.String,System.String,System.String)">
+            <summary>
+            抓取句柄 donglePIDVID不能为NULL
+            </summary>
+            <param name="headsetPID">headsetPID</param>
+            <param name="headsetVID">headsetVID</param>
+            <param name="donglePID">donglePID</param>
+            <param name="dongleVID">dongleVID</param>
+            <returns>抓取是否成功</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.GetHandle.CloseHandle">
+            <summary>
+            释放句柄
+            </summary>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Headset.OldButtonTest">
+            <summary>
+            按键测试类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.OldButtonTest.Buttontest(System.String,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            按键测试
+            </summary>
+            <param name="readdata">按键操作对应指令返回值</param>
+            <param name="indexs">按键操作对应指令返回下標</param>
+            <param name="name">按键操作对应窗口名</param>
+            <param name="handle">通道地址</param>
+            <param name="length">句柄长度，默认为1000</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.OldButtonTest.jacktest(System.String,System.Int32,System.IntPtr,System.String[],System.String[],System.String,System.String)">
+            <summary>
+            jack测试对外方法（一直下指令获取返回值，按键时返回值与不按键时不一致）
+            </summary>
+            <param name="str1">指令</param>
+            <param name="lenght1">指令长度</param>
+            <param name="intPtr1">通道指针对象</param>
+            <param name="readdata">返回值</param>
+            <param name="flag">返回值下标</param>
+            <param name="name">弹出窗口名</param>
+            <param name="handle">通道地址</param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Headset.UpdateValue">
+            <summary>
+            修改Command中回传值为某些固定格式
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.UpdateValue.UpdateFW(System.String)">
+            <summary>
+            将Command方法中回传值修改为FW版本格式
+            </summary>
+            <param name="returnValues">ommand方法中回传值</param>
+            <returns>FW版本格式</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.UpdateValue.UpdateVol(System.String)">
+            <summary>
+            将Command方法中回传值修改为电压格式
+            </summary>
+            <param name="returnValues">ommand方法中回传值</param>
+            <returns>电压格式</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Headset.UpdateValue.UpdateVol1(System.String)">
+            <summary>
+            将Command方法中回传值修改为电量格式
+            </summary>
+            <param name="returnValues">ommand方法中回传值</param>
+            <returns>电量格式</returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Utils.DataConversion">
+            <summary>
+            数据转换
+            </summary>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Utils.Copy">
+            <summary>
+            引用类型深拷贝辅助类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Utils.Copy.DeepCopy``1(``0)">
+            <summary>
+            深拷贝
+            注意：T必须标识为可序列化[Serializable]
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Utils.StringUpdateType">
+            <summary>
+            字符串类型转换辅助类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Utils.StringUpdateType.ToInt(System.String)">
+            <summary>
+            将字符串转换为int类型
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Utils.StringUpdateType.ToInt16(System.String)">
+            <summary>
+            将16进制字符串转换为16进制int类型
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Utils.StringUpdateType.ToShort(System.String)">
+            <summary>
+            将字符串转换为short类型
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Utils.StringUpdateType.ToBool(System.String)">
+            <summary>
+            将字符串转换为bool类型
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Utils.StringUpdateType.ToDouble(System.String)">
+            <summary>
+            将字符串转换为double类型
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Utils.StringUpdateType.ToByte(System.String)">
+            <summary>
+            将字符串转换为byte类型
+            </summary>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Other.BaseConversion">
+            <summary>
+            进制转换帮助类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.BaseConversion.GetintArray(System.String)">
+            <summary>
+            将字符串转int数组
+            </summary>
+            <param name="ar"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.BaseConversion.GetByteArray(System.String,System.Int32)">
+            <summary>
+            將16進制字符串轉換為16进制byte數組并且根据数组长度自动补0
+            </summary>
+            <param name="shex">要转换的16进制字符串</param>
+            <param name="lenght">要转换的Byte数组长度</param>
+            <returns>转换后的Byte数组，自动补0</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.BaseConversion.GetString(System.Byte[])">
+            <summary>
+            Byte数组转16进制字符串
+            </summary>
+            <param name="bytes">Byte数组</param>
+            <returns>16进制字符串</returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.BaseConversion.GetString(System.Byte[],System.String)">
+            <summary>
+            Byte数组取指定索引值转16进制字符串 
+            </summary>
+            <param name="bytes">Byte数组</param>
+            <param name="index">Byte数组索引数组</param>
+            <returns>16进制字符串</returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Other.MES">
+            <summary>
+            MES操作类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.MES.checkUserAndStation(System.String,System.String,System.String@)">
+            <summary>
+            登陆数据库
+            </summary>
+            <param name="station">站别</param>
+            <param name="userID">工号</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.MES.checkSNT4(System.String,System.String,System.String,System.String@)">
+            <summary>
+             检查条码的合法性 
+            </summary>
+            <param name="works">工单</param>
+            <param name="SN">SN</param>
+            <param name="station">站别</param>
+            <param name="message">返回信息</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.MES.MEST4(System.Boolean,System.String,System.String,System.String,System.String)">
+            <summary>
+            过站 T4
+            </summary>
+            <param name="flag">测试是否成功</param>
+            <param name="SN">SN号</param>
+            <param name="ErrorCode"></param>
+            <param name="userID">工号</param>
+            <param name="station">站别</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.MES.sendSNtoMEST4(System.String,System.String,System.String)">
+            <summary>
+            上传条码 
+            </summary>
+            <param name="SN">SN号</param>
+            <param name="ErrorCode"></param>
+            <param name="works">工单</param>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.MES.checkSNT3(System.String,System.String)">
+            <summary>
+            检查条码的合法性 T3
+            </summary>
+            <param name="SN"></param>
+            <param name="station"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.MES.sendSNtoMEST3(System.Boolean,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            上传条码过站 T3
+            </summary>
+            <param name="ErrorFlag"></param>
+            <param name="SN"></param>
+            <param name="ErrorCode"></param>
+            <param name="userID"></param>
+            <param name="station"></param>
+            <param name="works"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Other.SoundCheck">
+            <summary>
+            SoundCheck操作类
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.SoundCheck.OpenSoundCheck(System.String,System.String)">
+            <summary>
+            打开SoundCheck
+            </summary>
+            <param name="soundchckpath">SoundCheck exe路径</param>
+            <param name="sqcpath">SoundCheck sqc文件路径</param>
+            
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.SoundCheck.StartSoundCheck(System.String)">
+            <summary>
+            启动SoundCheck
+            </summary>
+            <param name="SN"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.SoundCheck.GetSoundCheckResult">
+            <summary>
+            获取SoundCheck结果
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.SoundCheck.CloseSoundCheck">
+            <summary>
+            关闭SoundCheck
+            </summary>
+        </member>
+        <member name="T:MerryTestFramework.testitem.Other.GetCRC">
+            <summary>
+            获取CRC加密码
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.Other.GetCRC.crc16_CCITTFALSE(System.String,System.Int32)">
+            <summary>
+            CRC-16/CCITT-FALSE加密
+            </summary>
+            <param name="shex">需要加密的CRC16进制字符串</param>
+            <param name="lenth">字符串需要转换的Byte长度</param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTestFramework.testitem.AncestralDLL.GetMESBD">
+            <summary>
+            抓取MESBD
+            </summary>
+        </member>
+        <member name="F:MerryTestFramework.testitem.AncestralDLL.GetMESBD.mMES">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.GetError">
+            <summary>
+            获取异常信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.chechSZBD(System.String)">
+            <summary>
+            ?????
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.AncestralDLL.GetMESBD.OrderNumber">
+            <summary>
+            BD工单号
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.AncestralDLL.GetMESBD.mUser">
+            <summary>
+            BD工号
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.AncestralDLL.GetMESBD.mStarion">
+            <summary>
+            BD站别
+            </summary>
+        </member>
+        <member name="P:MerryTestFramework.testitem.AncestralDLL.GetMESBD.BTAD">
+            <summary>
+            获取BD号
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.CheckLicenseKeyName(System.Boolean,System.String)">
+            <summary>
+            获取LicenseKey名
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.checkMOD(System.String,System.String,System.String)">
+            <summary>
+            检查MOD
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.UpdateOrderInfo(System.Windows.Forms.TextBox)">
+            <summary>
+            修改UI上TextBox信息
+            </summary>
+            <param name="tb"></param>
+            <param name="licenseKey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.GetRowCntBDARecord(System.String)">
+            <summary>
+            ??????
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.UploadBTADResultToMES(System.String,System.Boolean)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.ReclaimBTAD(System.String,System.String)">
+            <summary>
+            ??????????????
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.UploadBleInfoToMES(System.String,System.String,System.String,System.String)">
+            <summary>
+            ???????????
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.BindBDPCBAInfoToMES(System.String,System.String)">
+            <summary>
+            ???????????
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.GetBLEFromMES(System.String@)">
+            <summary>
+            ???????????
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.isExist2(System.String,System.String@,System.String@)">
+            <summary>
+            ???????????
+            </summary>
+        </member>
+        <member name="M:MerryTestFramework.testitem.AncestralDLL.GetMESBD.GetBTADFromMES(System.String,System.String@,System.String@,System.String@)">
+            <summary>
+            ???????????
+            </summary>
+        </member>
+        <member name="T:PCBA.PCBA_32">
+            <summary>
+            调节32路继电器类
+            </summary>
+        </member>
+        <member name="F:PCBA.PCBA_32.off">
+            <summary>
+            关闭的指令
+            </summary>
+        </member>
+        <member name="F:PCBA.PCBA_32.vessel">
+            <summary>
+            判断存储的容器
+            </summary>
+        </member>
+        <member name="M:PCBA.PCBA_32.command(System.String,System.String)">
+            <summary>
+            启动指定模板-32
+            </summary>
+            <param name="port">通讯口</param>
+            <param name="NamePort">COM口</param>
+            <param name="number">打开通道的名字用“.”隔开 例子“1.2.3.4.5”</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

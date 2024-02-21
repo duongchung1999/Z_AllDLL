@@ -1,0 +1,2 @@
+D:\Data\repos\MerryTest\MerryTest\bin\Debug\TestItem\SMT_Test
+D:\Data\repos\MerryTest\MerryTest\bin\Debug\AllDLL

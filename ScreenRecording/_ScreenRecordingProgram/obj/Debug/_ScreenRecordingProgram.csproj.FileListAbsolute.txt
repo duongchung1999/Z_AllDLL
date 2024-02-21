@@ -1,0 +1,9 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\_ScreenRecordingProgram\bin\Debug\_ScreenRecordingProgram.exe.config
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\_ScreenRecordingProgram\bin\Debug\_ScreenRecordingProgram.exe
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\_ScreenRecordingProgram\bin\Debug\_ScreenRecordingProgram.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\_ScreenRecordingProgram\obj\Debug\_ScreenRecordingProgram.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\_ScreenRecordingProgram\obj\Debug\_ScreenRecordingProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\_ScreenRecordingProgram\obj\Debug\_ScreenRecordingProgram.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\_ScreenRecordingProgram\obj\Debug\_ScreenRecordingProgram.exe
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\_ScreenRecordingProgram\obj\Debug\_ScreenRecordingProgram.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\_ScreenRecordingProgram\obj\Debug\_ScreenRecordingProgram.csproj.CopyComplete

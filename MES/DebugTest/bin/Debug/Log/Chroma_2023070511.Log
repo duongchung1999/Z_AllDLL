@@ -1,0 +1,9 @@
+11:05:41【          】【SwATE】【SwATE】※※※※※※※※※※【Start】※※※※※※※※※※
+11:05:41【          】【SwATE】【SwATE】Initial Version【1.609.2110.15】
+11:05:42【          】【SwATE】【SwATE】Web Service URL【http://10.175.5.101:9111/Service1.asmx】
+11:05:42【          】【SwATE】【GetPart】Execute Start
+11:05:42【          】【SwATE】【GetPart】Param【WO】【】
+11:05:42【          】【SwATE】【GetPart】Result【NG:工单错误未找到料号】 - Exectue Total【157】ms 
+11:05:45【          】【SwATE】【GetMAC_SY】Execute Start
+11:05:45【          】【SwATE】【GetMAC_SY】Param【sSN】【01023200013044】
+11:05:45【          】【SwATE】【GetMAC_SY】Result【C086B38525AF】 - Exectue Total【48】ms 

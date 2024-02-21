@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>_1503D</name>
+    </assembly>
+    <members>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="_1503D">
+            _1503D
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.setup(System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            设定输出的电压电流 1503D Setup
+            </summary>
+            <param name="channel" options="1,2" >通道</param>
+            <param name="Voltage" options="3.8,5" >Volt</param>
+            <param name="current1" options="1,0.5" >Current</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CurrentRead(System.String,System.String@,System.String)">
+            <summary isPublicTestItem="true">
+            读取电流 CurrentRead
+            </summary>
+            <param name="chanel" options="1,2" >通道</param>
+             <param name="type" options="uA,mA,A" >通道</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.VoltRead(System.String,System.String@)">
+            <summary isPublicTestItem="true">
+            读取电压 VoltRead
+            </summary>
+            <param name="chanel" options="1,2" >通道</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="P:MerryDllFramework.Hardware.AllUsbDevices">
+            <summary>
+            获取所有的USB设备实体（过滤没有VID和PID的设备）
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoUsbDevice(System.UInt16,System.UInt16,System.Guid)">
+            <summary>
+            查询USB设备实体（设备要求有VID和PID）
+            </summary>
+            <param name="VendorID">供应商标识，MinValue忽视</param>
+            <param name="ProductID">产品编号，MinValue忽视</param>
+            <param name="ClassGuid">设备安装类Guid，Empty忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoUsbDevice(System.UInt16,System.UInt16)">
+            <summary>
+            查询USB设备实体（设备要求有VID和PID）
+            </summary>
+            <param name="VendorID">供应商标识，MinValue忽视</param>
+            <param name="ProductID">产品编号，MinValue忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoUsbDevice(System.Guid)">
+            <summary>
+            查询USB设备实体（设备要求有VID和PID）
+            </summary>
+            <param name="ClassGuid">设备安装类Guid，Empty忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoUsbDevice(System.String)">
+            <summary>
+            查询USB设备实体（设备要求有VID和PID）
+            </summary>
+            <param name="PNPDeviceID">设备ID，可以是不完整信息</param>
+            <returns>设备列表</returns>        
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoUsbDevice(System.String[])">
+            <summary>
+            根据服务定位USB设备
+            </summary>
+            <param name="ServiceCollection">要查询的服务集合</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="P:MerryDllFramework.Hardware.AllPnPEntities">
+            <summary>
+            所有即插即用设备实体（过滤没有VID和PID的设备）
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoPnPEntity(System.UInt16,System.UInt16,System.Guid)">
+            <summary>
+            根据VID和PID及设备安装类GUID定位即插即用设备实体
+            </summary>
+            <param name="VendorID">供应商标识，MinValue忽视</param>
+            <param name="ProductID">产品编号，MinValue忽视</param>
+            <param name="ClassGuid">设备安装类Guid，Empty忽视</param>
+            <returns>设备列表</returns>
+            <remarks>
+            HID：{745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+            Imaging Device：{6bdd1fc6-810f-11d0-bec7-08002be2092f}
+            Keyboard：{4d36e96b-e325-11ce-bfc1-08002be10318} 
+            Mouse：{4d36e96f-e325-11ce-bfc1-08002be10318}
+            Network Adapter：{4d36e972-e325-11ce-bfc1-08002be10318}
+            USB：{36fc9e60-c465-11cf-8056-444553540000}
+            </remarks>
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoPnPEntity(System.UInt16,System.UInt16)">
+            <summary>
+            根据VID和PID定位即插即用设备实体
+            </summary>
+            <param name="VendorID">供应商标识，MinValue忽视</param>
+            <param name="ProductID">产品编号，MinValue忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoPnPEntity(System.Guid)">
+            <summary>
+            根据设备安装类GUID定位即插即用设备实体
+            </summary>
+            <param name="ClassGuid">设备安装类Guid，Empty忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoPnPEntity(System.String)">
+            <summary>
+            根据设备ID定位设备
+            </summary>
+            <param name="PNPDeviceID">设备ID，可以是不完整信息</param>
+            <returns>设备列表</returns>
+            <remarks>
+            注意：对于下划线，需要写成“[_]”，否则视为任意字符
+            </remarks>
+        </member>
+        <member name="M:MerryDllFramework.Hardware.WhoPnPEntity(System.String[])">
+            <summary>
+            根据服务定位设备
+            </summary>
+            <param name="ServiceCollection">要查询的服务集合，null忽视</param>
+            <returns>设备列表</returns>
+            <remarks>
+            跟服务相关的类：
+                Win32_SystemDriverPNPEntity
+                Win32_SystemDriver
+            </remarks>
+        </member>
+    </members>
+</doc>

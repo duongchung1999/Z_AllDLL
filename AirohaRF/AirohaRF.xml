@@ -1,0 +1,605 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AirohaRF</name>
+    </assembly>
+    <members>
+        <member name="M:MerryDllFramework.BtApi.BtApiHandle.raceAtRelay_UsbHID(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="HidChannel">传入对应IC使用的USB HID 通道(1565=0,1568=5)</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.BtApi.BtApiHandle.LeBTxStart(System.String,System.String,System.String,System.String)">
+            <summary>
+            BLE TX测试基础
+            </summary>
+            <param name="RFFreq"></param>
+            <param name="ModulationType"></param>
+            <param name="PayloadLength"></param>
+            <param name="PatternType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.BtApi.BtApiHandle.LeBTxStart(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            BLE TX测试进阶
+            </summary>
+            <param name="RFFreq"></param>
+            <param name="ModulationType"></param>
+            <param name="PayloadLength"></param>
+            <param name="GC"></param>
+            <param name="PatternType"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="AirohaRF">
+            RF测试类 AirohaRF
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Interface(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            
+            </summary>
+            <param name="Config"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetDllInfo">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.EnteringRFTestModeFormRaw(System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            Raw Command 方式进入Airoha RF测试模式
+            </summary>
+            <param name="VID" default_value="1B1C">产品VID</param>
+            <param name="PID" default_value="2A09">产品PID</param>
+            <param name="ICChannel" options="0,1,2,3,4,5" default_value="0">传入对应IC使用的通道(根据FW预设设置)</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.EnteringRFTestModeFormRaw1(System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            Raw Command 方式进入Airoha RF测试模式 (通过料号自动获取后台PID VID)
+            </summary>
+            <param name="VID" options="DongleVID,HeadsetVID" default_value="DongleVID">产品VID</param>
+            <param name="PID" options="DonglePID,HeadsetPID" default_value="DonglePID">产品PID</param>
+            <param name="ICChannel" options="0,1,2,3,4,5" default_value="0">传入对应IC使用的通道(根据FW预设设置)</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.EnteringRFTestModeFormUART(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            Uart 方式进入Airoha RF测试模式
+            </summary>
+            <param name="UartCom" default_value="COM7">Uart COM口</param>
+            <param name="ICChannel" options="0,1,2,3,4,5" default_value="0">传入对应IC使用的通道(根据FW预设设置)</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AirohaCrystalTrim_MT8852B(System.String,System.Int32,System.String)">
+            <summary isPublicTestItem="true">
+            使用 MT8852B 校准 Airoha 芯片
+            </summary>
+            <param name="InitTrim" default_value="111">初始校准值</param>
+            <param name="TrimCount" default_value="15">校准次数 一般 15</param>
+            <param name="CommandMode" options="Raw,UART" default_value="Raw">选择下指令的方式(Raw/UART)</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AirohaCrystalTrim_RT550(System.String,System.Int32,System.String)">
+            <summary isPublicTestItem="true">
+            使用 RT550 校准 Airoha 芯片
+            </summary>
+            <param name="InitTrim" default_value="111">初始校准值</param>
+            <param name="TrimCount" default_value="15">校准次数 一般 15</param>
+            <param name="CommandMode" options="Raw,UART" default_value="Raw">选择下指令的方式(Raw/UART)</param>
+            <returns>频偏 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AirohaCrystalTrim_MT8852B_Advanced(System.String,System.Int32,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            使用 MT8852B 校准 Airoha 芯片进阶
+            </summary>
+            <param name="InitTrim" default_value="111">初始校准值</param>
+            <param name="TrimCount" default_value="15">校准次数 一般 15</param>
+            <param name="CommandMode" options="Raw,UART" default_value="Raw">选择下指令的方式(Raw/UART)</param>
+            <param name="TXGC">TX Power FW预设值</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AirohaCrystalTrim_RT550_Advanced(System.String,System.Int32,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            使用 RT550 校准 Airoha 芯片进阶
+            </summary>
+            <param name="InitTrim" default_value="111">初始校准值</param>
+            <param name="TrimCount" default_value="15">校准次数 一般 15</param>
+            <param name="CommandMode" options="Raw,UART" default_value="Raw">选择下指令的方式(Raw/UART)</param>
+            <param name="TXGC" default_value="54">TX Power FW预设值</param>
+            <returns>频偏 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ShowFreqTrim">
+            <summary isPublicTestItem="true">
+            显示校准值
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.TxSingleTone(System.String)">
+            <summary isPublicTestItem="true">
+            对外发射CW信号
+            </summary>
+            <param name="Channel" default_value="19">传入信号通道0-78(2402-2480)</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AirohaBLETXTestStart(System.Int32,System.String,System.Int32,System.String,System.String)">
+            <summary  isPublicTestItem="true">
+            Airoha BLE TX 测试发送信号
+            </summary>
+            <param name="RFFreq" default_value="20">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType"  options="1M,2M" default_value="2M">Modulation Type</param>
+            <param name="PayloadLength" options="37,255" default_value="37">Payload Length</param>
+            <param name="PatternType" options="PRBS9,11110000,10101010,PRBS15,11111111,00000000,00001111,01010101" default_value="10101010">Pattern Type</param>
+            <param name="CommandMode" options="Raw,UART" default_value="Raw">传入下指令的方式(Raw/UART)</param>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AirohaBLETXTestStartAdvanced(System.Int32,System.String,System.Int32,System.String,System.String,System.String)">
+            <summary  isPublicTestItem="true">
+            Airoha BLE TX 测试发送信号进阶
+            </summary>
+            <param name="RFFreq" default_value="20">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType"  options="1M,2M" default_value="2M">Modulation Type</param>
+            <param name="PayloadLength" options="37,255" default_value="37">Payload Length</param>
+            <param name="TXGC" default_value="54">TX Power FW预设值</param>
+            <param name="PatternType" options="PRBS9,11110000,10101010,PRBS15,11111111,00000000,00001111,01010101" default_value="10101010">Pattern Type</param>
+            <param name="CommandMode" options="Raw,UART" default_value="Raw">传入下指令的方式(Raw/UART)</param>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AirohaBLERXTestStart(System.Int32,System.String,System.String)">
+            <summary  isPublicTestItem="true">
+            Airoha BLE RX 测试模式开启
+            </summary>
+            <param name="RFFreq" default_value="20">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType"  options="1M,2M" default_value="2M">Modulation Type</param>
+            <param name="CommandMode" options="Raw,UART" default_value="Raw">传入下指令的方式(Raw/UART)</param>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.AirohaBLERXTestEnd(System.Int32,System.String)">
+            <summary isPublicTestItem="true">
+            结束 BLE RX 测试结束并返回结果
+            </summary>
+            <param name="packetNumTotal" default_value="1500">发包数</param>
+            <param name="Type" options="Ber,Per" default_value="Ber">返回值类型</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CloseDevice(System.String)">
+            <summary isPublicTestItem="true">
+            关闭设备(测试完一定要执行该项目)
+            </summary>
+            <param name="CommandMode" options="Raw,UART" default_value="Raw">选择下指令的方式(Raw/UART)</param>
+            <returns>频偏 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.WriteCommand(System.String,System.String,System.String)">
+            <summary>
+            下指令通用方法
+            </summary>
+            <param name="SetCommand">传入SET指令</param>
+            <param name="GetCommand">传入GET指令</param>
+            <param name="index">传入返回值下标</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.GetHandleFormHID">
+            <summary>
+            获取HID Handle
+            </summary>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.GetHandleFormRaw">
+            <summary>
+            打开USB装置
+            </summary>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.GetHandleFormUART">
+            <summary>
+            打开Uart装置
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.EnteringRFTestModeFormHID(System.String)">
+            <summary>
+            HID 进入 Airoha RF 测试模式
+            </summary>
+            <param name="ICChannel">传入对应IC使用的USB HID 通道(1565=0,1568=5)</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.EnteringRFTestModeFormRaw(System.String)">
+            <summary>
+            Raw 进入 Airoha RF 测试模式
+            </summary>
+            <param name="ICChannel">传入对应IC使用的USB HID 通道(1565=0,1568=5)</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.EnteringRFTestModeFormUART(System.String)">
+            <summary>
+            UART 进入 Airoha RF 测试模式
+            </summary>
+            <param name="ICChannel">传入对应IC使用的USB HID 通道(1565=0,1568=5)</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.EnteringRFTestMode(System.String,System.String)">
+            <summary>
+            对外进入RF测试模式
+            </summary>
+            <param name="ICChannel">传入对应IC使用的通道(1565=0,1568=5)</param>
+            <param name="CommandMode">传入下指令的方式(HID/Raw/UART)</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.HIDStopAirohaRFCalibration">
+            <summary>
+            HID 停止Airoha RF 信号输出
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.RawUartStopAirohaRFCalibration">
+            <summary>
+            Raw和UART停止Airoha RF 信号输出
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.AirohaRFCalibrationPrepareFormHID(System.String)">
+            <summary>
+            使用HID方式进入 Single Tone 发射信号模式
+            </summary>
+            <param name="InitTrim">传入初始校准值</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.AirohaRFCalibrationPrepareFormRaw(System.String,System.String,System.String,System.String)">
+            <summary>
+            使用Raw Command方式进入 Single Tone 发射信号模式
+            </summary>
+            <param name="InitTrim">传入初始校准值</param>
+            <param name="Channel">传入信号通道0-78(2402-2480)</param>
+            <param name="ModType">测试类型</param>
+            <param name="TXGC">TX Power程序设置值</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.AirohaRFCalibrationPrepareFormUART(System.String,System.String,System.String,System.String)">
+            <summary>
+            使用 UART 方式进入 Single Tone 发射信号模式
+            </summary>
+            <param name="InitTrim">传入初始校准值</param>
+            <param name="Channel">传入信号通道0-78(2402-2480)</param>
+            <param name="ModType">测试类型</param>
+            <param name="TXGC">TX Power程序设置值</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.WriteCAPHID(System.String,System.String)">
+            <summary>
+            HID 写入校准值
+            </summary>
+            <param name="CAPID">传入CAP ID</param>
+            <param name="CAP">传入校准值</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.WriteCAPRaw(System.String,System.String)">
+            <summary>
+            RAW 写入校准值
+            </summary>
+            <param name="CAPID">传入CAP ID</param>
+            <param name="CAP">传入校准值</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.WriteCAPUART(System.String,System.String)">
+            <summary>
+            UART 写入校准值
+            </summary>
+            <param name="CAPID">传入CAP ID</param>
+            <param name="CAP">传入校准值</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.AirohaCrystalTrim_RT550(System.String,System.Int32,System.String,System.String)">
+            <summary>
+            对外使用RT550进行Airoha RF 校准
+            </summary>
+            <param name="InitTrim">默认校准值</param>
+            <param name="TrimCount">校准次数 一般设置 15</param>
+            <param name="CommandMode">传入下指令的方式(HID/Raw/UART)</param>
+            <param name="TXGC">TX Power FW预设值</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.AirohaCrystalTrim_MT8852B(System.String,System.Int32,System.String,System.String)">
+            <summary>
+            对外使用MT8852B进行 RF 校准
+            </summary>
+            <param name="InitTrim">默认校准值=</param>
+            <param name="TrimCount">校准次数 一般设置 15</param>
+            <param name="CommandMode">传入下指令的方式(HID/Raw/UART)</param>
+            <param name="TXGC">TX Power FW预设值</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.TxSingleTone(System.String)">
+            <summary>
+            对外发射CW信号
+            </summary>
+            <param name="Channel">传入信号通道0-78(2402-2480)</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.HIDSendRFTXSignal(System.Int32,System.String,System.Int32,System.String)">
+            <summary>
+            使用HID 发射BLE TX信号
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1M/2M</param>
+            <param name="PayloadLength">37/255</param>
+            <param name="PatternType">PRBS9, 11110000, 10101010, PRBS15, 11111111, 00000000, 00001111, 01010101 </param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.RawSendRFTXSignal(System.Int32,System.String,System.Int32,System.String)">
+            <summary>
+            使用Raw 发射BLE TX信号基础
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1M/2M</param>
+            <param name="PayloadLength">37/255</param>
+            <param name="PatternType">PRBS9, 11110000, 10101010, PRBS15, 11111111, 00000000, 00001111, 01010101 </param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.UARTSendRFTXSignal(System.Int32,System.String,System.Int32,System.String)">
+            <summary>
+            使用UART 发射BLE TX信号基础
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1M/2M</param>
+            <param name="PayloadLength">37/255</param>
+            <param name="PatternType">PRBS9, 11110000, 10101010, PRBS15, 11111111, 00000000, 00001111, 01010101 </param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.RawSendRFTXSignalAdvanced(System.Int32,System.String,System.Int32,System.String,System.String)">
+            <summary>
+            使用Raw 发射BLE TX信号进阶
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1M/2M</param>
+            <param name="PayloadLength">37/255</param>
+            <param name="TXGC">TX Power FW预设值</param>
+            <param name="PatternType">PRBS9, 11110000, 10101010, PRBS15, 11111111, 00000000, 00001111, 01010101 </param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.UARTSendRFTXSignalAdvanced(System.Int32,System.String,System.Int32,System.String,System.String)">
+            <summary>
+            使用UART 发射BLE TX信号进阶
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1M/2M</param>
+            <param name="PayloadLength">37/255</param>
+            <param name="TXGC">TX Power FW预设值</param>
+            <param name="PatternType">PRBS9, 11110000, 10101010, PRBS15, 11111111, 00000000, 00001111, 01010101 </param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.AirohaBLETXTestStart(System.Int32,System.String,System.Int32,System.String,System.String)">
+            <summary>
+            Airoha BLE TX测试对外方法
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1Mbps/2Mbps</param>
+            <param name="PayloadLength">37/255</param>
+            <param name="PatternType">PRBS9, 11110000, 10101010, PRBS15, 11111111, 00000000, 00001111, 01010101 </param>
+            <param name="CommandMode">传入下指令的方式(HID/Raw/UART)</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.AirohaBLETXTestStartAdvanced(System.Int32,System.String,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Airoha BLE TX测试对外方法进阶
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1Mbps/2Mbps</param>
+            <param name="PayloadLength">37/255</param>
+            <param name="TXGC">TX Power FW预设值</param>
+            <param name="PatternType">PRBS9, 11110000, 10101010, PRBS15, 11111111, 00000000, 00001111, 01010101 </param>
+            <param name="CommandMode">传入下指令的方式(HID/Raw/UART)</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.HIDSendRFRXSignal(System.Int32,System.String)">
+            <summary>
+            使用HID 打开 BLE RX 测试模式
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1M/2M</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.RawSendRFRXSignal(System.Int32,System.String)">
+            <summary>
+            使用Raw 打开 BLE RX 测试模式
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1M/2M</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.UARTSendRFRXSignal(System.Int32,System.String)">
+            <summary>
+            使用UART 打开 BLE RX 测试模式
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1Mbps/2Mbps</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.AirohaBLERXTestStart(System.Int32,System.String,System.String)">
+            <summary>
+            Airoha 打开 BLE RX 测试模式对外方法
+            </summary>
+            <param name="RFFreq">1M[0-39(2402-2480)]  2M[1-38(2404-2478)]</param>
+            <param name="ModulationType">1M/2M</param>
+            <param name="CommandMode">传入下指令的方式(HID/Raw/UART)</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.ControlAiroha.AirohaBLERXTestEnd(System.Int32,System.String)">
+            <summary>
+            结束 BLE RX 测试模式并返回结果
+            </summary>
+            <param name="packetNumTotal">传入发包数</param>
+            <param name="Type">传入返回值类型 BER/PER</param>
+            <returns></returns>
+        </member>
+        <member name="T:AirohaRF.GetHandle">
+            <summary>
+            获取句柄类
+            </summary>
+        </member>
+        <member name="F:AirohaRF.GetHandle.Length">
+            <summary>
+            句柄数量
+            </summary>
+        </member>
+        <member name="F:AirohaRF.GetHandle.HandleInfo">
+            <summary>
+            句柄对象通用数组
+            </summary>
+        </member>
+        <member name="F:AirohaRF.GetHandle.PathInfo">
+            <summary>
+            句柄地址通用数组
+            </summary>
+        </member>
+        <member name="F:AirohaRF.GetHandle.HeadsetHandle">
+            <summary>
+            Headset句柄对象数组
+            </summary>
+        </member>
+        <member name="F:AirohaRF.GetHandle.DongleHandle">
+            <summary>
+            Dongle句柄对象数组
+            </summary>
+        </member>
+        <member name="F:AirohaRF.GetHandle.HeadsetPath">
+            <summary>
+            Headset句柄地址
+            </summary>
+        </member>
+        <member name="F:AirohaRF.GetHandle.DonglePath">
+            <summary>
+            Dongle句柄地址
+            </summary>
+        </member>
+        <member name="F:AirohaRF.GetHandle.Handle">
+            <summary>
+            句柄对象
+            </summary>
+        </member>
+        <member name="F:AirohaRF.GetHandle.Path">
+            <summary>
+            句柄地址
+            </summary>
+        </member>
+        <member name="M:AirohaRF.GetHandle.GetHidDevicePath(System.String,System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="headsetPID"></param>
+            <param name="headsetVID"></param>
+            <param name="donglePID"></param>
+            <param name="dongleVID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.GetHidDevicePath(System.String,System.String)">
+            <summary>
+            获取装置路径只比对VID和PID
+            </summary>
+            <param name="PID"></param>
+            <param name="VID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.SelectLocation(System.String,System.String,System.String,System.String,System.String@)">
+            <summary>
+            根据PID、VID、Location和Col获取HidInfo
+            </summary>
+            <param name="pid"></param>
+            <param name="vid"></param>
+            <param name="Location"></param>
+            <param name="QueryStr"></param>
+            <param name="HidInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.SelectLocation(System.String,System.String,System.String,System.String[]@)">
+            <summary>
+            根据PID、VID和Location获取HidInfo
+            </summary>
+            <param name="pid"></param>
+            <param name="vid"></param>
+            <param name="Location"></param>
+            <param name="HidInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.GetHidDeviceHandle(System.String)">
+            <summary>
+            将路径转换成句柄
+            </summary>
+            <param name="HidDevicePath">传入Path</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.Get_Handle(System.String,System.String,System.String,System.String)">
+            <summary>
+            传入指定VID/PID获取Handle(包含col01-col06)
+            </summary>
+            <param name="headsetPID"></param>
+            <param name="headsetVID">=</param>
+            <param name="donglePID"></param>
+            <param name="dongleVID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.Get_Handle(System.String,System.String,System.String)">
+            <summary>
+            获取指定PID/VID和指定col的Handle(col为空则返回第一个Handle)
+            </summary>
+            <param name="PID"></param>
+            <param name="VID"></param>
+            <param name="QueryStr">传入对应Handle的信息</param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.GetHandleFormLocation(System.String,System.String,System.String,System.String)">
+            <summary>
+            获取指定PID、VID、Location和Col的Handle
+            </summary>
+            <param name="PID"></param>
+            <param name="VID"></param>
+            <param name="Location"></param>
+            <param name="QueryStr"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.GetHandleFormLocation(System.String,System.String,System.String)">
+            <summary>
+            获取指定PID、VID和Location下的所有Path和Handle
+            </summary>
+            <param name="PID"></param>
+            <param name="VID"></param>
+            <param name="Location"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.CloseHandle">
+            <summary>
+            释放句柄
+            </summary>
+        </member>
+        <member name="M:AirohaRF.GetHandle.CloseAssignmentHandle(System.IntPtr)">
+            <summary>
+            释放指定句柄
+            </summary>
+            <param name="handle">传入句柄</param>
+        </member>
+        <member name="F:AirohaRF.GetHandle.Obj_Lock">
+            <summary>
+            定义线程锁
+            </summary>
+        </member>
+        <member name="M:AirohaRF.GetHandle.deletedriver(System.Collections.Generic.List{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="PID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AirohaRF.GetHandle.remenberdriver">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

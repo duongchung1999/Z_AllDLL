@@ -1,0 +1,24 @@
+16:01:00【          】【SwATE】【SwATE】※※※※※※※※※※【Start】※※※※※※※※※※
+16:01:00【          】【SwATE】【SwATE】Initial Version【1.609.2110.15】
+16:01:00【          】【SwATE】【SwATE】Web Service URL【http://10.175.5.101:9111/Service1.asmx】
+16:01:00【          】【SwATE】【GetPart】Execute Start
+16:01:00【          】【SwATE】【GetPart】Param【WO】【】
+16:01:00【          】【SwATE】【GetPart】Result【NG:工单错误未找到料号】 - Exectue Total【84】ms 
+16:01:02【          】【SwATE】【sendTestResult】Execute Start
+16:01:02【          】【SwATE】【sendTestResult】Param【EMP】【91204127】
+16:01:02【          】【SwATE】【sendTestResult】Param【SN】【VNH32903FW】
+16:01:02【          】【SwATE】【sendTestResult】Param【STATION】【HDT655 T2.7】
+16:01:02【          】【SwATE】【sendTestResult】Param【RESULT】【NG;ST0004】
+16:01:02【          】【SwATE】【sendTestResult】Result【NG;不良代碼格式錯誤 ĐỊNH DẠNG MÃ KHÔNG ĐÚNG】 - Exectue Total【25】ms 
+16:19:10【          】【SwATE】【SwATE】※※※※※※※※※※【Start】※※※※※※※※※※
+16:19:10【          】【SwATE】【SwATE】Initial Version【1.609.2110.15】
+16:19:10【          】【SwATE】【SwATE】Web Service URL【http://10.175.5.101:9111/Service1.asmx】
+16:19:10【          】【SwATE】【GetPart】Execute Start
+16:19:10【          】【SwATE】【GetPart】Param【WO】【】
+16:19:10【          】【SwATE】【GetPart】Result【NG:工单错误未找到料号】 - Exectue Total【67】ms 
+16:19:13【          】【SwATE】【sendTestResult】Execute Start
+16:19:13【          】【SwATE】【sendTestResult】Param【EMP】【91204127】
+16:19:13【          】【SwATE】【sendTestResult】Param【SN】【VNH32903DY】
+16:19:13【          】【SwATE】【sendTestResult】Param【STATION】【HDT655 T2.7】
+16:19:13【          】【SwATE】【sendTestResult】Param【RESULT】【NG;ST0004;】
+16:19:13【          】【SwATE】【sendTestResult】Result【NG;第一次NG LẦN TEST1NG;】 - Exectue Total【32】ms 

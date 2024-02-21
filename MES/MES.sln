@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MES", "MES\MES.csproj", "{FC070B69-0C69-4DD1-A951-011CF7329B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugTest", "DebugTest\DebugTest.csproj", "{C93D4D19-4E1B-4836-9A15-79C144335EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC070B69-0C69-4DD1-A951-011CF7329B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC070B69-0C69-4DD1-A951-011CF7329B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC070B69-0C69-4DD1-A951-011CF7329B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC070B69-0C69-4DD1-A951-011CF7329B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93D4D19-4E1B-4836-9A15-79C144335EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93D4D19-4E1B-4836-9A15-79C144335EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93D4D19-4E1B-4836-9A15-79C144335EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93D4D19-4E1B-4836-9A15-79C144335EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D537096D-2F40-4722-B15A-4F769F81B2B2}
+	EndGlobalSection
+EndGlobal

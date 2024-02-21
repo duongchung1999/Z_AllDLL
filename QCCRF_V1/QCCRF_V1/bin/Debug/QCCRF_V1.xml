@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QCCRF_V1</name>
+    </assembly>
+    <members>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="Command">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="QCCRF_V1">
+            QCCRF_V1  高通芯片
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenTestEngineDebug">
+            <summary isPublicTestItem="true">
+            进入Debug模式
+            </summary>
+            <returns>Port|Handle|sdb</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenTestEngineDebugFor_sdb(System.String)">
+            <summary isPublicTestItem="true">
+            进入Debug模式指定sdb文件
+            </summary>
+            <param name="sdb_File">sdb文件及芯片参数</param>
+            <returns>Port|Handle|sdb</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._QCC512xCrystalTrim(System.Int32,System.Double)">
+            <summary isPublicTestItem="true">
+            芯片512X系列校准 用RT550去校准
+            </summary>
+            <param name="Count">校准的次数 最好是15</param>
+            <param name="TrimRatio">芯片细调的比例 不知可以写 600</param>
+            <returns>频偏 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._QCC514xCrystalTrim(System.Int32,System.Double)">
+            <summary isPublicTestItem="true">
+            芯片514X系列校准 用RT550去校准
+            </summary>
+            <param name="Count">校准的次数 最好是15</param>
+            <param name="TrimRatio">芯片细调的比例 不知可以写 600</param>
+            <returns>频偏 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._QCC512xCrystalTrim_MT8852B(System.Int32)">
+            <summary isPublicTestItem="true">
+            芯片512X系列校准 用MT8852B去校准
+            </summary>
+            <param name="Count">校准的次数 最好是15</param>
+            <returns>频偏 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._QCC514xCrystalTrim_MT8852B(System.Int32)">
+            <summary isPublicTestItem="true">
+            芯片514X系列校准 用MT8852B去校准
+            </summary>
+            <param name="Count">校准的次数 最好是15</param>
+            <returns>频偏 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CloseTestEngineDebug">
+            <summary isPublicTestItem="true">
+            关闭Debug模式
+            </summary>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.teConfigCacheReadItem(System.String)">
+            <summary isPublicTestItem="true"> 
+            读取芯片Pskey信息
+            </summary>
+            <param name="Pskey">Pskey位置</param>
+            <returns>Key内容的字符串</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.IntoDut">
+            <summary isPublicTestItem="true">
+            进入DUT测试模式
+            </summary>
+            <returns>True or Failure Info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.teChipReset">
+            <summary isPublicTestItem="true">
+            teChipReset 支持一部分芯片
+            </summary>
+            <returns>True or Failure Info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.bccmdSetColdReset">
+            <summary isPublicTestItem="true">
+            bccmdSetColdReset 支持另一部分芯片
+            </summary>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.bccmdSetWarmReset">
+            <summary isPublicTestItem="true">
+            bccmdSetWarmReset 支持额外部分芯片
+            </summary>
+            <returns>True or Failure Info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.hciReset">
+            <summary isPublicTestItem="true">
+            hciReset 部分芯片
+            </summary>
+            <returns>True or Failure Info</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.XtalLoadCapacitance">
+            <summary isPublicTestItem="true">
+            读取粗调校准值 CAP
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.XtalFreqTrim">
+            <summary isPublicTestItem="true">
+            读取细调校准值 Xtal
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

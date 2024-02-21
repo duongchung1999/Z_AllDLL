@@ -1,0 +1,17 @@
+D:\Data\MECH_MoreTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.csproj.CoreCompileInputs.cache
+D:\Data\MECH_MoreTest\Z_AllDll\MB1205C\bin\Debug\MB1205C.dll
+D:\Data\MECH_MoreTest\Z_AllDll\MB1205C\bin\Debug\MB1205C.pdb
+D:\Data\MECH_MoreTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.dll
+D:\Data\MECH_MoreTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.pdb
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.dll
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.pdb
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\MB1205C\bin\Debug\MB1205C.dll
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\MB1205C\bin\Debug\MB1205C.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MB1205C\bin\Debug\MB1205C.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MB1205C\bin\Debug\MB1205C.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MB1205C\obj\Debug\MB1205C.pdb

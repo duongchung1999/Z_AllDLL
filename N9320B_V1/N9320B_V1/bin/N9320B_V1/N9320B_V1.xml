@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>N9320B_V1</name>
+    </assembly>
+    <members>
+        <member name="T:N9320B_V1.PnPEntityInfo">
+            <summary>
+            即插即用设备信息结构
+            </summary>
+        </member>
+        <member name="T:N9320B_V1.Hardware">
+            <summary>
+            基于WMI获取USB设备信息
+            </summary>
+        </member>
+        <member name="P:N9320B_V1.Hardware.AllUsbDevices">
+            <summary>
+            获取所有的USB设备实体（过滤没有VID和PID的设备）
+            </summary>
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoUsbDevice(System.UInt16,System.UInt16,System.Guid)">
+            <summary>
+            查询USB设备实体（设备要求有VID和PID）
+            </summary>
+            <param name="VendorID">供应商标识，MinValue忽视</param>
+            <param name="ProductID">产品编号，MinValue忽视</param>
+            <param name="ClassGuid">设备安装类Guid，Empty忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoUsbDevice(System.UInt16,System.UInt16)">
+            <summary>
+            查询USB设备实体（设备要求有VID和PID）
+            </summary>
+            <param name="VendorID">供应商标识，MinValue忽视</param>
+            <param name="ProductID">产品编号，MinValue忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoUsbDevice(System.Guid)">
+            <summary>
+            查询USB设备实体（设备要求有VID和PID）
+            </summary>
+            <param name="ClassGuid">设备安装类Guid，Empty忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoUsbDevice(System.String)">
+            <summary>
+            查询USB设备实体（设备要求有VID和PID）
+            </summary>
+            <param name="PNPDeviceID">设备ID，可以是不完整信息</param>
+            <returns>设备列表</returns>        
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoUsbDevice(System.String[])">
+            <summary>
+            根据服务定位USB设备
+            </summary>
+            <param name="ServiceCollection">要查询的服务集合</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="P:N9320B_V1.Hardware.AllPnPEntities">
+            <summary>
+            所有即插即用设备实体（过滤没有VID和PID的设备）
+            </summary>
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoPnPEntity(System.UInt16,System.UInt16,System.Guid)">
+            <summary>
+            根据VID和PID及设备安装类GUID定位即插即用设备实体
+            </summary>
+            <param name="VendorID">供应商标识，MinValue忽视</param>
+            <param name="ProductID">产品编号，MinValue忽视</param>
+            <param name="ClassGuid">设备安装类Guid，Empty忽视</param>
+            <returns>设备列表</returns>
+            <remarks>
+            HID：{745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+            Imaging Device：{6bdd1fc6-810f-11d0-bec7-08002be2092f}
+            Keyboard：{4d36e96b-e325-11ce-bfc1-08002be10318} 
+            Mouse：{4d36e96f-e325-11ce-bfc1-08002be10318}
+            Network Adapter：{4d36e972-e325-11ce-bfc1-08002be10318}
+            USB：{36fc9e60-c465-11cf-8056-444553540000}
+            </remarks>
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoPnPEntity(System.UInt16,System.UInt16)">
+            <summary>
+            根据VID和PID定位即插即用设备实体
+            </summary>
+            <param name="VendorID">供应商标识，MinValue忽视</param>
+            <param name="ProductID">产品编号，MinValue忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoPnPEntity(System.Guid)">
+            <summary>
+            根据设备安装类GUID定位即插即用设备实体
+            </summary>
+            <param name="ClassGuid">设备安装类Guid，Empty忽视</param>
+            <returns>设备列表</returns>
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoPnPEntity(System.String)">
+            <summary>
+            根据设备ID定位设备
+            </summary>
+            <param name="PNPDeviceID">设备ID，可以是不完整信息</param>
+            <returns>设备列表</returns>
+            <remarks>
+            注意：对于下划线，需要写成“[_]”，否则视为任意字符
+            </remarks>
+        </member>
+        <member name="M:N9320B_V1.Hardware.WhoPnPEntity(System.String[])">
+            <summary>
+            根据服务定位设备
+            </summary>
+            <param name="ServiceCollection">要查询的服务集合，null忽视</param>
+            <returns>设备列表</returns>
+            <remarks>
+            跟服务相关的类：
+                Win32_SystemDriverPNPEntity
+                Win32_SystemDriver
+            </remarks>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="N9320B_V1">
+            N9320B频谱仪
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadPeak(System.String,System.Boolean)">
+            <summary isPublicTestItem="true">
+            读取峰值 一般用于读取Power
+            </summary>
+            <param name="X_HZ">M/hz 比如 2402</param>
+            <param name="isInit" options="True,False">是否初始化 常规“False”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.MaxPeak(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            可选 读取最大峰值 读取多次取最大值
+            </summary>
+            <param name="X_HZ">M/hz 比如 2402</param>
+            <param name="Count">读取次数 默认 5</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadFrequency(System.String,System.Boolean)">
+            <summary isPublicTestItem="true">
+            读取频率 这不是频偏
+            </summary>
+            <param name="X_HZ">M/hz 比如 2402</param>
+            <param name="isInit" options="True,False">是否初始化 常规“False”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadOffset(System.String,System.Boolean)">
+            <summary isPublicTestItem="true">
+            读取频偏
+            </summary>
+            <param name="X_HZ">M/hz 比如 2402</param>
+            <param name="isInit" options="True,False">是否初始化 常规“False”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OptionsOffset(System.String,System.String,System.String,System.Boolean)">
+            <summary isPublicTestItem="true">
+            可选 读取频偏
+            </summary>
+            <param name="X_HZ">M/hz 比如 2402</param>
+            <param name="SPAN">SPAN 跨距 常规“2.5e6”</param>
+            <param name="RBW">RBW “30e3”</param>
+            <param name="isInit" options="True,False">是否初始化 常规“False”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OptionsMaxHoldPeak(System.String,System.String,System.String,System.Int32,System.Boolean)">
+            <summary isPublicTestItem="true">
+            特殊 读取峰值 方法MAX Hold
+            </summary>
+            <param name="X_HZ">M/hz 比如 2402</param>
+            <param name="SPAN">SPAN 跨距 常规“2.5e6”</param>
+            <param name="RBW">RBW 常规 “30e3”</param>
+            <param name="SleepTime">Max Hold后等待时间 </param>
+            <param name="isInit" options="True,False">是否初始化 常规“False”</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

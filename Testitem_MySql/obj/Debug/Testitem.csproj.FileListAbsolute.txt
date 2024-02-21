@@ -1,0 +1,14 @@
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\bin\Debug\Testitem.dll
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\bin\Debug\Testitem.pdb
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.csproj.CopyComplete
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.dll
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.pdb
+C:\Users\Test\Desktop\AllDll\Testitem_MySql\bin\Debug\Testitem.dll
+C:\Users\Test\Desktop\AllDll\Testitem_MySql\bin\Debug\Testitem.pdb
+C:\Users\Test\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.csproj.CopyComplete
+C:\Users\Test\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.dll
+C:\Users\Test\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.pdb
+C:\Users\Test\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\Testitem_MySql\obj\Debug\Testitem.csprojAssemblyReference.cache

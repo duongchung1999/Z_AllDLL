@@ -1,0 +1,7 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B\MT8852B\obj\Debug\MT8852B.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B\MT8852B\obj\Debug\MT8852B.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B\MT8852B\bin\Debug\MT8852B.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B\MT8852B\bin\Debug\MT8852B.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B\MT8852B\obj\Debug\MT8852B.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B\MT8852B\obj\Debug\MT8852B.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B\MT8852B\obj\Debug\MT8852B.pdb

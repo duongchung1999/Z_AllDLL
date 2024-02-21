@@ -1,0 +1,5 @@
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\SimpleHIDWrite\bin\Debug\SimpleHIDWrite.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\SimpleHIDWrite\bin\Debug\SimpleHIDWrite.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\SimpleHIDWrite\obj\Debug\SimpleHIDWrite.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\SimpleHIDWrite\obj\Debug\SimpleHIDWrite.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\SimpleHIDWrite\obj\Debug\SimpleHIDWrite.pdb

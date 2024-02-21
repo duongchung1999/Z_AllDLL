@@ -1,0 +1,12 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Release\HanOpticSens.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Release\HanOpticSens.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\bin\Release\HanOpticSens.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\bin\Release\HanOpticSens.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Release\HanOpticSens.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Release\HanOpticSens.pdb
+D:\mech-sw\Z_AllDll\HanOpticSens\bin\Release\HanOpticSens.dll
+D:\mech-sw\Z_AllDll\HanOpticSens\bin\Release\HanOpticSens.pdb
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Release\HanOpticSens.csproj.AssemblyReference.cache
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Release\HanOpticSens.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Release\HanOpticSens.dll
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Release\HanOpticSens.pdb

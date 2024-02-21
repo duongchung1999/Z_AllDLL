@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Shizuku</name>
+    </assembly>
+    <members>
+        <member name="M:MerryDllFramework.MerryDll.CurrentToA">
+            <summary>
+            读取电流 以安为单位
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CurrentTomA">
+            <summary>
+            读取电流 以毫安为单位
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CurrentTouA">
+            <summary>
+            读取电流 以微安为单位
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,31 @@
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\NLog.dll
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\ShizukuProtocol.dll
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\NLog.xml
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\ShizukuProtocol.pdb
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Power_Z_KT002.csproj.AssemblyReference.cache
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Common.Box.resources
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Power_Z_KT002.csproj.GenerateResource.cache
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Power_Z_KT002.csproj.CoreCompileInputs.cache
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Power_Z_KT002.csproj.CopyComplete
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\_Power_Z_KT002.dll
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\_Power_Z_KT002.pdb
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\_Power_Z_KT002.dll
+D:\Fuzhang\From_FuZhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\_Power_Z_KT002.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\_Power_Z_KT002.xml
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\_Power_Z_KT002.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\_Power_Z_KT002.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\NLog.xml
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\bin\Debug\ShizukuProtocol.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Power_Z_KT002.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Common.Box.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Power_Z_KT002.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Power_Z_KT002.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\Power_Z_KT002.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\_Power_Z_KT002.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\SW\To Fuzhang\Power_Z_KT002\Power_Z_KT002\obj\Debug\_Power_Z_KT002.pdb

@@ -1,0 +1,12 @@
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\bin\Debug\DM5D_V1.dll
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\bin\Debug\DM5D_V1.pdb
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\bin\Debug\DM5D_V1.xml
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Data\repos\MerryTest\Z_AllDll\DM5D_V1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

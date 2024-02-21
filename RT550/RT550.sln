@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RT550", "RT550.csproj", "{9BBE9E73-9C08-4E1B-B958-664984360696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RT550_Debug", "..\RT550_Debug\RT550_Debug.csproj", "{F2488E41-5DC6-406C-86B9-CA6C0561DAFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBE9E73-9C08-4E1B-B958-664984360696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBE9E73-9C08-4E1B-B958-664984360696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBE9E73-9C08-4E1B-B958-664984360696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBE9E73-9C08-4E1B-B958-664984360696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2488E41-5DC6-406C-86B9-CA6C0561DAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2488E41-5DC6-406C-86B9-CA6C0561DAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2488E41-5DC6-406C-86B9-CA6C0561DAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2488E41-5DC6-406C-86B9-CA6C0561DAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C24B251-8225-4D90-B527-3B666D0EAB67}
+	EndGlobalSection
+EndGlobal

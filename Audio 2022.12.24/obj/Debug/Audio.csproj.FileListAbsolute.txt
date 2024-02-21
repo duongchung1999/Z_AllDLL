@@ -1,0 +1,83 @@
+C:\Users\CH200001\Desktop\AllDll\Audio\bin\Debug\Audio.dll
+C:\Users\CH200001\Desktop\AllDll\Audio\bin\Debug\Audio.pdb
+C:\Users\CH200001\Desktop\AllDll\Audio\obj\Debug\MerryTestFramework.testitem.Forms.MessageBoxs.resources
+C:\Users\CH200001\Desktop\AllDll\Audio\obj\Debug\Audio.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\AllDll\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\Audio\obj\Debug\Audio.csproj.CopyComplete
+C:\Users\CH200001\Desktop\AllDll\Audio\obj\Debug\Audio.dll
+C:\Users\CH200001\Desktop\AllDll\Audio\obj\Debug\Audio.pdb
+C:\Users\Test\Desktop\AllDll\Audio\bin\Debug\Audio.dll
+C:\Users\Test\Desktop\AllDll\Audio\bin\Debug\Audio.pdb
+C:\Users\Test\Desktop\AllDll\Audio\obj\Debug\MerryTestFramework.testitem.Forms.MessageBoxs.resources
+C:\Users\Test\Desktop\AllDll\Audio\obj\Debug\Audio.csproj.GenerateResource.cache
+C:\Users\Test\Desktop\AllDll\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\AllDll\Audio\obj\Debug\Audio.csproj.CopyComplete
+C:\Users\Test\Desktop\AllDll\Audio\obj\Debug\Audio.dll
+C:\Users\Test\Desktop\AllDll\Audio\obj\Debug\Audio.pdb
+C:\Users\Test\Desktop\AllDll\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\bin\Debug\Audio.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\bin\Debug\Audio.pdb
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.CopyComplete
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\obj\Debug\Audio.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\obj\Debug\Audio.pdb
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\bin\Debug\Audio.dll
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\bin\Debug\Audio.pdb
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\obj\Debug\Audio.csproj.CopyComplete
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\obj\Debug\Audio.dll
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\obj\Debug\Audio.pdb
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\bin\Debug\Bass.Net.dll
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\bin\Debug\NAudio.dll
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\obj\Debug\Audio.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\obj\Debug\Audio.Forms.Form1.resources
+C:\Users\CH200001\Desktop\AllDll\OK\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\bin\Debug\Bass.Net.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\bin\Debug\NAudio.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\obj\Debug\Audio.Forms.Form1.resources
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\Audio.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\Audio.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\Bass.Net.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\Microsoft.DirectX.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\NAudio.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.Forms.Form1.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\Audio.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.AssemblyReference.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.Forms.Form1.resources
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.GenerateResource.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\bin\Debug\Audio.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\bin\Debug\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Debug\Audio.Forms.Form1.resources
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Debug\Audio.csproj.GenerateResource.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Debug\Audio.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Debug\Audio.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Debug\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Debug\Audio.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\Audio.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\bin\Debug\Audio.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.Forms.Form1.resources
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.GenerateResource.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Debug\Audio.pdb

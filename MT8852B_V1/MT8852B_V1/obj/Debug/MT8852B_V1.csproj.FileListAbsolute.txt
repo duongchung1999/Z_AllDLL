@@ -1,0 +1,16 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\bin\Debug\MT8852B_V1.xml
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\bin\Debug\MT8852B_V1.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\bin\Debug\MT8852B_V1.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.pdb
+C:\Users\Test\Desktop\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\bin\Debug\MT8852B_V1.xml
+C:\Users\Test\Desktop\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\bin\Debug\MT8852B_V1.dll
+C:\Users\Test\Desktop\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\bin\Debug\MT8852B_V1.pdb
+C:\Users\Test\Desktop\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.csproj.CopyComplete
+C:\Users\Test\Desktop\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.dll
+C:\Users\Test\Desktop\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.pdb
+C:\Users\Test\Desktop\MerryTest\Z_AllDll\MT8852B_V1\MT8852B_V1\obj\Debug\MT8852B_V1.csproj.AssemblyReference.cache

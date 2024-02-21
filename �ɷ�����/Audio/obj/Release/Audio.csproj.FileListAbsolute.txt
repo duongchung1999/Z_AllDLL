@@ -1,0 +1,54 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.Forms.Form1.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Audio.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Audio.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Bass.Net.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Microsoft.DirectX.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\NAudio.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\PC_VolumeControl.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.Forms.Form1.resources
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.GenerateResource.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Audio.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\PC_VolumeControl.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\bin\Release\Audio.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\bin\Release\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\bin\Release\PC_VolumeControl.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Release\Audio.Forms.Form1.resources
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Release\Audio.csproj.GenerateResource.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Release\Audio.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Release\Audio.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Release\Audio.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\obj\Release\Audio.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio - 複製\bin\Release\Bass.Net.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Bass.Net.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Audio.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Audio.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\Bass.Net.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\bin\Release\PC_VolumeControl.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.Forms.Form1.resources
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.GenerateResource.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Audio\obj\Release\Audio.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\bin\Release\Audio.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\bin\Release\Audio.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\bin\Release\Bass.Net.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\bin\Release\PC_VolumeControl.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\obj\Release\Audio.Forms.Form1.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\obj\Release\Audio.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\obj\Release\Audio.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\obj\Release\Audio.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\obj\Release\Audio.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio\obj\Release\Audio.pdb

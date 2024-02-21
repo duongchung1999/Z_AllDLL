@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScreenRecording</name>
+    </assembly>
+    <members>
+        <member name="M:Airoha_ANC_Debug_Tool.Hini.GetPrivateProfileSectionNames(System.IntPtr,System.UInt32,System.String)">
+            <summary>
+            获取所有节点名称(Section)
+            </summary>
+            <param name="lpszReturnBuffer">存放节点名称的内存地址,每个节点之间用\0分隔</param>
+            <param name="nSize">内存大小(characters)</param>
+            <param name="lpFileName">Ini文件</param>
+            <returns>内容的实际长度,为0表示没有内容,为nSize-2表示内存大小不够</returns>
+        </member>
+        <member name="M:Airoha_ANC_Debug_Tool.Hini.GetPrivateProfileSection(System.String,System.IntPtr,System.UInt32,System.String)">
+            <summary>
+            获取某个指定节点(Section)中所有KEY和Value
+            </summary>
+            <param name="lpAppName">节点名称</param>
+            <param name="lpReturnedString">返回值的内存地址,每个之间用\0分隔</param>
+            <param name="nSize">内存大小(characters)</param>
+            <param name="lpFileName">Ini文件</param>
+            <returns>内容的实际长度,为0表示没有内容,为nSize-2表示内存大小不够</returns>
+        </member>
+        <member name="M:Airoha_ANC_Debug_Tool.Hini.INIGetAllSectionNames(System.String)">
+            <summary>
+            读取INI文件中指定INI文件中的所有节点名称(Section)
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <returns>所有节点,没有内容返回string[0]</returns>
+        </member>
+        <member name="M:Airoha_ANC_Debug_Tool.Hini.INIGetAllItems(System.String,System.String)">
+            <summary>
+            获取INI文件中指定节点(Section)中的所有条目(key=value形式)
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <param name="section">节点名称</param>
+            <returns>指定节点中的所有项目,没有内容返回string[0]</returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="ScreenRecording">
+            录屏
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StartRecording(System.Int32)">
+            <summary isPublicTestItem="true">
+            开始录屏 录屏开头会少3秒
+            </summary>
+            <param name="TimeOut_S">测一个多长时间 就填多长时间</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StopRecording">
+            <summary isPublicTestItem="true">
+            停止录屏
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

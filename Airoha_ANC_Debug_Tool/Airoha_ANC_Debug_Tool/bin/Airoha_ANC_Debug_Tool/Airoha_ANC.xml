@@ -1,0 +1,910 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Airoha_ANC</name>
+    </assembly>
+    <members>
+        <member name="M:Airoha.AdjustANC.Adjust.SupplementLimit(Airoha.AdjustANC.CurvesInfo.info@)">
+            <summary>
+            补充缺失的limit
+            </summary>
+            <param name="info"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.Adjust.CalculateAllCurve(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            计算左右耳曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_Cardinal"></param>
+            <param name="R_Cardinal"></param>
+            <param name="L_NexGainCurves"></param>
+            <param name="R_NexGainCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.Adjust.CalculateAllDiffCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},Airoha.AdjustANC._CurvesData@)">
+            <summary>
+            不嵌入limit 筛选平衡曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_AllCurves"></param>
+            <param name="R_AllCurves"></param>
+            <param name="curves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.Adjust.ScreenPassCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            嵌入limit 筛选 Pass曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_NotScreenAllCurves"></param>
+            <param name="R_NotScreenAllCurves"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.Adjust.ScreenDiffPassCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},Airoha.AdjustANC._CurvesData@,System.String@)">
+            <summary>
+            嵌入limit 筛选最平衡曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+            <param name="curves"></param>
+            <param name="Gain"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.Adjust.ScreenPassCurves第二版(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            嵌入limit 筛选 Pass曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_NotScreenAllCurves"></param>
+            <param name="R_NotScreenAllCurves"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.Adjust.ScreenBalancePass(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.String,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.List{System.String}@)">
+            <summary>
+            嵌入limit 筛选感差Pass的感差Gain
+            </summary>
+            <param name="info"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+            <param name="Balance_PassCurves"></param>
+            <param name="Balance_PassGain"></param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.Adjust.CalculateAllBalanceCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.String,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.List{System.String}@)">
+            <summary>
+              计算感差曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+            <param name="Balance_Curves"></param>
+            <param name="Balance_PassGain"></param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.Adjust.ScreenApproachFigure(System.Double[],System.Double)">
+            <summary>
+            选择目标的接近值
+            </summary>
+            <param name="ListFigure"></param>
+            <param name="ApproachFigure"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass3.SupplementLimit(Airoha.AdjustANC.CurvesInfo.info@)">
+            <summary>
+            补充缺失的limit
+            </summary>
+            <param name="info"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass3.CalculateAllCurve(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            计算左右耳曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_Cardinal"></param>
+            <param name="R_Cardinal"></param>
+            <param name="L_NexGainCurves"></param>
+            <param name="R_NexGainCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass3.CalculateAllDiffCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},Airoha.AdjustANC._CurvesData@)">
+            <summary>
+            不嵌入limit 筛选平衡曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_AllCurves"></param>
+            <param name="R_AllCurves"></param>
+            <param name="curves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass3.ScreenPassCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            嵌入limit 筛选 Pass曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_NotScreenAllCurves"></param>
+            <param name="R_NotScreenAllCurves"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass3.ScreenDiffPassCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},Airoha.AdjustANC._CurvesData@,System.String@)">
+            <summary>
+            嵌入limit 筛选最平衡曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+            <param name="curves"></param>
+            <param name="Gain"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass3.ScreenApproachFigure(System.Double[],System.Double)">
+            <summary>
+            选择目标的接近值
+            </summary>
+            <param name="ListFigure"></param>
+            <param name="ApproachFigure"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass2.SupplementLimit(Airoha.AdjustANC.CurvesInfo.info@)">
+            <summary>
+            补充缺失的limit
+            </summary>
+            <param name="info"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass2.CalculateAllCurve(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            计算左右耳曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_Cardinal"></param>
+            <param name="R_Cardinal"></param>
+            <param name="L_NexGainCurves"></param>
+            <param name="R_NexGainCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass2.CalculateAllDiffCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},Airoha.AdjustANC._CurvesData@)">
+            <summary>
+            不嵌入limit 筛选平衡曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_AllCurves"></param>
+            <param name="R_AllCurves"></param>
+            <param name="curves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass2.ScreenPassCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            嵌入limit 筛选 Pass曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_NotScreenAllCurves"></param>
+            <param name="R_NotScreenAllCurves"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass2.ScreenDiffPassCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},Airoha.AdjustANC._CurvesData@,System.String@)">
+            <summary>
+            嵌入limit 筛选最平衡曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+            <param name="curves"></param>
+            <param name="Gain"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass2.ScreenPassCurves第二版(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            嵌入limit 筛选 Pass曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_NotScreenAllCurves"></param>
+            <param name="R_NotScreenAllCurves"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass2.ScreenBalancePass(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.String,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.List{System.String}@)">
+            <summary>
+            嵌入limit 筛选感差Pass的感差Gain
+            </summary>
+            <param name="info"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+            <param name="Balance_PassCurves"></param>
+            <param name="Balance_PassGain"></param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass2.CalculateAllBalanceCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.String,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.List{System.String}@)">
+            <summary>
+              计算感差曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+            <param name="Balance_Curves"></param>
+            <param name="Balance_PassGain"></param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.AdjustClass2.ScreenApproachFigure(System.Double[],System.Double)">
+            <summary>
+            选择目标的接近值
+            </summary>
+            <param name="ListFigure"></param>
+            <param name="ApproachFigure"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.MerryCalibrationANC.SupplementLimit(Airoha.AdjustANC.CurvesInfo.info@)">
+            <summary>
+            补充缺失的limit
+            </summary>
+            <param name="info"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.MerryCalibrationANC.CalculateAllCurve(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,System.Double[]},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            计算左右耳曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_Cardinal"></param>
+            <param name="R_Cardinal"></param>
+            <param name="L_NexGainCurves"></param>
+            <param name="R_NexGainCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.MerryCalibrationANC.CalculateAllDiffCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},Airoha.AdjustANC._CurvesData@)">
+            <summary>
+            不嵌入limit 筛选平衡曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_AllCurves"></param>
+            <param name="R_AllCurves"></param>
+            <param name="curves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.MerryCalibrationANC.ScreenPassCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData}@)">
+            <summary>
+            嵌入limit 筛选 Pass曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_NotScreenAllCurves"></param>
+            <param name="R_NotScreenAllCurves"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+        </member>
+        <member name="M:Airoha.AdjustANC.MerryCalibrationANC.ScreenDiffPassCurves(Airoha.AdjustANC.CurvesInfo.info,System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},System.Collections.Generic.Dictionary{System.Double,Airoha.AdjustANC._CurvesData},Airoha.AdjustANC._CurvesData@,System.String@)">
+            <summary>
+            嵌入limit 筛选最平衡曲线
+            </summary>
+            <param name="info"></param>
+            <param name="L_PassCurves"></param>
+            <param name="R_PassCurves"></param>
+            <param name="curves"></param>
+            <param name="Gain"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Airoha.AdjustANC.MerryCalibrationANC.ScreenApproachFigure(System.Double[],System.Double)">
+            <summary>
+            选择目标的接近值
+            </summary>
+            <param name="ListFigure"></param>
+            <param name="ApproachFigure"></param>
+            <returns></returns>
+        </member>
+        <member name="F:Airoha.AdjustANC.CurvesForms.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Airoha.AdjustANC.CurvesForms.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Airoha.AdjustANC.CurvesForms.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Airoha.AdjustANC.UIAdaptiveSize.Width">
+            <summary>
+            窗体初始宽度
+            </summary>
+        </member>
+        <member name="F:Airoha.AdjustANC.UIAdaptiveSize.Height">
+            <summary>
+            窗体初始高度
+            </summary>
+        </member>
+        <member name="F:Airoha.AdjustANC.UIAdaptiveSize.FormsName">
+            <summary>
+            窗体名字
+            </summary>
+        </member>
+        <member name="M:Airoha.AdjustANC.UIAdaptiveSize.SetInitSize(System.Windows.Forms.Control)">
+            <summary>
+            存储窗体控件初始大小
+            </summary>
+            <param name="cons">窗体对象（一般为this）</param>
+        </member>
+        <member name="M:Airoha.AdjustANC.UIAdaptiveSize.UpdateSize(System.Single,System.Single,System.Windows.Forms.Control)">
+            <summary>
+            修改窗体控件大小
+            </summary>
+            <param name="x">改变后宽度</param>
+            <param name="y">改变后高度</param>
+            <param name="cons"></param>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="Airoha_ANC">
+            Airoha_ANC
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Interface(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            老式的分享全局变量
+            </summary>
+            <param name="keys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule____">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ USB HID 测试区 AB156x/AB157x/AB158x ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetDevicePath(System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            连接USB装置
+            </summary>
+            <param name="VID">产品VID</param>
+            <param name="PID">产品PID</param>
+            <param name="TimeOut">超时 秒 常规“15”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_SendReport(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            HID 下指令
+            </summary>
+            <param name="CMD">指令</param>
+            <param name="ContainsReport">判断的返回值 自动判断可输入“null”</param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_Get_BD_Address(System.String)">
+            <summary isPublicTestItem="true">
+            HID 读取BD号
+            </summary>
+            <param name="TargetDevice" options="Master,Slave">选择IC 常规“Master”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_GetL_FB_Gain">
+            <summary isPublicTestItem="false">
+            HID 读取左耳FB Gain
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_GetR_FB_Gain">
+            <summary isPublicTestItem="false">
+            HID 读取右耳FB Gain
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_GetL_FF_Gain">
+            <summary isPublicTestItem="false">
+            HID 读取左耳FF Gain
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_GetR_FF_Gain">
+            <summary isPublicTestItem="false">
+            HID 读取右耳FF Gain
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_Get_ANC_Gain(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            HID 读取 Gain
+            </summary>
+            <param name="TargetDevice" options="Master,Slave">选择IC 常规“Master”</param>
+            <param name="GainType" options="FB,FF,All">读取全部 Gain 选择“All”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_SwitchANC(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            HID 切换 ANC
+            </summary>
+            <param name="TargetDevice" options="Master,Slave">选择IC 常规“Master”</param>
+            <param name="ANCMode" options="ANC_OFF,Hybrid,FF_only,FB_only,Airo_Thru">ANC 的模式</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_InitGain(System.Double,System.Double,System.String)">
+            <summary isPublicTestItem="true">
+            HID 写Gain 写入缓冲区 
+            </summary>
+            <param name="FBGain" >初始化 FB Gain 常规0</param>
+            <param name="FFGain" >初始化 FF Gain 常规0</param>
+            <param name="TargetDevice" options="Master,Slave,Both">选择IC 常规“Master”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_SetGain(System.String)">
+            <summary isPublicTestItem="false">
+             HID 将缓冲区增益“Gain”写值
+            </summary>
+            <param name="TargetDevice" options="Master,Slave,Both">选择IC 常规“Master”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_SaveANC_Gain(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            HID 保存Gain 将Gain保存在IC
+            </summary>
+            <param name="TargetDevice" options="Master,Slave,Both">选择IC 常规“Master”</param>
+            <param name="ShowTyoe" options="FB,FF,ALL">FB和FF都会写入 选择显示的Gain</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_SelectVolumeCalibrationANC_FB(System.String,System.String)">
+            <summary isPublicTestItem="false">
+            HID 校准 ANC FB 首选“Pass” 次级目标感度
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="TargetFreq" >次级 目标频率  "{200:-6}{300:-5.8}{400:-20.8}" </param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_SelectVolumeCalibrationANC_FF(System.String,System.String)">
+            <summary isPublicTestItem="false">
+            HID 校准 ANC FF 首选“Pass” 次级目标感度
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="TargetFreq" >次级 目标频率  "{200:-6}{300:-5.8}{400:-20.8}" </param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_CalibrationANC_FB(System.String)">
+            <summary isPublicTestItem="false">
+            HID 校准 ANC FB 首选“Pass” 次级目标平衡
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_CalibrationANC_FF(System.String)">
+            <summary isPublicTestItem="false">
+            HID 校准 ANC FF 首选“Pass” 次级目标平衡
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_SelectTargetVolumeAirohaANCAdjustFF_ForCurves(System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="false">
+            HID 高级 ANC FF 首选“Pass” 次选左耳目标 右耳平衡
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="LeftTarget" >左边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5} {300:-5.4:1} {400:-3.2}"</param>
+            <param name="RightTarget" >右边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5} {300:-5.4:1} {400:-3.2}"</param>
+            <param name="TestCount" >校准次数 要跟SC匹配 常规“5”</param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_SelectTargetVolumeAirohaANCAdjustFB_ForCurves(System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="false">
+            HID 高级 ANC FB 首选“Pass” 次选左耳目标 右耳平衡
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="LeftTarget" >左边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5} {300:-5.4:1} {400:-3.2}"</param>
+            <param name="RightTarget" >右边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5} {300:-5.4:1} {400:-3.2}"</param>
+            <param name="TestCount" >校准次数 要跟SC匹配 常规“5”</param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_STVA_ANCA_FF_FC_Fixed_once(System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            HID 校准 FF 立讯 固定次数
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="LeftTarget" >左边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5}"</param>
+            <param name="RightTarget" >右边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5}"</param>
+            <param name="FixedCount" >跟SC对应 固定校准次数“4”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_STVA_ANCA_FB_FC_Fixed_once(System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            HID 校准 FB 立讯 固定次数
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="LeftTarget" >左边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5}"</param>
+            <param name="RightTarget" >右边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5}"</param>
+            <param name="FixedCount" >跟SC对应 固定校准次数“4”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.HID_FactoryReset">
+            <summary isPublicTestItem="true">
+            HID 工厂重置 Factory Reset
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule___">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ SPP 测试区 AB156x/AB157x/AB158x ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BT2200_SendCMD(System.String)">
+            <summary isPublicTestItem="true">
+            BT2200 下指令
+            </summary>
+            <param name="CMD">指令 例如 >OPEN A2DP</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_Connect(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            SPP 建立连接 标准品默认盲连
+            </summary>
+            <param name="ManualFlag" options="True,False">True 为指定连接地址在Config["BitAddress"] 或 False 盲连</param>
+            <param name="Count">配对次数 每次大约10秒 建议2次</param>
+            <returns>配对成功的BD号</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_SendCMD(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            SPP 下SPP指令
+            </summary>
+            <param name="CMD">指令 16进制 例如 ANC OFF 05 5A 05 00 06 0E 00 0B 01</param>
+            <param name="ContainsValue">检查指令返回值 例如 05 5B 08 00 06 0E 00 0B 01</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_Get_ANC_Gain(System.String)">
+            <summary isPublicTestItem="true">
+            SPP 读取 Gain
+            </summary>
+            <param name="GainType" options="FB,FF,All">读取全部 Gain 选择“All”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_SwitchANC(System.String)">
+            <summary isPublicTestItem="true">
+            SPP 切换 ANC
+            </summary>
+            <param name="ANCMode" options="ANC_OFF,Hybrid,FF_only,FB_only,Airo_Thru">ANC 的模式</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_InitGain(System.Double,System.Double)">
+            <summary isPublicTestItem="true">
+            SPP 写Gain 写入缓冲区 
+            </summary>
+            <param name="FBGain" >初始化 FB Gain 常规0</param>
+            <param name="FFGain" >初始化 FF Gain 常规0</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_SetGain">
+            <summary isPublicTestItem="false">
+             SPP 将缓冲区增益“Gain”写值
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_SaveANC_Gain(System.String)">
+            <summary isPublicTestItem="true">
+            SPP 保存Gain 将Gain保存在IC
+            </summary>
+            <param name="ShowType" options="FB,FF,ALL">FB和FF都会写入 选择显示的Gain</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_CalibrationANC_FB(System.String)">
+            <summary isPublicTestItem="false">
+            SPP 校准 ANC FB 首选“Pass” 次级目标平衡
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_CalibrationANC_FF(System.String)">
+            <summary isPublicTestItem="false">
+            SPP 校准 ANC FF 首选“Pass” 次级目标平衡
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_SelectVolumeCalibrationANC_FB(System.String,System.String)">
+            <summary isPublicTestItem="false">
+            SPP 校准 ANC FB 首选“Pass” 次级目标感度
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="TargetFreq" >次级 目标频率 用分隔符 “|” </param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_SelectVolumeCalibrationANC_FF(System.String,System.String)">
+            <summary isPublicTestItem="false">
+            SPP 校准 ANC FF 首选“Pass” 次级目标感度
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="TargetFreq" >次级 目标频率 用分隔符 “|” </param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_STVA_ANCA_FB_FC_Fixed_once(System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            SPP 校准 FB 立讯 固定次数
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="LeftTarget" >左边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5}"</param>
+            <param name="RightTarget" >右边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5}"</param>
+            <param name="FixedCount" >固定校准次数“4”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SPP_STVA_ANCA_FF_FC_Fixed_once(System.String,System.String,System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            SPP 校准 FF 立讯 固定次数
+            </summary>
+            <param name="ShowCalibration" options="False,True">是否显示算法过程 想看选“True”</param>
+            <param name="LeftTarget" >左边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5}"</param>
+            <param name="RightTarget" >右边目标 {频率:感度:容错范围} "{530:-3.5:0.5} {200:-5.5:0.5}"</param>
+            <param name="FixedCount" >固定校准次数“5”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BT2200_Disconnect">
+            <summary isPublicTestItem="true">
+            断开连接 重置仪器 释放缓存 生成Log
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BT2200_OpenPort">
+            <summary isPublicTestItem="true">
+            BT2200 打开串口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BT2200_ColsePort">
+            <summary isPublicTestItem="true">
+            BT2200 关闭串口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="T:MerryTest.testitem.BaseConversion">
+            <summary>
+            进制转换帮助类
+            </summary>
+        </member>
+        <member name="M:MerryTest.testitem.BaseConversion.GetintArray(System.String)">
+            <summary>
+            将字符串转int数组
+            </summary>
+            <param name="ar"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.BaseConversion.GetByteArray(System.String,System.Int32)">
+            <summary>
+            將16進制字符串轉換為16进制byte數組并且根据数组长度自动补0
+            </summary>
+            <param name="shex">要转换的16进制字符串</param>
+            <param name="lenght">要转换的Byte数组长度</param>
+            <returns>转换后的Byte数组，自动补0</returns>
+        </member>
+        <member name="M:MerryTest.testitem.BaseConversion.GetString(System.Byte[])">
+            <summary>
+            Byte数组转16进制字符串
+            </summary>
+            <param name="bytes">Byte数组</param>
+            <returns>16进制字符串</returns>
+        </member>
+        <member name="M:MerryTest.testitem.BaseConversion.GetString(System.Byte[],System.String)">
+            <summary>
+            Byte数组取指定索引值转16进制字符串 
+            </summary>
+            <param name="bytes">Byte数组</param>
+            <param name="index">Byte数组索引数组</param>
+            <returns>16进制字符串</returns>
+        </member>
+        <member name="T:MerryTest.testitem.Command">
+            <summary>
+            指令帮助类
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.Command.ReturnValue">
+            <summary>
+            存储回传值
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.Command.ALLReturnValue">
+            <summary>
+            存储全部回传值
+            </summary>
+        </member>
+        <member name="M:MerryTest.testitem.Command.WriteSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用write下下指令
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">句柄</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.GetReportSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用getreport下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.SetReportSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用setReport下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.SetFeatureSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用SetFeature下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.WriteReturn(System.String,System.Int32,System.String,System.String,System.String,System.IntPtr)">
+            <summary>
+            使用write下下指令并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="Indexes">指令返回值索引</param>
+            <param name="handle">句柄通道地址</param>
+            <param name="intPtr">句柄通道指针</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.SetReportReturn(System.String,System.Int32,System.String,System.String,System.String,System.IntPtr)">
+            <summary>
+            使用setReport下下指令并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="Indexes">指令返回值索引</param>
+            <param name="handle">句柄通道地址</param>
+            <param name="intPtr">句柄通道指针</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.GetFeatureReturn(System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用GetFeature下下指令對外方法并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令長度</param>
+            <param name="intPtr">通道</param>
+            <param name="indexes">返回下標值</param>
+            <returns>返回读取的值</returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.GetReportReturn(System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用getReport下指令并且存储回传值到 ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令長度</param>
+            <param name="intPtr">通道</param>
+            <param name="indexes">返回下標值</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.IsReturnValue(System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            直接获取指定句柄回传值
+            </summary>
+            <param name="handle">句柄地址</param>
+            <param name="length">句柄流数组长度</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.Command.WriteReturns(System.String,System.Int32,System.String,System.String,System.String,System.IntPtr,System.String[]@)">
+            <summary>
+            使用write下下指令并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="Indexes">指令返回值索引</param>
+            <param name="handle">句柄通道地址</param>
+            <param name="intPtr">句柄通道指针</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="T:MerryTest.testitem.GetHandle">
+            <summary>
+            获取句柄类
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.GetHandle.headsethandle">
+            <summary>
+            Headset句柄对象数组
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.GetHandle.donglehandle">
+            <summary>
+            Dongle句柄对象数组
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.GetHandle.headsetpath">
+            <summary>
+            Headset句柄地址
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.GetHandle.donglepath">
+            <summary>
+            Dongle句柄地址
+            </summary>
+        </member>
+        <member name="M:MerryTest.testitem.GetHandle.gethandle(System.String,System.String,System.String,System.String)">
+            <summary>
+            抓取句柄 donglePIDVID不能为NULL
+            </summary>
+            <param name="headsetPID">headsetPID</param>
+            <param name="headsetVID">headsetVID</param>
+            <param name="donglePID">donglePID</param>
+            <param name="dongleVID">dongleVID</param>
+            <returns>抓取是否成功</returns>
+        </member>
+        <member name="M:MerryTest.testitem.ProgressBars.FindWindow(System.String,System.String)">
+            <summary>
+            控制窗体
+            </summary>
+            <param name="lpClassName">传null</param>
+            <param name="lpWindowName">需要控制窗体得名字</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.testitem.ProgressBars.PostMessage(System.IntPtr,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            结束窗体
+            </summary>
+            <param name="hWnd">信息发往的窗口的句柄</param>
+            <param name="Msg">消息ID ：0x10</param>
+            <param name="wParam">参数1 ：</param>
+            <param name="lParam">参数2 ：0</param>
+            <returns></returns>
+        </member>
+        <member name="F:MerryTest.testitem.ProgressBars.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryTest.testitem.ProgressBars.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryTest.testitem.ProgressBars.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MerryTest.testitem.HID.HidD_GetPreparsedData(System.Int32,System.IntPtr@)">
+            <summary>
+            根据流获取准备好的数据
+            </summary>
+            <param name="HidDeviceObject">加密设备指针转换的流</param>
+            <param name="PreparsedData"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MerryTest.testitem.HID.HIDP_CAPS">
+            <summary>
+            USB装置的详细通讯长度信息
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.HID.HIDP_CAPS.InputReportByteLength">
+            <summary>
+            写入的长度
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.HID.HIDP_CAPS.OutputReportByteLength">
+            <summary>
+            读取的长度
+            </summary>
+        </member>
+        <member name="F:MerryTest.testitem.HID.HIDP_CAPS.FeatureReportByteLength">
+            <summary>
+            特征 长度
+            </summary>
+        </member>
+    </members>
+</doc>

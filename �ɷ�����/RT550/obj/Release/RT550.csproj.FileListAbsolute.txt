@@ -1,0 +1,33 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Release\RT550.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Release\RT550.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Release\Ivi.Visa.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Release\NationalInstruments.Visa.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Release\RT550.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Release\RT550.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Release\RT550.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Release\RT550.pdb
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\bin\Release\RT550.dll
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\bin\Release\RT550.pdb
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\bin\Release\Ivi.Visa.dll
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\bin\Release\NationalInstruments.Visa.dll
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\obj\Release\RT550.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\obj\Release\RT550.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\obj\Release\RT550.dll
+D:\Data\mech-sw\Z_AllDll\lvi_Visa\lvi_Visa\obj\Release\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\bin\Release\RT550.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\bin\Release\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\bin\Release\Ivi.Visa.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\bin\Release\NationalInstruments.Visa.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\obj\Release\RT550.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\obj\Release\RT550.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\obj\Release\RT550.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\lvi_Visa\RT550\obj\Release\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\bin\Release\RT550.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\bin\Release\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\bin\Release\Ivi.Visa.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\bin\Release\NationalInstruments.Visa.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Release\RT550.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Release\RT550.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Release\RT550.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Release\RT550.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\RT550\obj\Release\RT550.csproj.AssemblyReference.cache

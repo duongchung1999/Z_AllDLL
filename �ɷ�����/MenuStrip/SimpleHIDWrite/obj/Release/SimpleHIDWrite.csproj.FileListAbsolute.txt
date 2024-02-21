@@ -1,0 +1,12 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SimpleHIDWrite\bin\Release\SimpleHIDWrite.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SimpleHIDWrite\bin\Release\SimpleHIDWrite.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SimpleHIDWrite\obj\Release\SimpleHIDWrite.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SimpleHIDWrite\obj\Release\SimpleHIDWrite.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SimpleHIDWrite\obj\Release\SimpleHIDWrite.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\SimpleHIDWrite\obj\Release\SimpleHIDWrite.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SimpleHIDWrite\bin\Release\SimpleHIDWrite.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SimpleHIDWrite\bin\Release\SimpleHIDWrite.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SimpleHIDWrite\obj\Release\SimpleHIDWrite.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SimpleHIDWrite\obj\Release\SimpleHIDWrite.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SimpleHIDWrite\obj\Release\SimpleHIDWrite.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SimpleHIDWrite\obj\Release\SimpleHIDWrite.csproj.AssemblyReference.cache

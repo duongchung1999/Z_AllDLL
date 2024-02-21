@@ -1,0 +1,17 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Switch\bin\Release\Switch.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Switch\bin\Release\Switch.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Switch\obj\Release\Switch.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Switch\obj\Release\Switch.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Switch\obj\Release\Switch.pdb
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\Switch\bin\Release\Switch.dll
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\Switch\bin\Release\Switch.pdb
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\Switch\obj\Release\Switch.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\Switch\obj\Release\Switch.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\Switch\obj\Release\Switch.dll
+C:\Users\ch200001\Desktop\MECH_MoreTest\Z_AllDll\Switch\obj\Release\Switch.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Switch\bin\Release\Switch.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Switch\bin\Release\Switch.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Switch\obj\Release\Switch.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Switch\obj\Release\Switch.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Switch\obj\Release\Switch.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Switch\obj\Release\Switch.pdb

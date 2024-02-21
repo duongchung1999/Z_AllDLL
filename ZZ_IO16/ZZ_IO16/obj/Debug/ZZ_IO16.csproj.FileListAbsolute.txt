@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\RELAY16\ZZ_IO16\ZZ_IO16\bin\Debug\ZZ_IO16.dll
+C:\Users\Administrator\Desktop\RELAY16\ZZ_IO16\ZZ_IO16\bin\Debug\ZZ_IO16.pdb
+C:\Users\Administrator\Desktop\RELAY16\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\RELAY16\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\RELAY16\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RELAY16\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.dll
+C:\Users\Administrator\Desktop\RELAY16\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.pdb
+C:\Users\Administrator\Desktop\RELAY16\ZZ_IO16\ZZ_IO16\obj\Debug\Common.Box.resources
+D:\Fuzhang\From_FuZhang\ZZ_IO16\ZZ_IO16\bin\Debug\ZZ_IO16.dll
+D:\Fuzhang\From_FuZhang\ZZ_IO16\ZZ_IO16\bin\Debug\ZZ_IO16.pdb
+D:\Fuzhang\From_FuZhang\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.csproj.AssemblyReference.cache
+D:\Fuzhang\From_FuZhang\ZZ_IO16\ZZ_IO16\obj\Debug\Common.Box.resources
+D:\Fuzhang\From_FuZhang\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.csproj.GenerateResource.cache
+D:\Fuzhang\From_FuZhang\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.csproj.CoreCompileInputs.cache
+D:\Fuzhang\From_FuZhang\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.dll
+D:\Fuzhang\From_FuZhang\ZZ_IO16\ZZ_IO16\obj\Debug\ZZ_IO16.pdb

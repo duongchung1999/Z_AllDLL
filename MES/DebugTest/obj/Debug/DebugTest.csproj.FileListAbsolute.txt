@@ -1,0 +1,150 @@
+D:\Work\SourceCode\MES\MES\DebugTest\bin\Debug\DebugTest.exe.config
+D:\Work\SourceCode\MES\MES\DebugTest\bin\Debug\DebugTest.exe
+D:\Work\SourceCode\MES\MES\DebugTest\bin\Debug\DebugTest.pdb
+D:\Work\SourceCode\MES\MES\DebugTest\bin\Debug\MES.dll
+D:\Work\SourceCode\MES\MES\DebugTest\bin\Debug\ECClientDLL.dll
+D:\Work\SourceCode\MES\MES\DebugTest\bin\Debug\MES.pdb
+D:\Work\SourceCode\MES\MES\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+D:\Work\SourceCode\MES\MES\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+D:\Work\SourceCode\MES\MES\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+D:\Work\SourceCode\MES\MES\DebugTest\obj\Debug\DebugTest.exe
+D:\Work\SourceCode\MES\MES\DebugTest\obj\Debug\DebugTest.pdb
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\bin\Debug\DebugTest.exe.config
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\bin\Debug\DebugTest.exe
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\bin\Debug\DebugTest.pdb
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\bin\Debug\MES.dll
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\bin\Debug\ECClientDLL.dll
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\bin\Debug\MES.pdb
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\obj\Debug\DebugTest.exe
+E:\MEVNSW\2_SourceCode\8_SourceCodeDev\MES\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\bin\Debug\DebugTest.exe.config
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\bin\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\bin\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\bin\Debug\ECClientDLL.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\obj\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\MES\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\bin\Debug\DebugTest.exe.config
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\bin\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\bin\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\bin\Debug\ECClientDLL.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\obj\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\bin\Debug\DebugTest.exe.config
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\bin\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\bin\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\bin\Debug\ECClientDLL.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\bin\Debug\MerryTestFramework.testitem.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\obj\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - Daxie\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\bin\Debug\DebugTest.exe.config
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\bin\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\bin\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\bin\Debug\ECClientDLL.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\bin\Debug\MerryTestFramework.testitem.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\obj\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\11_RepairDll\MES - GetBDDongle\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\bin\Debug\DebugTest.exe.config
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\bin\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\bin\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\bin\Debug\ECClientDLL.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\bin\Debug\MerryTestFramework.testitem.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\bin\Debug\DebugTest.exe.config
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\bin\Debug\DebugTest.exe
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\bin\Debug\DebugTest.pdb
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\bin\Debug\MES.dll
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\bin\Debug\ECClientDLL.dll
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\bin\Debug\MerryTestFramework.testitem.dll
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\bin\Debug\MES.pdb
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.exe
+C:\Users\CH180265\Desktop\test\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\bin\Debug\DebugTest.exe.config
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\bin\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\bin\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\bin\Debug\ECClientDLL.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\bin\Debug\MerryTestFramework.testitem.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.01.10\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\bin\Debug\DebugTest.exe.config
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\bin\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\bin\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\bin\Debug\ECClientDLL.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\bin\Debug\MerryTestFramework.testitem.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\obj\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\MEVN_MES 2023.03.15\MEVN_MES 2023.05.03\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\DebugTest.exe.config
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\ECClientDLL.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\MerryTestFramework.testitem.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\MES\DebugTest\bin\Debug\CommonControl.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\bin\Debug\DebugTest.exe.config
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\bin\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\bin\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\bin\Debug\MES.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\bin\Debug\ECClientDLL.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\bin\Debug\MES.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.exe
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\obj\Debug\DebugTest.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MES\DebugTest\bin\Debug\MES.xml

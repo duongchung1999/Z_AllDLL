@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90782007-2185-4382-bb4b-43736756bb86": {
+      "ProjectGuid": "90782007-2185-4382-bb4b-43736756bb86",
+      "DisplayName": "QCCRF",
+      "ColorIndex": 0
+    },
+    "7b1a981a-6352-4084-9e76-2d34bb52c897": {
+      "ProjectGuid": "7b1a981a-6352-4084-9e76-2d34bb52c897",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

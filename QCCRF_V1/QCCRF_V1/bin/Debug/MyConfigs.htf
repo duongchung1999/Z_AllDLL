@@ -1,0 +1,64 @@
+version=QCC514X_CONFIG
+
+##############################
+file=system3
+
+# The capacitance for driving a crystal providing the raw clock
+驱动提供原始时钟的晶体的电容
+XtalLoadCapacitance = 0x0b
+
+# Fine frequency trim for a crystal providing the raw chip clock
+提供原始芯片时钟的晶体的精细频率微调
+XtalFreqTrim = 0
+
+##############################
+file=bt2
+
+# BD_ADDRESS
+BD_ADDRESS = [ 05 ff 00 5b 02 00 ]
+
+##############################
+file=app3
+
+# USB Vendor ID
+USB供应商ID
+USBVendorID = 0x47f
+
+# The PID of the generic device
+通用设备的PID
+USBProductID = 0x147
+
+# USB version number
+USB版本号
+USBVersion = 0x200
+
+# Class, subclass and protocol codes for the device
+设备的类、子类和协议代码
+USBDeviceClassCodes = [ 00 00 00 ]
+
+# Maximum power drawn by a bus-powered device
+总线供电设备的最大功率
+USBMaxPower = 0x00
+
+# Disables support for USB remote wake
+禁用对USB远程唤醒的支持
+USBRemoteWakeDisable = true
+
+# Binary-coded decimal device version number
+二进制编码十进制设备版本号
+USBBCDDevice = 0x13
+
+# Device product string descriptor
+设备产品字符串描述符
+USBProductString = "Poly Voyager 4300 Series"
+
+# Manufacturer string descriptor
+制造商字符串描述符
+USBManufString = "Plantronics"
+
+##############################
+file=app5
+
+# MIB key to set device name
+设置设备名称的MIB键
+DeviceName = "Poly Voyager 4300 Series"

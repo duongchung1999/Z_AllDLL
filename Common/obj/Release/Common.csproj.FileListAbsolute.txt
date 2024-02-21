@@ -1,0 +1,47 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Common\bin\Release\Common.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Common\bin\Release\Common.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.Box.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.AssemblyReference.cache
+D:\mech-sw\Z_AllDll\写好的代码\Common\bin\Release\Common.dll
+D:\mech-sw\Z_AllDll\写好的代码\Common\bin\Release\Common.pdb
+D:\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.Box.resources
+D:\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.GenerateResource.cache
+D:\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.dll
+D:\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Common\bin\Release\Common.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Common\bin\Release\Common.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.AssemblyReference.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.Box.resources
+D:\Data\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.GenerateResource.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Common\bin\Release\Common.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Common\bin\Release\Common.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.Box.resources
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.GenerateResource.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\Common\obj\Release\Common.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Common\bin\Release\Common.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Common\bin\Release\Common.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Common\obj\Release\Common.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Common\obj\Release\Common.Box.resources
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Common\obj\Release\Common.csproj.GenerateResource.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Common\obj\Release\Common.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Common\obj\Release\Common.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Common\bin\Release\Common.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Common\bin\Release\Common.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Common\obj\Release\Common.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Common\obj\Release\Common.Box.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Common\obj\Release\Common.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Common\obj\Release\Common.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Common\obj\Release\Common.pdb

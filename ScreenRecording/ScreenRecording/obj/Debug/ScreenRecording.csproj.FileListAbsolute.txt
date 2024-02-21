@@ -1,0 +1,8 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\ScreenRecording\obj\Debug\ScreenRecording.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\ScreenRecording\obj\Debug\ScreenRecording.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\ScreenRecording\bin\Debug\ScreenRecording.dll.config
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\ScreenRecording\bin\Debug\ScreenRecording.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\ScreenRecording\bin\Debug\ScreenRecording.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\ScreenRecording\obj\Debug\ScreenRecording.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\ScreenRecording\obj\Debug\ScreenRecording.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\ScreenRecording\ScreenRecording\bin\Debug\ScreenRecording.xml

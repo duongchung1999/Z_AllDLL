@@ -1,0 +1,15 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\obj\Debug\Airoha.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\obj\Debug\Airoha.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\obj\Debug\Airoha.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\bin\Debug\Airoha.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\bin\Debug\Airoha.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\obj\Debug\MerryTest.testitem.ProgressBars.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\obj\Debug\Airoha.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\obj\Debug\Airoha.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\bin\Debug\Airoha.xml
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\obj\Debug\Airoha.AdjustANC.CurvesForms.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\bin\Debug\Airoha_ANC.xml
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\bin\Debug\Airoha_ANC.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\bin\Debug\Airoha_ANC.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\obj\Debug\Airoha_ANC.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Airoha\Airoha\obj\Debug\Airoha_ANC.pdb

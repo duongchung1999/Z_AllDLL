@@ -1,0 +1,11 @@
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\bin\Release\NXPRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\bin\Release\NXPRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\obj\Release\NXPRF.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\obj\Release\NXPRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\obj\Release\NXPRF.pdb
+E:\机型资料\模板代码\NXPRF\NXPRF\bin\Release\NXPRF.dll
+E:\机型资料\模板代码\NXPRF\NXPRF\bin\Release\NXPRF.pdb
+E:\机型资料\模板代码\NXPRF\NXPRF\obj\Release\NXPRF.csproj.CoreCompileInputs.cache
+E:\机型资料\模板代码\NXPRF\NXPRF\obj\Release\NXPRF.dll
+E:\机型资料\模板代码\NXPRF\NXPRF\obj\Release\NXPRF.pdb
+E:\机型资料\模板代码\NXPRF\NXPRF\obj\Release\NXPRF.csproj.AssemblyReference.cache

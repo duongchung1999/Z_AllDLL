@@ -1,0 +1,16 @@
+E:\MEVNSW\2_SourceCode\MondayTEST\DLLTest\Z_AllDll\PowerZ\obj\Debug\PowerZ.csproj.GenerateResource.cache
+E:\MEVNSW\2_SourceCode\MondayTEST\DLLTest\Z_AllDll\PowerZ\obj\Debug\PowerZ.csproj.CoreCompileInputs.cache
+E:\MEVNSW\2_SourceCode\MondayTEST\DLLTest\Z_AllDll\PowerZ\bin\Debug\PowerZ.dll
+E:\MEVNSW\2_SourceCode\MondayTEST\DLLTest\Z_AllDll\PowerZ\bin\Debug\PowerZ.pdb
+E:\MEVNSW\2_SourceCode\MondayTEST\DLLTest\Z_AllDll\PowerZ\obj\Debug\PowerZ.Forms.MessageBoxs.resources
+E:\MEVNSW\2_SourceCode\MondayTEST\DLLTest\Z_AllDll\PowerZ\obj\Debug\PowerZ.dll
+E:\MEVNSW\2_SourceCode\MondayTEST\DLLTest\Z_AllDll\PowerZ\obj\Debug\PowerZ.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\PowerZ\obj\Debug\PowerZ.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\PowerZ\obj\Debug\PowerZ.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\PowerZ\bin\Debug\_PowerZ.xml
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\PowerZ\bin\Debug\_PowerZ.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\PowerZ\bin\Debug\_PowerZ.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\PowerZ\obj\Debug\_PowerZ.Forms.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\PowerZ\obj\Debug\_PowerZ.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\PowerZ\obj\Debug\_PowerZ.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\PowerZ\obj\Debug\PowerZ.csproj.AssemblyReference.cache

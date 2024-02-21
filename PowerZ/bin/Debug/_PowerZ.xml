@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>_PowerZ</name>
+    </assembly>
+    <members>
+        <member name="T:BaseConversionSpace.BaseConversion">
+            <summary>
+            进制转换帮助类
+            </summary>
+        </member>
+        <member name="M:BaseConversionSpace.BaseConversion.GetintArray(System.String)">
+            <summary>
+            将字符串转int数组
+            </summary>
+            <param name="ar"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BaseConversionSpace.BaseConversion.GetByteArray(System.String,System.Int32)">
+            <summary>
+            將16進制字符串轉換為16进制byte數組并且根据数组长度自动补0
+            </summary>
+            <param name="shex">要转换的16进制字符串</param>
+            <param name="lenght">要转换的Byte数组长度</param>
+            <returns>转换后的Byte数组，自动补0</returns>
+        </member>
+        <member name="M:BaseConversionSpace.BaseConversion.GetString(System.Byte[])">
+            <summary>
+            Byte数组转16进制字符串
+            </summary>
+            <param name="bytes">Byte数组</param>
+            <returns>16进制字符串</returns>
+        </member>
+        <member name="M:BaseConversionSpace.BaseConversion.GetString(System.Byte[],System.String)">
+            <summary>
+            Byte数组取指定索引值转16进制字符串 
+            </summary>
+            <param name="bytes">Byte数组</param>
+            <param name="index">Byte数组索引数组</param>
+            <returns>16进制字符串</returns>
+        </member>
+        <member name="T:CommandHandle.Command">
+            <summary>
+            指令帮助类
+            </summary>
+        </member>
+        <member name="F:CommandHandle.Command.ReturnValue">
+            <summary>
+            存储回传值
+            </summary>
+        </member>
+        <member name="F:CommandHandle.Command.ALLReturnValue">
+            <summary>
+            存储全部回传值
+            </summary>
+        </member>
+        <member name="M:CommandHandle.Command.WriteSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用write下下指令
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">句柄</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:CommandHandle.Command.GetReportSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用getreport下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:CommandHandle.Command.SetReportSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用setReport下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns></returns>
+        </member>
+        <member name="M:CommandHandle.Command.SetFeatureSend(System.String,System.Int32,System.IntPtr)">
+            <summary>
+            使用SetFeature下下指令對外方法 
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="intPtr">通道</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:CommandHandle.Command.WriteReturn(System.String,System.Int32,System.String,System.String,System.String,System.IntPtr)">
+            <summary>
+            使用write下下指令并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="Indexes">指令返回值索引</param>
+            <param name="handle">句柄通道地址</param>
+            <param name="intPtr">句柄通道指针</param>
+            <returns>指令是否下成功</returns>
+        </member>
+        <member name="M:CommandHandle.Command.SetReportReturn(System.String,System.Int32,System.String,System.String,System.String,System.IntPtr)">
+            <summary>
+            使用setReport下下指令并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令长度</param>
+            <param name="readdata">指令返回值标识值</param>
+            <param name="Indexes">指令返回值索引</param>
+            <param name="handle">句柄通道地址</param>
+            <param name="intPtr">句柄通道指针</param>
+            <returns></returns>
+        </member>
+        <member name="M:CommandHandle.Command.GetFeatureReturn(System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用GetFeature下下指令對外方法并且存储回传值到ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令長度</param>
+            <param name="intPtr">通道</param>
+            <param name="indexes">返回下標值</param>
+            <returns>返回读取的值</returns>
+        </member>
+        <member name="M:CommandHandle.Command.GetReportReturn(System.String,System.Int32,System.IntPtr,System.String)">
+            <summary>
+            使用getReport下指令并且存储回传值到 ReturnValue
+            </summary>
+            <param name="command">指令</param>
+            <param name="lenght">指令長度</param>
+            <param name="intPtr">通道</param>
+            <param name="indexes">返回下標值</param>
+            <returns></returns>
+        </member>
+        <member name="M:CommandHandle.Command.IsReturnValue(System.String,System.String,System.Int32)">
+            <summary>
+            直接获取指定句柄回传值
+            </summary>
+            <param name="handle">句柄地址</param>
+            <param name="length">句柄流数组长度</param>
+            <returns></returns>
+        </member>
+        <member name="T:CommandHandle.GetHandle">
+            <summary>
+            获取句柄类
+            </summary>
+        </member>
+        <member name="F:CommandHandle.GetHandle.headsethandle">
+            <summary>
+            Headset句柄对象数组
+            </summary>
+        </member>
+        <member name="F:CommandHandle.GetHandle.donglehandle">
+            <summary>
+            Dongle句柄对象数组
+            </summary>
+        </member>
+        <member name="F:CommandHandle.GetHandle.headsetpath">
+            <summary>
+            Headset句柄地址
+            </summary>
+        </member>
+        <member name="F:CommandHandle.GetHandle.donglepath">
+            <summary>
+            Dongle句柄地址
+            </summary>
+        </member>
+        <member name="M:CommandHandle.GetHandle.gethandle(System.String,System.String,System.String,System.String)">
+            <summary>
+            抓取句柄 donglePIDVID不能为NULL
+            </summary>
+            <param name="headsetPID">headsetPID</param>
+            <param name="headsetVID">headsetVID</param>
+            <param name="donglePID">donglePID</param>
+            <param name="dongleVID">dongleVID</param>
+            <returns>抓取是否成功</returns>
+        </member>
+        <member name="M:CommandHandle.GetHandle.CloseHandle">
+            <summary>
+            释放句柄
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="_PowerZ">
+            _PowerZ
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetVoltage(System.String)">
+            <summary isPublicTestItem="true">
+            读取电压 GetVoltage
+            </summary>
+            <param name="type" options="5,0.5,0.0005" >档位</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetCurrent(System.String)">
+            <summary isPublicTestItem="true">
+            读取电流 GetCurrent
+            </summary>
+            <param name="type" options="5,0.5,0.0005" >档位</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetPower">
+            <summary isPublicTestItem="true">
+            读取功率 GetPower
+            </summary>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="T:MerryDllFramework.MessageBox">
+            <summary>
+            调用弹窗类
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MessageBox.JudgeBox(System.String)">
+            <summary>
+            判断弹窗
+            </summary>
+            <param name="message">窗口信息</param>
+            <returns>选择结果</returns>
+        </member>
+        <member name="M:MerryDllFramework.MessageBox.BarCodeBox(System.String,System.Int32,System.String@)">
+            <summary>
+            条码弹窗
+            </summary>
+            <param name="message">窗口信息</param>
+            <param name="length">条码长度</param>
+            <param name="barcode">条码值</param>
+            <returns>选择结果</returns>
+        </member>
+        <member name="M:MerryDllFramework.MessageBox.ColorBox(System.String,System.Drawing.Color)">
+            <summary>
+            颜色弹窗
+            </summary>
+            <param name="message">窗口信息</param>
+            <param name="color">窗体颜色</param>
+            <returns>选择结果</returns>
+        </member>
+        <member name="T:MerryDllFramework.MessageBoxs">
+            <summary>
+            弹窗
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.names">
+            <summary>
+            窗体名
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.message">
+            <summary>
+            窗体信息
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.length">
+            <summary>
+            窗体条码框长度
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.barcode">
+            <summary>
+            条码框输入值
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.color">
+            <summary>
+            窗体颜色
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.SN">
+            <summary>
+            不良SN
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MessageBoxs.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MessageBoxs.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MessageBoxs.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryDllFramework.MessageBoxs.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

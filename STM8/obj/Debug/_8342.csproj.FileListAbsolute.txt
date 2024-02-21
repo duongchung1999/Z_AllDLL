@@ -1,0 +1,52 @@
+C:\Users\CH200001\Desktop\SCPI\_8342\bin\Debug\_8342.dll
+C:\Users\CH200001\Desktop\SCPI\_8342\bin\Debug\_8342.pdb
+C:\Users\CH200001\Desktop\SCPI\_8342\obj\Debug\_8342.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\SCPI\_8342\obj\Debug\_8342.dll
+C:\Users\CH200001\Desktop\SCPI\_8342\obj\Debug\_8342.pdb
+C:\Users\CH200001\Desktop\SCPI\_8342\obj\Debug\_8342.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\SCPI\_8342\obj\Debug\_8342.Forms.MessageBoxs.resources
+C:\Users\CH200001\Desktop\DeviceDLL\_8342\bin\Debug\_8342.dll
+C:\Users\CH200001\Desktop\DeviceDLL\_8342\bin\Debug\_8342.pdb
+C:\Users\CH200001\Desktop\DeviceDLL\_8342\obj\Debug\_8342.Forms.MessageBoxs.resources
+C:\Users\CH200001\Desktop\DeviceDLL\_8342\obj\Debug\_8342.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\DeviceDLL\_8342\obj\Debug\_8342.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\DeviceDLL\_8342\obj\Debug\_8342.dll
+C:\Users\CH200001\Desktop\DeviceDLL\_8342\obj\Debug\_8342.pdb
+C:\Users\CH200001\Desktop\DeviceDLL\_8342\obj\Debug\_8342.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\_8342\bin\Debug\_8342.dll
+C:\Users\CH200001\Desktop\AllDll\_8342\bin\Debug\_8342.pdb
+C:\Users\CH200001\Desktop\AllDll\_8342\obj\Debug\_8342.Forms.MessageBoxs.resources
+C:\Users\CH200001\Desktop\AllDll\_8342\obj\Debug\_8342.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\AllDll\_8342\obj\Debug\_8342.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\_8342\obj\Debug\_8342.dll
+C:\Users\CH200001\Desktop\AllDll\_8342\obj\Debug\_8342.pdb
+C:\Users\Test\Desktop\AllDll\_8342\bin\Debug\_8342.dll
+C:\Users\Test\Desktop\AllDll\_8342\bin\Debug\_8342.pdb
+C:\Users\Test\Desktop\AllDll\_8342\obj\Debug\_8342.Forms.MessageBoxs.resources
+C:\Users\Test\Desktop\AllDll\_8342\obj\Debug\_8342.csproj.GenerateResource.cache
+C:\Users\Test\Desktop\AllDll\_8342\obj\Debug\_8342.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\AllDll\_8342\obj\Debug\_8342.dll
+C:\Users\Test\Desktop\AllDll\_8342\obj\Debug\_8342.pdb
+C:\Users\Test\Desktop\AllDll\_8342\obj\Debug\_8342.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\bin\Debug\_8342.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\bin\Debug\_8342.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Debug\_8342.Forms.MessageBoxs.resources
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Debug\_8342.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Debug\_8342.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Debug\_8342.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\_8342\obj\Debug\_8342.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\bin\Debug\_8342.dll
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\bin\Debug\_8342.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Debug\_8342.Forms.MessageBoxs.resources
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Debug\_8342.csproj.GenerateResource.cache
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Debug\_8342.csproj.CoreCompileInputs.cache
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Debug\_8342.dll
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Debug\_8342.pdb
+E:\ChungDS\2_SourceCode\6_OTHER\2_MerryFramework_V220607\Z_AllDll\_8342\obj\Debug\_8342.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MECL_Board\bin\Debug\MECL_Board.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MECL_Board\bin\Debug\MECL_Board.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MECL_Board\obj\Debug\MECL_Board.Forms.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MECL_Board\obj\Debug\_8342.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MECL_Board\obj\Debug\_8342.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MECL_Board\obj\Debug\MECL_Board.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\MECL_Board\obj\Debug\MECL_Board.pdb

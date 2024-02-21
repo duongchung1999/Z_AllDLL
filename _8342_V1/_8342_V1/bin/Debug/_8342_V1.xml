@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>_8342_V1</name>
+    </assembly>
+    <members>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="_8342_V1">
+            _8342_V1 电流表
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.A_DC(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            电流直流电 A_DC
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.A_AC(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            电流交流电 A_AC
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.V_DC(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            电压直流电 V_DC
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.V_AC(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            电压交流电 V_AC
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.RES(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            电阻 RES
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Hz_P(System.String,System.Int32)">
+            <summary isPublicTestItem="true">
+            频率 Hz_P
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DIODe(System.Int32)">
+            <summary isPublicTestItem="true">
+            二极管测量 Diode
+            </summary>
+            <param name="Conut">读取次数 取平均值 常规 “1”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._A_DC(System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="true">
+            进阶 电流直流电 A_DC Rount
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <param name="Rount">四舍五入法 保留几位小数 常规“2”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._A_AC(System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="true">
+            进阶 电流交流电 A_AC Rount
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <param name="Rount">四舍五入法 保留几位小数 常规“2”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._V_DC(System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="true">
+            进阶 电压直流电 V_DC Rount
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <param name="Rount">四舍五入法 保留几位小数 常规“2”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll._V_AC(System.String,System.Int32,System.Int32)">
+            <summary isPublicTestItem="true">
+             进阶 电压交流电 V_AC Rount
+            </summary>
+            <param name="NewRange" options="5,0.5,0.0005">量程</param>
+            <param name="Count">读取次数 取平均值 常规 “1”</param>
+            <param name="Rount">四舍五入法 保留几位小数 常规“2”</param>
+            <returns>浮点数或报错信息</returns>
+        </member>
+    </members>
+</doc>

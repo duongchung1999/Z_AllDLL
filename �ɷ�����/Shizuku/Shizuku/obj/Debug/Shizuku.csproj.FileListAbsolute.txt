@@ -1,0 +1,8 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku\Shizuku\bin\Debug\Shizuku.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku\Shizuku\bin\Debug\Shizuku.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku\Shizuku\obj\Debug\Shizuku.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku\Shizuku\obj\Debug\Shizuku.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku\Shizuku\obj\Debug\Shizuku.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku\Shizuku\obj\Debug\Shizuku.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku\Shizuku\obj\Debug\Shizuku.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku\Shizuku\bin\Debug\Shizuku.xml

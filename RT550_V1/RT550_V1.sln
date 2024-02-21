@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RT550_V1", "RT550_V1\RT550_V1.csproj", "{6FB8012B-BD46-4EA6-A036-3E67CED08EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB8012B-BD46-4EA6-A036-3E67CED08EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB8012B-BD46-4EA6-A036-3E67CED08EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB8012B-BD46-4EA6-A036-3E67CED08EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB8012B-BD46-4EA6-A036-3E67CED08EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E5103A9-3C35-4336-A793-E34673CBCEC4}
+	EndGlobalSection
+EndGlobal

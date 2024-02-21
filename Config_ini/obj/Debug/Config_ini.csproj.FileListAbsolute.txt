@@ -1,0 +1,117 @@
+C:\Users\CH200001\Desktop\AllDll\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\CH200001\Desktop\AllDll\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\CH200001\Desktop\AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\CH200001\Desktop\AllDll\Config_ini\obj\Debug\Config_ini.pdb
+C:\Users\Test\Desktop\AllDll\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\Test\Desktop\AllDll\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\Test\Desktop\AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\AllDll\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\Test\Desktop\AllDll\Config_ini\obj\Debug\Config_ini.pdb
+C:\Users\Test\Desktop\AllDll\Config_ini\obj\Debug\Config_ini.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\CH200001\Desktop\AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.csproj.AssemblyReference.cache
+D:\mech-sw\Z_AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.dll
+D:\mech-sw\Z_AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.pdb
+D:\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.dll
+D:\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Config_ini\bin\Debug\Config_ini.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Config_ini\obj\Debug\Config_ini.csproj.AssemblyReference.cache
+D:\Data\mech-sw\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.GenerateResource.cache
+D:\Data\mech-sw\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\Config_ini\obj\Debug\Config_ini.dll
+D:\Data\mech-sw\Z_AllDll\Config_ini\obj\Debug\Config_ini.pdb
+D:\Data\mech-sw\Z_AllDll\Config_ini\bin\Debug\Config_ini.dll
+D:\Data\mech-sw\Z_AllDll\Config_ini\bin\Debug\Config_ini.pdb
+D:\Data\mech-sw\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\Config_ini\bin\Debug\FluentFTP.dll
+D:\Data\mech-sw\Z_AllDll\Config_ini\obj\Debug\MerryDllFramework.userLogin.resources
+C:\Users\ch200001\source\repos\Z_AllDll\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\ch200001\source\repos\Z_AllDll\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\ch200001\source\repos\Z_AllDll\Config_ini\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ch200001\source\repos\Z_AllDll\Config_ini\obj\Debug\MerryDllFramework.userLogin.resources
+C:\Users\ch200001\source\repos\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CopyComplete
+C:\Users\ch200001\source\repos\Z_AllDll\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\ch200001\source\repos\Z_AllDll\Config_ini\obj\Debug\Config_ini.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.Forms.UpdataInfoForms.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\obj\Debug\MerryDllFramework.userLogin.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.pdb
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.Forms.UpdataInfoForms.resources
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\obj\Debug\MerryDllFramework.userLogin.resources
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.GenerateResource.cache
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CopyComplete
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\ch200001\Desktop\ToMEVN\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.pdb
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.Forms.UpdataInfoForms.resources
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\obj\Debug\MerryDllFramework.userLogin.resources
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.GenerateResource.cache
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CopyComplete
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.pdb
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\bin\Debug\MySql.Data.dll
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\bin\Debug\System.Memory.dll
+C:\Users\CH180265\Desktop\test\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.Forms.UpdataInfoForms.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest\Z_AllDll\Config_ini\obj\Debug\MerryDllFramework.userLogin.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest\Z_AllDll\Config_ini\obj\Debug\Config_ini.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.03\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.03\Z_AllDll\Config_ini\obj\Debug\Config_ini.Forms.UpdataInfoForms.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.03\Z_AllDll\Config_ini\obj\Debug\MerryDllFramework.userLogin.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.03\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.03\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\bin\Debug\Config_ini.dll
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\bin\Debug\Config_ini.pdb
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\bin\Debug\MySql.Data.dll
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\bin\Debug\System.Memory.dll
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\obj\Debug\Config_ini.Forms.UpdataInfoForms.resources
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\obj\Debug\MerryDllFramework.userLogin.resources
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.GenerateResource.cache
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CoreCompileInputs.cache
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\obj\Debug\Config_ini.csproj.CopyComplete
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\obj\Debug\Config_ini.dll
+C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\obj\Debug\Config_ini.pdb

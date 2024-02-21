@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Print</name>
+    </assembly>
+    <members>
+        <member name="F:Print.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Print.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Print.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetPrinter">
+            <summary>
+            主模板用于搜索打印机方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.PrintBD">
+            <summary>
+            打印BD Config["BitAddress"]字段的BD
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.PrintSN">
+            <summary>
+            打印主条码 SN
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.PrintDictionary(System.String)">
+            <summary>
+            将所打印的内容写成 Dictionary string string 字典赋值给Config["PrintDictionary"] 程序遍历打
+            </summary>
+            <param name="PrintFilePath">TestItem机型下面的打印文件 *.btw</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Prints(System.Collections.Generic.Dictionary{System.String,System.String},System.String)">
+            <summary>
+            打印机方法
+            </summary>
+            <param name="PrintKeys"></param>
+            <param name="PrintFilePath"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Prints">
+            <summary>
+            已过时
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

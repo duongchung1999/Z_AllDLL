@@ -1,0 +1,16 @@
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\_1503D\bin\Debug\_1503D.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\_1503D\bin\Debug\_1503D.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\_1503D\obj\Debug\_1503D.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\_1503D\obj\Debug\_1503D.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\_1503D\obj\Debug\_1503D.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\_1503D\obj\Debug\_1503D.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\_1503D\obj\Debug\_1503D.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\_1503D\bin\Debug\_1503D.xml
+D:\Fuzhang\DU AN\_1503D\bin\Debug\_1503D.xml
+D:\Fuzhang\DU AN\_1503D\bin\Debug\_1503D.dll
+D:\Fuzhang\DU AN\_1503D\bin\Debug\_1503D.pdb
+D:\Fuzhang\DU AN\_1503D\obj\Debug\_1503D.csproj.AssemblyReference.cache
+D:\Fuzhang\DU AN\_1503D\obj\Debug\_1503D.csproj.CoreCompileInputs.cache
+D:\Fuzhang\DU AN\_1503D\obj\Debug\_1503D.csproj.CopyComplete
+D:\Fuzhang\DU AN\_1503D\obj\Debug\_1503D.dll
+D:\Fuzhang\DU AN\_1503D\obj\Debug\_1503D.pdb

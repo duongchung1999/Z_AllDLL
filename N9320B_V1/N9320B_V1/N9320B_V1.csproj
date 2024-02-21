@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{19576CDE-319E-42F4-B9C5-F08AB81702A8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>N9320B_V1</RootNamespace>
+    <AssemblyName>N9320B_V1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\N9320B_V1.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AgSCPI99_1_0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=344b812ea93ad2d2, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AgSCPI99_1_0.dll</HintPath>
+    </Reference>
+    <Reference Include="Keysight.CommandExpert.DataModel, Version=1.9.34.0, Culture=neutral, PublicKeyToken=b51aac182336bfb6, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Keysight.CommandExpert.DataModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Keysight.CommandExpert.InstrumentAbstraction, Version=1.9.34.0, Culture=neutral, PublicKeyToken=c5e9dbe29758600c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Keysight.CommandExpert.InstrumentAbstraction.dll</HintPath>
+    </Reference>
+    <Reference Include="Keysight.CommandExpert.Runtime.Runtime_DataModel, Version=1.9.34.0, Culture=neutral, PublicKeyToken=7053711099eac5e5, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Keysight.CommandExpert.Runtime.Runtime_DataModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Keysight.CommandExpert.Runtime.Runtime_InstrumentAbstraction, Version=1.9.34.0, Culture=neutral, PublicKeyToken=543d57426dc909ea, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Keysight.CommandExpert.Runtime.Runtime_InstrumentAbstraction.dll</HintPath>
+    </Reference>
+    <Reference Include="Keysight.CommandExpert.Runtime.Runtime_Scpi, Version=1.9.34.0, Culture=neutral, PublicKeyToken=71527fbdc0087789, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Keysight.CommandExpert.Runtime.Runtime_Scpi.dll</HintPath>
+    </Reference>
+    <Reference Include="Keysight.CommandExpert.Runtime.Runtime_Source_Scpi, Version=1.9.34.0, Culture=neutral, PublicKeyToken=26bb6cceebca536b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Keysight.CommandExpert.Runtime.Runtime_Source_Scpi.dll</HintPath>
+    </Reference>
+    <Reference Include="Keysight.CommandExpert.Scpi, Version=1.9.34.0, Culture=neutral, PublicKeyToken=ed482193fb91fd28, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Keysight.CommandExpert.Scpi.dll</HintPath>
+    </Reference>
+    <Reference Include="Keysight.CommandExpert.Sources.Scpi, Version=1.9.34.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Keysight.CommandExpert.Sources.Scpi.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Hardware.cs" />
+    <Compile Include="N9320B_V1.cs" />
+    <Compile Include="IMerryAllDll.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

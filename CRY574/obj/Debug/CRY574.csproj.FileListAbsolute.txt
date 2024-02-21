@@ -1,0 +1,9 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\CRY574\bin\Debug\CRY574.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\CRY574\bin\Debug\CRY574.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\CRY574\obj\Debug\CRY574.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\CRY574\obj\Debug\CRY574.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\CRY574\obj\Debug\CRY574.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\CRY574\obj\Debug\CRY574.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\CRY574\bin\Debug\CRY574.xml
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\CRY574\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\CRY574\obj\Debug\CRY574.csproj.GenerateResource.cache

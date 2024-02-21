@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>_2883_V1</name>
+    </assembly>
+    <members>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="_2883_V1">
+            USB 2883 电压采集器
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StartUSB2883(System.Int32,System.Int32)">
+            <summary isPublicTestItem="true">
+            USB 2883 开始测试
+            </summary>
+            <param name="DeviceID">单板设设备ID 如“200” 连扳设配置的字段如“2883ID_A”</param>
+            <param name="ReadCount">读取次数 400组大约2.5秒</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetSqrtValue(System.Int32,System.Int32,System.String)">
+            <summary isPublicTestItem="true">
+            取值 正弦波有效值
+            </summary>
+            <param name="DeviceID">单板设设备ID 如“200” 连扳设配置的字段如“2883ID_A”</param>
+            <param name="Channel">读取的通道</param>
+            <param name="Unit" options="V,mV">取值单位</param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetAvgValue(System.Int32,System.Int32,System.String)">
+            <summary isPublicTestItem="true">
+            取值 取电压平均值
+            </summary>
+            <param name="DeviceID">单板设设备ID 如“200” 连扳设配置的字段如“2883ID_A”</param>
+            <param name="Channel">读取的通道</param>
+            <param name="Unit" options="V,mV">取值单位</param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetAvgCurrent(System.Int32,System.Int32,System.String)">
+            <summary isPublicTestItem="true">
+            取值 取电流平均值
+            </summary>
+            <param name="DeviceID">单板设设备ID 如“200” 连扳设配置的字段如“2883ID_A”</param>
+            <param name="Channel">读取的通道</param>
+            <param name="Unit" options="A,mA">取值单位</param>
+            <returns></returns>
+        </member>
+        <member name="T:USB2833.USB2883">
+            <summary>
+            USB2883
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,3 @@
+ANC FR_L(Delta),5E+0,dB,PASS,Tolerance curves,Absolute Limits
+ANC FR_R(Delta),6E+0,dB,PASS,Tolerance curves,Absolute Limits
+ANC FR_Balance,3E+0,dB,PASS,Tolerance curves,Absolute Limits

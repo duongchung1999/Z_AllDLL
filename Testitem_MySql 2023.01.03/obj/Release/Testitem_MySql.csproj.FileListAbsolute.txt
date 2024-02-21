@@ -1,0 +1,42 @@
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\bin\Release\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\bin\Release\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\bin\Release\MySql.Data.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\mech-sw\MerryTestFramework.app\AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\MySql.Data.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\FluentFTP.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\FluentFTP.xml
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.csproj.AssemblyReference.cache
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\Testitem_MySql.dll
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\Testitem_MySql.pdb
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\FluentFTP.dll
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\MySql.Data.dll
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\FluentFTP.xml
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CopyComplete
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.dll
+D:\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\Testitem_MySql.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\Testitem_MySql.pdb
+D:\Data\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\FluentFTP.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\MySql.Data.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\bin\Release\FluentFTP.xml
+D:\Data\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CopyComplete
+D:\Data\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.dll
+D:\Data\mech-sw\Z_AllDll\写好的代码\Testitem_MySql\obj\Release\Testitem_MySql.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\bin\Release\Testitem_MySql.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\bin\Release\Testitem_MySql.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\bin\Release\MySql.Data.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Release\Testitem_MySql.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Release\Testitem_MySql.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\Testitem_MySql\obj\Release\Testitem_MySql.pdb

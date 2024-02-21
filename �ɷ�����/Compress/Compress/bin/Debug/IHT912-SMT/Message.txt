@@ -1,0 +1,9 @@
+﻿G435-0=播放音乐
+PlayCustomerMusic=播放客户音乐
+RadioFrequencyMusic=播放射频音乐
+Record=录音中
+===========上面部分为必须区域,只允许修改上面部分value,不允许增加或者删删除===========
+
+
+
+

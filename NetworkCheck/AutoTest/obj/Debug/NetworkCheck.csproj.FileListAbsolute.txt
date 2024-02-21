@@ -1,0 +1,50 @@
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\NetworkCheck.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\NetworkCheck.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\MerryTestFramework.testitem.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.Class.fNetworkMonitor.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\AutoTest.Class.fNotification.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\NetworkCheck.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\NetworkCheck.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\System.Memory.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\System.Buffers.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\DLL\AutoTest\bin\Debug\System.Numerics.Vectors.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Old_Burin SQL\DLL\AutoTest\bin\Debug\NetworkCheck.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Old_Burin SQL\DLL\AutoTest\bin\Debug\NetworkCheck.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Old_Burin SQL\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Old_Burin SQL\DLL\AutoTest\obj\Debug\AutoTest.Class.fNetworkMonitor.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Old_Burin SQL\DLL\AutoTest\obj\Debug\AutoTest.Class.fNotification.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Old_Burin SQL\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Old_Burin SQL\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Old_Burin SQL\DLL\AutoTest\obj\Debug\NetworkCheck.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Old_Burin SQL\DLL\AutoTest\obj\Debug\NetworkCheck.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\bin\Debug\NetworkCheck.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\bin\Debug\NetworkCheck.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\bin\Debug\System.Memory.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\bin\Debug\System.Buffers.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\bin\Debug\System.Numerics.Vectors.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\obj\Debug\AutoTest.Class.fNetworkMonitor.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\obj\Debug\AutoTest.Class.fNotification.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\obj\Debug\NetworkCheck.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\obj\Debug\NetworkCheck.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\NEW\DLL\AutoTest\obj\Debug\NetworkCheck.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\bin\Debug\NetworkCheck.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\bin\Debug\NetworkCheck.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\bin\Debug\System.Memory.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\bin\Debug\System.Numerics.Vectors.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\bin\Debug\System.Buffers.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\obj\Debug\NetworkCheck.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\obj\Debug\AutoTest.Class.fNetworkMonitor.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\obj\Debug\AutoTest.Class.fNotification.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\obj\Debug\NetworkCheck.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\obj\Debug\NetworkCheck.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\obj\Debug\NetworkCheck.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\obj\Debug\NetworkCheck.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\NetworkCheck\AutoTest\obj\Debug\NetworkCheck.pdb

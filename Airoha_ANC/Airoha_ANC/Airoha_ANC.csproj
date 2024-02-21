@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D04190E-B710-4AD5-B7DA-EB78DD76B77A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Airoha_ANC</RootNamespace>
+    <AssemblyName>Airoha_ANC</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>3</WarningLevel>
+    <DocumentationFile>bin\Debug\Airoha_ANC.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdjustANC\Adjust.cs" />
+    <Compile Include="AdjustANC\AdjustClass3.cs" />
+    <Compile Include="AdjustANC\CurvesData.cs" />
+    <Compile Include="AdjustANC\Invoke.cs" />
+    <Compile Include="AdjustANC\AdjustClass2.cs" />
+    <Compile Include="AdjustANC\MerryCalibrationANC.cs" />
+    <Compile Include="Airoha.cs" />
+    <Compile Include="Device\BaseConversion.cs" />
+    <Compile Include="Device\Command.cs" />
+    <Compile Include="Device\GetHandle.cs" />
+    <Compile Include="Forms\BT2200Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\BT2200Control.Designer.cs">
+      <DependentUpon>BT2200Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CurvesForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CurvesForms.designer.cs">
+      <DependentUpon>CurvesForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ProgressBars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ProgressBars.designer.cs">
+      <DependentUpon>ProgressBars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface.cs" />
+    <Compile Include="AdjustANC\Cardinal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Device\UsbInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\BT2200Control.resx">
+      <DependentUpon>BT2200Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CurvesForms.resx">
+      <DependentUpon>CurvesForms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ProgressBars.resx">
+      <DependentUpon>ProgressBars.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy "$(TargetPath)" "D:\Data\repos\MerryTest\MerryTest\bin\Debug\AllDLL\$(ProjectName)\$(ProjectName).dll"
+copy "$(TargetDir)$(TargetName).xml" "D:\Data\repos\MerryTest\MerryTest\bin\Debug\AllDLL\$(TargetName)\$(TargetName).xml"
+
+
+</PostBuildEvent>
+  </PropertyGroup>
+</Project>

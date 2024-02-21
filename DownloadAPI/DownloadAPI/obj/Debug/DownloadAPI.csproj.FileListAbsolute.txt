@@ -1,0 +1,15 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DownloadAPI\DownloadAPI\bin\Debug\DownloadAPI.exe.config
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DownloadAPI\DownloadAPI\bin\Debug\DownloadAPI.exe
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DownloadAPI\DownloadAPI\bin\Debug\DownloadAPI.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DownloadAPI\DownloadAPI\obj\Debug\DownloadAPI.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DownloadAPI\DownloadAPI\obj\Debug\DownloadAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DownloadAPI\DownloadAPI\obj\Debug\DownloadAPI.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DownloadAPI\DownloadAPI\obj\Debug\DownloadAPI.exe
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DownloadAPI\DownloadAPI\obj\Debug\DownloadAPI.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MECH_AllDLL 2023.11.1\DownloadAPI\DownloadAPI\bin\Debug\DownloadAPI.exe.config
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MECH_AllDLL 2023.11.1\DownloadAPI\DownloadAPI\bin\Debug\DownloadAPI.exe
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MECH_AllDLL 2023.11.1\DownloadAPI\DownloadAPI\bin\Debug\DownloadAPI.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MECH_AllDLL 2023.11.1\DownloadAPI\DownloadAPI\obj\Debug\DownloadAPI.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MECH_AllDLL 2023.11.1\DownloadAPI\DownloadAPI\obj\Debug\DownloadAPI.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MECH_AllDLL 2023.11.1\DownloadAPI\DownloadAPI\obj\Debug\DownloadAPI.exe
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MECH_AllDLL 2023.11.1\DownloadAPI\DownloadAPI\obj\Debug\DownloadAPI.pdb

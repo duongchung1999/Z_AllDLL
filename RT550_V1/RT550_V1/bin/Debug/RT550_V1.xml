@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RT550_V1</name>
+    </assembly>
+    <members>
+        <member name="M:RT550_V1.utility.ControlRT550.CWSetConfig(System.String)">
+            <summary>
+            CW测试设定指令
+            </summary>
+            <param name="Channel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RT550_V1.utility.ControlRT550.BLETX1(System.String)">
+            <summary>
+            测试部分
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:RT550_V1.Froms.ProgressBars.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:RT550_V1.Froms.ProgressBars.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:RT550_V1.Froms.ProgressBars.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MerryDllFramework.MerryDll">
+            <summary dllName="RT550_V1">
+            RT550仪器
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.#ctor(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            新式的分享全局变量
+            </summary>
+            <param name="Config"></param>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Interface(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            老式的分享全局变量
+            </summary>
+            <param name="keys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule____">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 分割线 DUT区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Test(System.Int32,System.Int32,System.String,System.String,System.Boolean)">
+            <summary isPublicTestItem="true">
+            DUT _常规 连接及测试
+            </summary>
+            <param name="ConnectSleepTime">连接成功延时测试 常规1</param>
+            <param name="TimeOut">超时 /秒 常规 “16”</param>
+            <param name="TXP">TX功率 常规 “-40”</param>
+            <param name="ExtraLoss">连接功率 常规 “0”</param>
+            <param name="ManualFlag" options="False,True">是否指定配对 True 为指定 连接地址在Config或onceConfig ["BitAddress"]</param>
+            
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Optional_Test(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            DUT _进阶 连接及测试
+            </summary>
+            <param name="TimeOut">超时 /秒 常规 “20”</param>
+            <param name="TXP">TX功率 常规 “-40”</param>
+            <param name="ExtraLoss">连接功率 常规 “0”</param>
+            <param name="PathEditLow">低频线损 传导常规“-3” 耦合常规 “-15”</param>
+            <param name="PathEditMiddle">中频线损 传导常规“-3” 耦合常规 “-15”</param>
+            <param name="PathEditHigh">高频线损 传导常规“-3” 耦合常规 “-15”</param>
+            <param name="Packaging">丢包率 包的数量 常规“500”</param>
+            <param name="PathEdit_P">丢包率 线损 常规“-70”</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Out_Put_Power_Low">
+            <summary isPublicTestItem="true">
+            DUT 读取测试低功率值 2402 “Oouput Power”
+            </summary>
+            <returns>数值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Out_Put_Power_Middle">
+            <summary isPublicTestItem="true">
+            DUT 读取测试中功率值 2441 “Oouput Power”
+            </summary>
+            <returns>数值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Out_Put_Power_High">
+            <summary isPublicTestItem="true">
+            DUT 读取测试高功率值 2480 “Oouput Power”
+            </summary>
+            <returns>数值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Initial_Carrier_Low">
+            <summary isPublicTestItem="true">
+            DUT 读取载波偏移低 2402 “Initial Carrier”
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Initial_Carrier_Middle">
+            <summary isPublicTestItem="true">
+            DUT 读取载波偏移中 2441 “Initial Carrier”
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Initial_Carrier_High">
+            <summary isPublicTestItem="true">
+            DUT 读取载波偏移高 2480 “Initial Carrier”
+            </summary>
+            <returns>数值 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Sensitivity_Low">
+            <summary isPublicTestItem="true">
+            DUT 读取灵敏度低 2402 “Single Sensitivity”
+            </summary>
+            <returns>数值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Sensitivity_Middle">
+            <summary isPublicTestItem="true">
+            DUT 读取灵敏度中 2441 “Single Sensitivity”
+            </summary>
+            <returns>数值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Sensitivity_High">
+            <summary isPublicTestItem="true">
+            DUT 读取灵敏度高 2480 “Single Sensitivity”
+            </summary>
+            <returns>数值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Modulation_Index_Low">
+            <summary isPublicTestItem="true">
+            DUT 常规 特调指数低 2402 “Modulation Index”
+            </summary>
+            <returns>数值 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Modulation_Index_Middle">
+            <summary isPublicTestItem="true">
+            DUT 常规 特调指数中 2441 “Modulation Index”
+            </summary>
+            <returns>数值 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Modulation_Index_dfDiff">
+            <summary isPublicTestItem="false">
+            DUT 常规 特调指数 系数  “Modulation Index”
+            </summary>
+            <returns>数值 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Modulation_Index_High">
+            <summary isPublicTestItem="true">
+            DUT 常规 特调指数高 2480 “Modulation Index”
+            </summary>
+            <returns>数值 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Optional_Modulation_Index_Low(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            DUT _可选 特调指数低 2402  “Modulation Index”
+            </summary>
+            <param name="index" options="F1_Max,F1_Average,F2_Max,F2_Average,F2_Avg/Flavg,F2_Max_Failed,F2_Max_Count_(Total),Failed,Tested,PassRate">取哪个值</param>
+            <param name="units" options="default,/1000_Khz">值的单位 Khz会将值÷1000</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Optional_Modulation_Index_Middle(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            DUT _可选 特调指数低 2441 “Modulation Index”
+            </summary>
+            <param name="index" options="F1_Max,F1_Average,F2_Max,F2_Average,F2_Avg/Flavg,F2_Max_Failed,F2_Max_Count_(Total),Failed,Tested">取哪个值</param>
+            <param name="units" options="default,/1000_Khz">值的单位 Khz会将值÷1000</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.DUT_Optional_Modulation_Index_High(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            DUT _可选 特调指数低 2480 “Modulation Index”
+            </summary>
+            <param name="index" options="F1_Max,F1_Average,F2_Max,F2_Average,F2_Avg/Flavg,F2_Max_Failed,F2_Max_Count_(Total),Failed,Tested">取哪个值</param>
+            <param name="units" options="default,/1000_Khz">值的单位 Khz会将值÷1000</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 分割线 CW区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CWReadFreqOffset(System.String,System.Boolean)">
+            <summary isPublicTestItem="true">
+            CW 用9320B类似方式读取频偏hz
+            </summary>
+            <param name="Channel">蓝牙通道</param>
+            <param name="InitFlag">是否初始化</param>
+            <returns>数值 hz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CWReadFreqOffset_Khz(System.String,System.Boolean)">
+            <summary isPublicTestItem="true">
+            CW 用9320B类似方式读取频偏
+            </summary>
+            <param name="FreqMhzStr">举个例子2401.35</param>
+            <param name="init">是否初始化(不会就输True)</param>
+            <returns>数值 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.CWReadPower(System.String,System.Boolean)">
+            <summary isPublicTestItem="true">
+            CW 用9320B类似方式读取功率
+            </summary>
+            <param name="FreqMhzStr">举个例子2401.35</param>
+            <param name="init">是否初始化(不会就输True)</param>
+            <returns>数值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule_____">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 分割线 BLE RX 区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BLERxTest(System.String,System.String)">
+            <summary isPublicTestItem="true">
+            BLE 2M 测试模块 RX测试模式
+            </summary>
+            <param name="Channel">通道 比如19 </param>
+            <param name="Packets">数据包 比如1000</param>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BLE_Optional_Rx_Test(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            BLE _可选 RX测试
+            </summary>
+            <param name="Channel">通道 比如19</param>
+            <param name="Standard" options="BLE,2LE,LR8,LR2" >Standard</param>
+            <param name="PowerLevel">Power Level 常规 -70</param>
+            <param name="Payload" options="10101010,11110000,PRBS9,ONES,ZEROS">Payload</param>
+            <param name="SyncWord">SyncWord 常规 71764129</param>
+            <param name="Spacing">Spacing 常规 625</param>
+            <param name="PayloadLength">Payload Length 常规 37</param>
+            <param name="Packets">Packets 常规1500</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule_">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 分割线 BLE 2M 区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BLE_Tx_PorwerTest_2M(System.String,System.String,System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            BLE 2M Output Power 功率
+            </summary>
+            <param name="Channel">Channel 范围 0~39</param>
+            <param name="FIXEDOFF">FIXEDOFF 常规 0</param>
+            <param name="SyncWord">SyncWord 常规 71764129</param>
+            <param name="PayloadLength">Payload Length 常规 37</param>
+            <param name="GetResult" options="PeakToAvg,AvgPower">取哪个值</param>
+            <returns>数值 dBm</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BLE_CarrierOffset_2M(System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            BLE 2M Carrier Frequency 频率
+            </summary>
+            <param name="_SyncWord">SyncWord 常规 71764129></param>
+            <param name="_PayloadLength">Payload Length 常规 37</param>
+            <param name="_GetResult" options="Max+veOffset,Max-veOffset,AverageOffset,MaxDrift,AvgDrift,InitialDriftRate,DriftRate">取哪个值</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BLE_Modulation_2M(System.String,System.String,System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            BLE 2M Modulation Characteristics 调制特性
+            </summary>
+            <param name="SyncWord">SyncWord 常规 71764129</param>
+            <param name="Payload" options="MOD10101010,MOD11110000,PRBS9,ONES,ZEROS">Payload 测试模式</param>
+            <param name="PayloadLength">Payload Length 常规 37</param>
+            <param name="GetResult" options="F1_Max,F1_Average,F2_Max,F2_Average,F2_Avg/Flavg,F2_Max_Failed,F2_Max_Count_(Total),Failed,Tested,PassRate">取哪个值</param>
+            <param name="units" options="default,/1000_Khz">值的单位 Khz会将值÷1000</param>
+            <returns>数值 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule__">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 分割线 BLE 1M 区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BLE_Tx_PowerTest_1M(System.String,System.String,System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            BLE 1M Output Power 功率
+            </summary>
+            <param name="Channel">Channel 范围 0~39</param>
+            <param name="FIXEDOFF">FIXEDOFF 常规 0</param>
+            <param name="SyncWord">SyncWord 常规 71764129</param>
+            <param name="PayloadLength">Payload Length 常规 37</param>
+            <param name="GetResult" options="PeakToAvg,AvgPower">取哪个值</param>
+            <returns>数值 dBm</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BLE_CarrierOffset_1M(System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            BLE 1M Carrier Frequency 频率
+            </summary>
+            <param name="_SyncWord">SyncWord 常规 71764129></param>
+            <param name="_PayloadLength">Payload Length 常规 37</param>
+            <param name="_GetResult" options="Max+veOffset,Max-veOffset,AverageOffset,MaxDrift,AvgDrift,InitialDriftRate,DriftRate">取哪个值</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.BLE_Modulation_1M(System.String,System.String,System.String,System.String,System.String)">
+            <summary isPublicTestItem="true">
+            BLE 1M Modulation Characteristics 调制特性
+            </summary>
+            <param name="SyncWord">SyncWord 常规 71764129</param>
+            <param name="Payload" options="MOD10101010,MOD11110000,PRBS9,ONES,ZEROS">Payload 测试模式</param>
+            <param name="PayloadLength">Payload Length 常规 37</param>
+            <param name="GetResult" options="F1_Max,F1_Average,F2_Max,F2_Average,F2_Avg/Flavg,F2_Max_Failed,F2_Max_Count_(Total),Failed,Tested,PassRate">取哪个值</param>
+            <param name="units" options="default,/1000_Khz">值的单位 Khz会将值÷1000</param>
+            <returns>数值 Khz</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Cut_OffRule___">
+            <summary isPublicTestItem="true">
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 分割线 辅组 区 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Set_RF_Port(System.String)">
+            <summary isPublicTestItem="true">
+             设置通道
+            </summary>
+            <param name="ComPort" options="COM1,COM2">设置通道 正在DUT或BLE测试中 禁止下</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.StopTesting">
+            <summary isPublicTestItem="true">
+            停止测试
+            </summary>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.LockRT550">
+            <summary isPublicTestItem="true">
+            锁定RT550方法
+            </summary>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.UnlockRT550">
+            <summary isPublicTestItem="true">
+            解锁RT550方法
+            </summary>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.SaveLog">
+            <summary isPublicTestItem="true">
+            生成RT550指令日记
+            </summary>
+            <returns>True</returns>
+        </member>
+        <member name="M:MerryDllFramework.IMerryAllDll.Run(System.Object[])">
+            <summary>
+            调用内部方法
+            </summary>
+            <param name="message">指令，决定调用哪个方法</param>
+            <returns>方法调用后回传值</returns>
+        </member>
+        <member name="M:CommonUtil.ConvertHelper.ByteArrayToHexString(System.Byte[],System.Boolean)">
+            <summary>
+            字节数组转16进制字符串
+            </summary>
+            <param name="data"></param>
+            <param name="bFormat">如果为True就加入空格</param>
+            <returns></returns>
+        </member>
+        <member name="M:CommonUtil.ConvertHelper.HexStringToByteArray(System.String)">
+            <summary>
+            16进制字符串转字节数组
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

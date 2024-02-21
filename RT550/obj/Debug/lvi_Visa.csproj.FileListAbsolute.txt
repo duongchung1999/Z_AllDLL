@@ -1,0 +1,16 @@
+C:\Users\Test\source\repos\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.csproj.AssemblyReference.cache
+C:\Users\Test\source\repos\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\lvi_Visa\lvi_Visa\bin\Debug\lvi_Visa.dll
+C:\Users\Test\source\repos\lvi_Visa\lvi_Visa\bin\Debug\lvi_Visa.pdb
+C:\Users\Test\source\repos\lvi_Visa\lvi_Visa\bin\Debug\Ivi.Visa.xml
+C:\Users\Test\source\repos\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.csproj.CopyComplete
+C:\Users\Test\source\repos\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.dll
+C:\Users\Test\source\repos\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.csproj.AssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\lvi_Visa.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\lvi_Visa.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\bin\Debug\Ivi.Visa.xml
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\lvi_Visa\lvi_Visa\obj\Debug\lvi_Visa.csproj.CopyComplete

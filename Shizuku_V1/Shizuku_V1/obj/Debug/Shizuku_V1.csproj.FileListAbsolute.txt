@@ -1,0 +1,16 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\bin\Debug\Shizuku_V1.xml
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\bin\Debug\Shizuku_V1.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\bin\Debug\Shizuku_V1.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.pdb
+D:\Data\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\bin\Debug\Shizuku_V1.xml
+D:\Data\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\bin\Debug\Shizuku_V1.dll
+D:\Data\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\bin\Debug\Shizuku_V1.pdb
+D:\Data\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.csproj.AssemblyReference.cache
+D:\Data\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.csproj.CoreCompileInputs.cache
+D:\Data\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.csproj.CopyComplete
+D:\Data\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.dll
+D:\Data\repos\MerryTest\Z_AllDll\Shizuku_V1\Shizuku_V1\obj\Debug\Shizuku_V1.pdb

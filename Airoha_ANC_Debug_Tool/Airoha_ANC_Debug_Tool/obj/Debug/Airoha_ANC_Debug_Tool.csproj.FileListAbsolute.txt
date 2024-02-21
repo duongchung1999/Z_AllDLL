@@ -1,0 +1,11 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\bin\Debug\Airoha_ANC_Debug_Tool.exe.config
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\bin\Debug\Airoha_ANC_Debug_Tool.exe
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\bin\Debug\Airoha_ANC_Debug_Tool.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\obj\Debug\Airoha_ANC_Debug_Tool.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\obj\Debug\Airoha_ANC_Debug_Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\obj\Debug\Airoha_ANC_Debug_Tool.Form1.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\obj\Debug\Airoha_ANC_Debug_Tool.Properties.Resources.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\obj\Debug\Airoha_ANC_Debug_Tool.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\obj\Debug\Airoha_ANC_Debug_Tool.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\obj\Debug\Airoha_ANC_Debug_Tool.exe
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\SoundCheck_V1\Airoha_ANC_Debug_Tool\Airoha_ANC_Debug_Tool\obj\Debug\Airoha_ANC_Debug_Tool.pdb

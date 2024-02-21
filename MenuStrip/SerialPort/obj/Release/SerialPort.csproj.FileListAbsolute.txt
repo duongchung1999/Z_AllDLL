@@ -1,0 +1,10 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\SerialPort\bin\Release\SerialPort.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\SerialPort\bin\Release\SerialPort.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\SerialPort\obj\Release\SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\SerialPort\obj\Release\SerialPort.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\SerialPort\obj\Release\SerialPort.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SerialPort\bin\Release\SerialPort.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SerialPort\bin\Release\SerialPort.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SerialPort\obj\Release\SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SerialPort\obj\Release\SerialPort.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\写好的代码\MenuStrip\SerialPort\obj\Release\SerialPort.pdb

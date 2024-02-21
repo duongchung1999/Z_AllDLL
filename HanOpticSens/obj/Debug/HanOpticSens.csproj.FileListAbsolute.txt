@@ -1,0 +1,26 @@
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.pdb
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.dll
+C:\Users\CH200001\Desktop\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.pdb
+D:\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.dll
+D:\mech-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.pdb
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.dll
+D:\mech-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.pdb
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.dll
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.pdb
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.dll
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.pdb
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\HanOpticSens\bin\Debug\HanOpticSens.dll
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\HanOpticSens\bin\Debug\HanOpticSens.pdb
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\HanOpticSens\obj\Debug\HanOpticSens.dll
+D:\Work\SourceCode\MerryTestFrame\MECH-sw\TEDll\HanOpticSens\obj\Debug\HanOpticSens.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\HanOpticSens\bin\Debug\HanOpticSens.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\Z_AllDll\HanOpticSens\obj\Debug\HanOpticSens.pdb

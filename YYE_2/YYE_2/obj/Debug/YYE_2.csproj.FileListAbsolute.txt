@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\rơ le 2\YYE_2\YYE_2\obj\Debug\YYE_2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\rơ le 2\YYE_2\YYE_2\obj\Debug\Common.Box.resources
+C:\Users\Administrator\Desktop\rơ le 2\YYE_2\YYE_2\obj\Debug\YYE_2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\rơ le 2\YYE_2\YYE_2\obj\Debug\YYE_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\rơ le 2\YYE_2\YYE_2\bin\Debug\YYE_2.dll
+C:\Users\Administrator\Desktop\rơ le 2\YYE_2\YYE_2\bin\Debug\YYE_2.pdb
+C:\Users\Administrator\Desktop\rơ le 2\YYE_2\YYE_2\obj\Debug\YYE_2.dll
+C:\Users\Administrator\Desktop\rơ le 2\YYE_2\YYE_2\obj\Debug\YYE_2.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\YYE_2\YYE_2\bin\Debug\YYE_2.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\YYE_2\YYE_2\bin\Debug\YYE_2.pdb
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\YYE_2\YYE_2\obj\Debug\YYE_2.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\YYE_2\YYE_2\obj\Debug\Common.Box.resources
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\YYE_2\YYE_2\obj\Debug\YYE_2.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\YYE_2\YYE_2\obj\Debug\YYE_2.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\YYE_2\YYE_2\obj\Debug\YYE_2.dll
+E:\2. MEVNSW\1_SourceCode\9_MondayTEST\DLL_Test\Z_AllDll\YYE_2\YYE_2\obj\Debug\YYE_2.pdb

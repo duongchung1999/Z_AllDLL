@@ -1,0 +1,18 @@
+D:\Data\mech-sw\Z_AllDll\DM5D\bin\Debug\DM5D.dll
+D:\Data\mech-sw\Z_AllDll\DM5D\bin\Debug\DM5D.pdb
+D:\Data\mech-sw\Z_AllDll\DM5D\obj\Debug\DM5D.csproj.CoreCompileInputs.cache
+D:\Data\mech-sw\Z_AllDll\DM5D\obj\Debug\DM5D.dll
+D:\Data\mech-sw\Z_AllDll\DM5D\obj\Debug\DM5D.pdb
+D:\Data\mech-sw\Z_AllDll\DM5D\obj\Debug\DM5D.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\DM5D\bin\Debug\DM5D.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\DM5D\bin\Debug\DM5D.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\DM5D\obj\Debug\DM5D.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\DM5D\obj\Debug\DM5D.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\DM5D\obj\Debug\DM5D.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\写好的代码\DM5D\obj\Debug\DM5D.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DM5D\bin\Debug\DM5D.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DM5D\bin\Debug\DM5D.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DM5D\obj\Debug\DM5D.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DM5D\obj\Debug\DM5D.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DM5D\obj\Debug\DM5D.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\DM5D\obj\Debug\DM5D.pdb

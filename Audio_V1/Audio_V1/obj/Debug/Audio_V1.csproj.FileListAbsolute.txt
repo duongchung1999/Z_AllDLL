@@ -1,0 +1,20 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio.Forms.Form1.resources
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.csproj.GenerateResource.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\bin\Debug\Audio_V1.xml
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\bin\Debug\Audio_V1.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\bin\Debug\Audio_V1.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.csproj.CopyComplete
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\bin\Debug\Audio_V1.xml
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\bin\Debug\Audio_V1.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\bin\Debug\Audio_V1.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio.Forms.Form1.resources
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.dll
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.pdb
+E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.04.05\Z_AllDll\Audio_V1\Audio_V1\obj\Debug\Audio_V1.csproj.AssemblyReference.cache

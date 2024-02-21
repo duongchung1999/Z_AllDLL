@@ -1,0 +1,11 @@
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\bin\Release\QCCRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\bin\Release\QCCRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\QCCRF\ConsoleApp1\obj\Release\ConsoleApp1.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,22 @@
+E:\机型资料\SMT测试\文档\NXP\_2303\bin\Debug\NXPRF.dll
+E:\机型资料\SMT测试\文档\NXP\_2303\bin\Debug\NXPRF.pdb
+E:\机型资料\SMT测试\文档\NXP\_2303\obj\Debug\NXPRF.csproj.AssemblyReference.cache
+E:\机型资料\SMT测试\文档\NXP\_2303\obj\Debug\NXPRF.csproj.CoreCompileInputs.cache
+E:\机型资料\SMT测试\文档\NXP\_2303\obj\Debug\NXPRF.dll
+E:\机型资料\SMT测试\文档\NXP\_2303\obj\Debug\NXPRF.pdb
+E:\机型资料\SMT测试\文档\NXP\NXPRF\bin\Debug\NXPRF.dll
+E:\机型资料\SMT测试\文档\NXP\NXPRF\bin\Debug\NXPRF.pdb
+E:\机型资料\SMT测试\文档\NXP\NXPRF\obj\Debug\NXPRF.csproj.CoreCompileInputs.cache
+E:\机型资料\SMT测试\文档\NXP\NXPRF\obj\Debug\NXPRF.dll
+E:\机型资料\SMT测试\文档\NXP\NXPRF\obj\Debug\NXPRF.pdb
+E:\机型资料\SMT测试\文档\NXP\NXPRF\obj\Debug\NXPRF.csproj.AssemblyReference.cache
+C:\Users\ch200001\Desktop\NXPRF\bin\Debug\NXPRF.dll
+C:\Users\ch200001\Desktop\NXPRF\bin\Debug\NXPRF.pdb
+C:\Users\ch200001\Desktop\NXPRF\obj\Debug\NXPRF.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\NXPRF\obj\Debug\NXPRF.dll
+C:\Users\ch200001\Desktop\NXPRF\obj\Debug\NXPRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\bin\Debug\NXPRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\bin\Debug\NXPRF.pdb
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\obj\Debug\NXPRF.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\obj\Debug\NXPRF.dll
+C:\Users\ch200001\Desktop\mech-sw ToMEVN\mech-sw\Z_AllDll\NXPRF\obj\Debug\NXPRF.pdb

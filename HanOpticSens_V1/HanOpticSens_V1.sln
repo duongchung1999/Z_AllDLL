@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanOpticSens_V1", "HanOpticSens_V1\HanOpticSens_V1.csproj", "{E0BC4AA9-B3F1-4FB7-8D3A-DDA33CCB2DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BC4AA9-B3F1-4FB7-8D3A-DDA33CCB2DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BC4AA9-B3F1-4FB7-8D3A-DDA33CCB2DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BC4AA9-B3F1-4FB7-8D3A-DDA33CCB2DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BC4AA9-B3F1-4FB7-8D3A-DDA33CCB2DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1960D02E-FEA7-4A91-A9DC-F4AD157F8EE4}
+	EndGlobalSection
+EndGlobal

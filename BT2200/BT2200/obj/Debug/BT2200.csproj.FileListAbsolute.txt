@@ -1,0 +1,7 @@
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\BT2200\BT2200\bin\Debug\BT2200.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\BT2200\BT2200\bin\Debug\BT2200.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\BT2200\BT2200\obj\Debug\BT2200.csproj.AssemblyReference.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\BT2200\BT2200\obj\Debug\BT2200.csproj.CoreCompileInputs.cache
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\BT2200\BT2200\obj\Debug\BT2200.dll
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\BT2200\BT2200\obj\Debug\BT2200.pdb
+C:\Users\ch200001\source\repos\MerryTest\Z_AllDll\BT2200\BT2200\bin\Debug\BT2200.xml
